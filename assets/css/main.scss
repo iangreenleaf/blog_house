@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.layout--post .page-wrapper {
+  @include breakpoint($large) {
+    display: block;
+    -webkit-box-pack: inherit;
+    -ms-flex-pack: inherit;
+    justify-content: space-between;
+  }
+}
