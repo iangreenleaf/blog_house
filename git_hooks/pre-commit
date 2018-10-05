@@ -1,0 +1,34 @@
+#!/bin/sh
+#
+# An example hook script to verify what is about to be committed.
+# Called by "git commit" with no arguments.  The hook should
+# exit with non-zero status after issuing an appropriate message if
+# it wants to stop the commit.
+#
+# To enable this hook, rename this file to "pre-commit".
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+	against=HEAD
+else
+	# Initial commit: diff against an empty tree object
+	against=$(git hash-object -t tree /dev/null)
+fi
+
+# Redirect output to stderr.
+exec 1>&2
+
+for img in $(git diff --cached --name-only --diff-filter=AM $against '**.jpg'); do
+  echo "Scrubbing EXIF from $img..."
+  exiftool -overwrite_original -preserve -all= -tagsFromFile @ \
+    -ApertureValue -BrightnessValue -CFAPattern -ColorSpace -Contrast \
+    -DateTimeOriginal -DigitalZoomRatio \
+    -ExposureCompensation -ExposureMode -ExposureMode -ExposureProgram -ExposureTime \
+    -FNumber -FileSource -Flash -FocalLength -GainControl -ISO -LensID -LensSpec \
+    -LightSource -Make -MaxApertureValue -MeteringMode -Model -Orientation -Saturation \
+    -SceneCaptureType -SceneType -SensingMethod -SensitivityType -Sharpness \
+    -ShutterSpeedValue -SubSecTime -SubSecTimeDigitized -SubSecTimeOriginal \
+    -SubjectDistanceRange -WhiteBalance \
+    "$img" &&
+    git add "$img"
+done
