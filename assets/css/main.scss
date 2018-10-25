@@ -16,3 +16,17 @@ $accent-color: tomato;
     justify-content: space-between;
   }
 }
+
+.site-footer {
+  .mailchimp-form {
+    margin-bottom: 2rem;
+
+    h2 {
+      margin-bottom: 1rem;
+    }
+
+    .mc-field-group, .submit-form {
+      display: inline-block;
+    }
+  }
+}
