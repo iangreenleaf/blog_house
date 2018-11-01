@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en-US
-title: Youngram House Journal
+title: The Youngram House Journal
 email: ian@iangreenleaf.com
 description: >-
   Chronicling our homeowner journey
