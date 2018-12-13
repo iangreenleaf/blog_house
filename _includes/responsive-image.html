@@ -2,5 +2,14 @@
 {% capture srcset %}
 {% for i in resized %}/{{ i.path }} {{ i.width }}w, {% endfor %}
 {% endcapture %}
-
-<img src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset }} /{{ path }} {{ original.width }}w">
+<figure>
+  <img src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset }} /{{ path }} {{ original.width }}w">
+  {% if caption or credit %}
+    <figcaption>
+      {{ caption }}
+      {% if credit %}
+        <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>
+      {% endif %}
+    </figcaption>
+  {% endif %}
+</figure>

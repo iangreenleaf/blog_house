@@ -8,6 +8,21 @@ sitemap: false
 $accent-color: tomato;
 @import "so-simple";
 
+figure {
+  figcaption {
+    font-style: italic;
+    background: #efefdd;
+    margin: 0;
+    padding: 0.5rem;
+
+    .credit {
+      font-style: normal;
+      opacity: 0.8;
+      margin-left: 0.2rem;
+    }
+  }
+}
+
 .layout--post .page-wrapper {
   @include breakpoint($large) {
     display: block;
