@@ -1,0 +1,40 @@
+---
+layout: post
+title: "What to expect from this blog"
+date:   2018-12-13 11:13:00 -0500
+---
+
+This is as much my personal house journal as it is a public blog.
+I'll try to keep it interesting, but if you're expecting a lot of polish, you're probably in the wrong place.
+In order for this thing to work, I need to keep posting to it.
+The only way that's going to happen is if I establish an achievable bar for myself and the amount of time I have available to me: no masterpieces.
+
+Most photos will be taken in the midst of the project, with whatever camera I have at hand, with a minimum of staging, in whatever lighting conditions are easily available.
+In other words, they won't be perfect.
+If you're expecting the gorgeous visual record of, say, [Project Palermo](https://projectpalermo.com/), you're going to be disappointed.
+
+{% responsive_image path: assets/images/palermo_kitchen_island.jpg, alt: "Project Palermo's beautiful kitchen", caption: "It won't look like this.", credit: "Project Palermo", credit_url: https://projectpalermo.com/bungalow-tour/ %}
+
+We're also practical people, and are focused on making functional changes that improve the house and make it a better fit for our lives.
+In other words, many of our projects are not all that glamorous.
+I lean towards completeness over pizazz, so I intend to write about even the less exciting projects to give a more accurate depiction of what our house project life actually looks like.
+It's not all sledgehammers and shiplap, y'know?
+I'll try to spare you too much boredom, at least, by writing *more* about the interesting stuff and *less* about the boring stuff.
+
+We are also by no means experts in any aspect of home renovation or landscaping.
+I tend to do my research, but that won't always take the place of many years of experience.
+So you won't be getting expert advice here; it'll be more like going through the learning process *with* me.
+And when I make mistakes, I'll talk about those too.
+
+## The 💰💰💰 question ##
+
+Writing about money, especially in the context of home ownership, is always a little uncomfortable.
+I cannot, and probably should not, turn a blind eye to the immense amount of privilege that put us in a position where we can own a nice home in a nice neighborhood in a nice city.
+We're extremely lucky to not only own a home but to have some extra money available to improve it.
+Not everyone is so lucky, and there's no way to embark on this sort of journey without participating in the existing state of economic inequality in this world.
+
+Still, I don't think it does anyone any good to dance around the topic.
+There's a lot to be learned by seeing how much someone else pays for what, so I plan to give you the numbers, in as much detail as I can, for most of our projects.
+Sometimes you'll find we pay surprisingly little.
+Other times we'll pay a lot.
+When we make financial decisions, I'll try to talk about how we reached those decisions and what other options were available to us.
