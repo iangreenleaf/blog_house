@@ -53,11 +53,26 @@ We are not big spenders, and buying a Subaru the year prior had been totally for
 Now all of the sudden we were wiring off $75K for a down payment!
 The wire transfer process, but the way, is an entirely insane way to process house payments.
 The lender very helpfully points out to you that if it goes to the wrong account, they're probably never getting the money back, so MAKE SURE YOU TYPE THE NUMBERS CORRECTLY, HA HA HA.
-Seriously?
+Seriously, people?!
 
 Katherine and I had never carried a notable amount of debt in our lives (see: privilege), so signing off on a 30-year mortgage was frightening as well.
-Even worse is the mortgage disclosure (required by law) that informs you how much you will pay in combined principle and interest if you pay back on schedule.
-😭 about sums it up.
+Even worse is the mortgage disclosure (required by law) that informs you how much you will pay in combined principle and interest if you pay back on schedule
+😭
+
+The most helpful thing we did to prepare on the money side was that we spent a lot of time thinking about buying a house before we bought a house.
+We knew what kind of price ranges were available to us, we knew what sort of down payment and monthly mortgage payments we'd be looking at and what would be comfortable given our existing budget.
+That's not to say we were perfectly prepared; the cost of repairs and maintenance in particular was very hard to get a good prediction for, so we ended up winging it a bit by virtue of having enough cushion of extra cash to absorb a couple unexpected blows.
+I would have been more worried about those costs if our house had many issues that urgently needed fixing.
+Luckily, almost all the unfinished projects in the house were optional improvements, so we felt comfortable that if we couldn't afford some of them, they would simply remain unfinished until we could.
+
+Most good things in life take a combination of good fortune and good choices.
+Good fortune: we have sizable savings and income, and the housing market in Minneapolis is not outrageous like many of the West Coast cities.
+Good choices: we saved carefully and bought a house later in life, and we don't cultivate lavish tastes or reach beyond what we can safely afford.
+Between these two, our planning was good enough and we aren't walking a razor's edge of being able to afford our house.
+This in turn opens the door to future possibilities of what we can achieve when we have extra capital to push around.
+
+Some of our good fortune finds us undeserved.
+Some of it is just good choices, aged a few years.
 
 I'll leave you today with a breakdown of our purchase and moving costs.
 
@@ -66,3 +81,6 @@ I'll leave you today with a breakdown of our purchase and moving costs.
 | Inspection | $800 |
 | Moving costs | $2,000 |
 | Probably a few other miscellaneous costs I don't remember | |
+
+| Down payment (25%) | $75,000 |
+| Monthly mortgage payment (including property taxes) | ~$1,550 |
