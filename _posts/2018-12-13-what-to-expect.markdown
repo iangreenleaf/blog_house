@@ -38,3 +38,31 @@ There's a lot to be learned by seeing how much someone else pays for what, so I 
 Sometimes you'll find we pay surprisingly little.
 Other times we'll pay a lot.
 When we make financial decisions, I'll try to talk about how we reached those decisions and what other options were available to us.
+
+While we're on the subject, we might as well tackle the biggest financial decision of all: the house! Our house cost almost exactly three hundred thousand dollars.
+Well, our final accepted offer was $301K, plus we paid closing costs.
+We beat out a number of other offers and I'm fairly confident that was only as much as we needed to pay to get the place.
+Had we been ready to buy the previous fall when the house sat on the market for a while, we probably could have had it for $289K.
+Still, when I look around at our house and yard, I can't help but feel like we got a steal.
+There's probably a little objective truth to that--the market has only gotten more competitive since then and our house would probably receive more offers and sell for more today.
+Mostly, though, it's a subjective truth.
+The house was a steal *for us* because it fits us so well, because its strengths are the things that are important to us and its weaknesses are things we don't mind.
+
+Buying a house for the first time is **terrifying**.
+We are not big spenders, and buying a Subaru the year prior had been totally foreign ground to us in terms of purchase size.
+Now all of the sudden we were wiring off $75K for a down payment!
+The wire transfer process, but the way, is an entirely insane way to process house payments.
+The lender very helpfully points out to you that if it goes to the wrong account, they're probably never getting the money back, so MAKE SURE YOU TYPE THE NUMBERS CORRECTLY, HA HA HA.
+Seriously?
+
+Katherine and I had never carried a notable amount of debt in our lives (see: privilege), so signing off on a 30-year mortgage was frightening as well.
+Even worse is the mortgage disclosure (required by law) that informs you how much you will pay in combined principle and interest if you pay back on schedule.
+😭 about sums it up.
+
+I'll leave you today with a breakdown of our purchase and moving costs.
+
+| House | $300,000 |
+| Closing costs | $5,000 |
+| Inspection | $800 |
+| Moving costs | $2,000 |
+| Probably a few other miscellaneous costs I don't remember | |
