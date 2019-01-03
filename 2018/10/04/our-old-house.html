@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--
-    So Simple Jekyll Theme 3.1.1
-    Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
     Free for personal and commercial use under the MIT license
     https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 -->
@@ -16,7 +16,7 @@
   
     <title>Our Old House</title>
     <meta name="description" content="In April 2017, we became the proud owners of a beautiful old house in Minneapolis.">
-    <link rel="canonical" href="/2018/10/04/our-old-house.html">
+    <link rel="canonical" href="https://house.youngram.com/2018/10/04/our-old-house.html">
   
 
   <script>
@@ -27,12 +27,11 @@
   </script>
 
   <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/skins/default.css">
   <link rel="alternate" type="application/atom+xml" title="The Youngram House Journal" href="/feed.xml">
-<!-- start custom head snippets -->
-
-<!-- insert favicons. use http://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.14/dist/css/splide.min.css" integrity="sha256-EqzwzekQXKNbB5EE4nNBQT+2gWQIWRZQXAd89YdIq8M=" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.14/dist/js/splide.min.js" integrity="sha256-OxCXgDfO+MJLFQq9Ej7bedtkP2ho7Rduj/MVlRrVp6U=" crossorigin="anonymous"></script>
+<script defer src="/assets/js/application.js"></script>
 
 </head>
 
@@ -53,7 +52,10 @@
   <div class="wrap">
     
     
-      <h1 class="site-title animated fadeIn"><a href="/">The Youngram House Journal</a></h1>
+    
+      
+        <div class="site-title animated fadeIn"><a href="/">The Youngram House Journal</a></div>
+      
       <p class="site-description animated fadeIn" itemprop="description">Chronicling our homeowner journey</p>
     
   </div>
@@ -74,11 +76,16 @@
       </header>
 
       <div class="page-sidebar">
-        <div class="page-author h-card p-author"><div class="author-info">
-    <time class="page-date dt-published" datetime="2018-10-04T18:07:13-05:00"><a class="u-url" href="">October 4, 2018</a>
-</time>
+        <div class="page-dates">
+  
+  
+  <div class="page-date dt-published">
+  Published On:
+  <time datetime="2018-10-04T18:07:13-05:00">
+    October 4, 2018
+  </time>
+</div>
 
-  </div>
 </div>
 
         
@@ -91,7 +98,15 @@
         <div class="e-content">
           <p>In April 2017, we became the proud owners of a beautiful old house in Minneapolis.</p>
 
-<p><img src="/assets/images/resized/house_orig_front-1200.jpg" alt="Photo" srcset=" /assets/images/resized/house_orig_front-480.jpg 480w, /assets/images/resized/house_orig_front-800.jpg 800w, /assets/images/resized/house_orig_front-1200.jpg 1200w,   /assets/images/house_orig_front.jpg 6000w" /></p>
+<div class="single-image">
+
+<figure>
+  <img src="https://house.youngram.com/assets/images/resized/house_orig_front-1200.jpg" alt="Photo" srcset="
+https://house.youngram.com/assets/images/resized/house_orig_front-480.jpg 480w, https://house.youngram.com/assets/images/resized/house_orig_front-800.jpg 800w, https://house.youngram.com/assets/images/resized/house_orig_front-1200.jpg 1200w, 
+ https://house.youngram.com/assets/images/house_orig_front.jpg 6000w" />
+  
+</figure>
+</div>
 
 <p>The way I see it, we didn’t so much find the house as the house found us.</p>
 
@@ -121,7 +136,15 @@ Love hits when it hits.</p>
 
 <p>Nothing about this was the house-hunting process I imagined we would have, but I don’t regret a thing.</p>
 
-<p><img src="/assets/images/resized/house_sold_sign-1200.jpg" alt="Photo" srcset=" /assets/images/resized/house_sold_sign-480.jpg 480w, /assets/images/resized/house_sold_sign-800.jpg 800w, /assets/images/resized/house_sold_sign-1200.jpg 1200w,   /assets/images/house_sold_sign.jpg 4032w" /></p>
+<div class="single-image">
+
+<figure>
+  <img src="https://house.youngram.com/assets/images/resized/house_sold_sign-1200.jpg" alt="Photo" srcset="
+https://house.youngram.com/assets/images/resized/house_sold_sign-480.jpg 480w, https://house.youngram.com/assets/images/resized/house_sold_sign-800.jpg 800w, https://house.youngram.com/assets/images/resized/house_sold_sign-1200.jpg 1200w, 
+ https://house.youngram.com/assets/images/house_sold_sign.jpg 4032w" />
+  
+</figure>
+</div>
 
 <p>I’ll cover the house more in a future post, but for now I’ll leave it there.
 Like a birth story, but for our house, and no placentas involved.</p>
@@ -135,6 +158,14 @@ Like a birth story, but for our house, and no placentas involved.</p>
         <nav class="page-pagination" role="navigation">
   
 
+  
+    <a class="page-next" href="/2018/12/13/what-to-expect.html">
+      <h4 class="page-pagination-label">Next</h4>
+      <span class="page-pagination-title">
+        What to expect from this blog
+ <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
   
 </nav>
 
@@ -165,7 +196,7 @@ Like a birth story, but for our house, and no placentas involved.</p>
 
 <div class="copyright">
     
-      <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Youngram House Journal</span> © <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ian Young</span>, released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA License</a></p>
+      <p><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Youngram House Journal</span> 🏡 All content ©<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ian Young</span> unless otherwise noted. Released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA License</a>.</p>
 
     
   </div>

@@ -1,8 +1,0 @@
-#!/bin/bash
-
-git add -f _site
-TREE_OBJ=$(git write-tree --prefix=_site)
-git reset -- _site
-COMMIT=$(git commit-tree -p gh-pages -m "Automated commit from build" $TREE_OBJ)
-git update-ref refs/heads/gh-pages $COMMIT
-git push origin gh-pages
