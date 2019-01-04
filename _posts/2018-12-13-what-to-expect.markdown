@@ -76,11 +76,10 @@ Some of it is just good choices, aged a few years.
 
 I'll leave you today with a breakdown of our purchase and moving costs.
 
-| House | $300,000 |
-| Closing costs | $5,000 |
-| Inspection | $800 |
+| House | $301,000 |
+| :--- | ---: |
+| Down payment (25%) | $75,250 |
+| Closing costs | $7,000 |
+| Inspection | ~$800 |
 | Moving costs | $2,000 |
-| Probably a few other miscellaneous costs I don't remember | |
-
-| Down payment (25%) | $75,000 |
-| Monthly mortgage payment (including property taxes) | ~$1,550 |
+| Monthly mortgage payment (including property taxes) | ~$1,500 |
