@@ -81,5 +81,5 @@ I'll leave you today with a breakdown of our purchase and moving costs.
 | Down payment (25%) | $75,250 |
 | Closing costs | $7,000 |
 | Inspection | ~$800 |
-| Moving costs | $2,000 |
+| Moving costs | ~$350 |
 | Monthly mortgage payment (including property taxes) | ~$1,500 |
