@@ -20,6 +20,7 @@ gem "jekyll-theme-so-simple"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-responsive-image"
+  gem 'jekyll-compose'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
