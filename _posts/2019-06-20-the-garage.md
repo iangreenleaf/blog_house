@@ -205,11 +205,11 @@ We're hoping that's a few decades out still, but who knows.
 Until then, it's certainly not a perfect space but it's good enough, and I'm happy that we've made it functional for our lives with only a very small investment of money.
 
 The sides of the entrance had a bunch of random auto parts stickers.
-I scraped all of them off with a putty knife except for this Budweiser one, which I think I'll leave.
+I scraped all of them off with a putty knife except for this Pabst one, which I think I'll leave.
 
-{% responsive_image path: assets/images/the-garage/budweiser.jpg, alt: "An old Budweiser sticker" %}
+{% responsive_image path: assets/images/the-garage/pbr.jpg, alt: "An old Budweiser sticker" %}
 
-Not that I actually like Budweiser (gustatorily *or* ideologically), but I like that it is legitimately vintage at this point, and it serves as a very small reminder of what this garage has seen, and of the weird chain-smoker who loved it.
+Not that I actually like PBR (gustatorily *or* ideologically), but I like that it is legitimately vintage at this point, and it serves as a very small reminder of what this garage has seen, and of the weird chain-smoker who loved it.
 
 ## Time and Materials ##
 
