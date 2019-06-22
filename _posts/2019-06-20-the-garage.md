@@ -6,7 +6,7 @@ date: 2019-06-20 09:57 -0500
 We'll start this blog with the first true project we tackled after moving in: the garage.
 This was an obvious place for us to start because it felt like a very doable entry point, and because it was pretty urgent. Why? Let's review.
 
-{% responsive_image path: assets/images/the-garage/exterior-view.jpg alt: Photo of the garage exterior %}
+{% responsive_image path: assets/images/the-garage/exterior-view.jpg alt: "Photo of the garage exterior" %}
 
 The garage is... not in great shape.
 It's as old as the house and not built with the same sort of care as the house.
