@@ -2,6 +2,7 @@
 layout: post
 title:  "Our Old House"
 date:   2018-10-04 18:07:13 -0500
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 
 In April 2017, we became the proud owners of a beautiful old house in Minneapolis.

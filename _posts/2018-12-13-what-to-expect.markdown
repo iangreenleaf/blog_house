@@ -2,6 +2,7 @@
 layout: post
 title: "What to expect from this blog"
 date:   2018-12-13 11:13:00 -0500
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 
 This is as much my personal house journal as it is a public blog.
