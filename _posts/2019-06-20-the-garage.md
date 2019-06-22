@@ -2,6 +2,7 @@
 layout: post
 title: The Garage
 date: 2019-06-20 09:57 -0500
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 We'll start this blog with the first true project we tackled after moving in: the garage.
 This was an obvious place for us to start because it felt like a very doable entry point, and because it was pretty urgent. Why? Let's review.
