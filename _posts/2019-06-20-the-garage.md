@@ -211,7 +211,7 @@ I scraped all of them off with a putty knife except for this Pabst one, which I 
 
 Not that I actually like PBR (gustatorily *or* ideologically), but I like that it is legitimately vintage at this point, and it serves as a very small reminder of what this garage has seen, and of the weird chain-smoker who loved it.
 
-## Time and Materials ##
+## Time & Materials ##
 
 | Crowbar | ~$15 |
 | Dust masks | ~$5 |
