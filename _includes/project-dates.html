@@ -1,0 +1,18 @@
+<span class="project-dates page-date">
+  {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+  {%- assign start_date = page.project_start | date: date_format -%}
+  {%- assign end_date = page.project_end | date: date_format -%}
+  {%- if start_date == end_date -%}
+    Project Date:
+    <time datetime="{{ page.start_date | date_to_xmlschema }}">
+      {{ start_date | date: date_format }}</a>
+    </time>
+  {%- else -%}
+    Project Dates:
+    <time datetime="{{ page.start_date | date_to_xmlschema }}">
+      {{ start_date | date: date_format }}</a>
+    </time>–<time datetime="{{ page.end_date | date_to_xmlschema }}">
+      {{ end_date | date: date_format }}</a>
+    </time>
+  {%- endif -%}
+</span>
