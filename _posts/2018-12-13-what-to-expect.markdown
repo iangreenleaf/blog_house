@@ -54,7 +54,6 @@ We are not big spenders, and buying a Subaru the year prior had been totally for
 Now all of the sudden we were wiring off $75K for a down payment!
 The wire transfer process, but the way, is an entirely insane way to process house payments.
 The lender very helpfully points out to you that if it goes to the wrong account, they're probably never getting the money back, so MAKE SURE YOU TYPE THE NUMBERS CORRECTLY, HA HA HA.
-Seriously, people?!
 
 Katherine and I had never carried a notable amount of debt in our lives (see: privilege), so signing off on a 30-year mortgage was frightening as well.
 Even worse is the mortgage disclosure (required by law) that informs you how much you will pay in combined principle and interest if you pay back on schedule
