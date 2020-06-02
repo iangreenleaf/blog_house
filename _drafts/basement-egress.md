@@ -1,0 +1,44 @@
+---
+layout: post
+title: Basement Egress
+---
+
+The basement was mostly finished when we bought the house.
+It still needs drywall and ceiling and a few other finishing touches, but it was already waterproofed, insulated, and had a new cement floor with in-floor hydronic heat.
+Time will tell if we actually take advantage of it being finished or continue to use it as a basement, like we're doing now.
+
+If we ever do use it as a finished space, the final important component is an egress window.
+This would allow us to have a legal bedroom down there, which is what would give the biggest boost to our [property values or whatever]{% post_url resale-value %}.
+Beyond looking good on paper, an egress window provides straightforward functional benefits.
+It brings a lot more light into the space and makes it feel more like a room and less like a dark basement.
+It also gives you a way to escape in case of fire, which is sort of the whole point.
+
+In terms of immediate impact on our life, an egress window wasn't at the top of the priority list.
+However, we knew that given the nature of the project we'd make it easier on ourselves if we got it done soon.
+Bringing digging machinery into the yard would become more difficult once we had a full fence, and the work itself would be likely to damage any landscaping around the site.
+Since a fence and major landscaping were both in the cards for the coming year, it seemed prudent to get our hardscaping out of the way while it was still simple.
+
+There were two candidate windows along the north wall of the basement.
+They are both framed out as if the original intent was to convert them to egress windows.
+We thought about doing both, but that would have doubled the cost and not doubled the benefits.
+A single egress window seemed like the best balance for our needs.
+One of the windows was situated in a more likely spot for a future bedroom, plus it was a simpler section of wall (the other window sits in a bump-out where the first floor bay window follows down into the foundation), so it got the nod.
+
+I got a couple quotes but didn't look very hard because [Egress Window Guy](http://www.egresswindowguy.com/) seemed like an easy choice.
+They get a lot of good reviews on Nextdoor and Angie's List.
+They specialize in this one thing so the whole planning and quoting process is very streamlined.
+Their prices are reasonable, and better yet, they have a standardized price sheet for all their options so I was able to get a very straightforward apples-to-apples comparison on the cost differences between the various grades of window and the different window well materials.
+
+I don't remember the details of the window options but we got an Anderson 400 Series, I believe because it was a step up from the basic option and my research suggested it would do an acceptable job.
+We splashed out for the more spendy timber lining instead of a basic galvanized metal sheet.
+I'm very glad we did, even though it raised the price considerably.
+A window with a galvanized well would be _fine_ and would do the job adequately, but I don't think it would actually make the room better.
+The timber well is attractive enough that the window becomes an asset and really adds to the ambiance of the room.
+It's also much more attractive from the outside.
+Galvanized wells are always a little funky and tend to feel like something you want to hide, while this one serves as a feature in the landscape.
+
+
+
+Base price: $1,620
+Upgrade to timber well: $630
+Permit: $75
