@@ -27,7 +27,9 @@ One of the windows was situated in a more likely spot for a future bedroom, plus
 I got a couple quotes but didn't look very hard because [Egress Window Guy](http://www.egresswindowguy.com/) seemed like an easy choice.
 They get a lot of good reviews on Nextdoor and Angie's List.
 They specialize in this one thing so the whole planning and quoting process is very streamlined.
-Their prices are reasonable, and better yet, they have a standardized price sheet for all their options so I was able to get a very straightforward apples-to-apples comparison on the cost differences between the various grades of window and the different window well materials.
+Their prices are reasonable, and better yet, they have a standardized price sheet for all their options so I was able to get a very straightforward apples-to-apples comparison on the cost differences between various options.
+Also, they offer a discount if you obtain an online quote by filling out a questionnaire and send photos so they can save a site visit.
+My kind of people!
 
 I don't remember the details of the window options but we got an Anderson 400 Series, I believe because it was a step up from the basic option and my research suggested it would do an acceptable job.
 We splashed out for the more spendy timber lining instead of a basic galvanized metal sheet.
@@ -61,6 +63,11 @@ The mini-excavator left some tracks driving in, and the path used by the poor wh
 If I already had nice landscaping in the area they were working, I would have been pretty stressed out by this project.
 As it was, the whole area was just crappy grass that was due to be torn up and converted shortly anyhow, so I didn't mind at all.
 
+We didn't pay extra to have the dirt disposed of, so we were left with a small mountain on our back patio.
+We did eventually relocate it all to other places around the yard, but it took us most of a year to slowly chip away at it.
+I had planned to use a lot of it to regrade a section of the yard near the foundation, but that turned out to not need as much dirt as I had expected.
+The clay subsoil was the hardest thing to use up, as it was heavy enough to not really perform well in planting beds.
+That eventually led to the creation of my [great ephemeral masterpiece](), so I guess I just needed to take the whole journey to reach the destination.
 
 
 
