@@ -8,7 +8,7 @@ It still needs drywall and ceiling and a few other finishing touches, but it was
 Time will tell if we actually take advantage of it being finished or continue to use it as a basement, like we're doing now.
 
 To ready it for use as a finished space, the final important component was an egress window.
-This would allow us to have a legal bedroom down there, which is what would give the biggest boost to our [property values or whatever]{% post_url resale-value %}.
+This would allow us to have a legal bedroom down there, which is what would give the biggest boost to our property values or whatever{% comment %} post_url resale-value {% endcomment %}.
 Beyond looking good on paper, an egress window provides straightforward functional benefits.
 It brings a lot more light into the space and makes it feel more like a room and less like a dark basement.
 It also gives you a way to escape in case of fire, which is sort of the whole point.
@@ -67,7 +67,7 @@ We didn't pay extra to have the dirt disposed of, so we were left with a small m
 We did eventually relocate it all to other places around the yard, but it took us most of a year to slowly chip away at it.
 I had planned to use a lot of it to regrade a section of the yard near the foundation, but that turned out to not need as much dirt as I had expected.
 The clay subsoil was the hardest thing to use up, as it was heavy enough to not really perform well in planting beds.
-That eventually led to the creation of my [great ephemeral masterpiece](), so I guess I just needed to take the whole journey to reach the destination.
+That eventually led to the creation of my great ephemeral masterpiece{% comment %} post_url the-mud-head {% endcomment %}, so I guess I just needed to take the whole journey to reach the destination.
 
 
 
