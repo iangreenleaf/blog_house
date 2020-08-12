@@ -20,7 +20,7 @@ description: >-
   Chronicling our homeowner journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://house.youngram.com"
-permalink: pretty
+permalink: none
 copyright: '<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Youngram House Journal</span> 🏡 All content ©<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ian Young</span> unless otherwise noted. Released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA License</a>.'
 
 # Build settings
