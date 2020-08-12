@@ -95,3 +95,11 @@ If it's as durable as promised, I should have decades before it needs any attent
 Finishing your chimney: would recommend.
 
 {% responsive_image path: assets/images/the-chimney/fireplace.jpg alt: "Photo of a fire in the fireplace" %}
+
+## Time & Materials ##
+
+| Materials: Lath, weep, masonry, sakcrete, thin brick | $1560 |
+| Labor: Scaffolding | $250 |
+| Labor: Installation | $1700 |
+| Equipment & truck | $300 |
+| Permit | $200 |
