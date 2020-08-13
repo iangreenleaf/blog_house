@@ -83,7 +83,7 @@ The egress window had to wait until there wasn't feet of snow on the ground, and
 
 Once the weather cleared, the crew wrapped up the rest of the work pretty quickly.
 
-{% responsive_image path: assets/images/the-chimney/chimney-bottom.jpg alt: "Photo of the finished chimney" %}
+{% responsive_image path: assets/images/the-chimney/chimney-bottom.jpg alt: "Photo of the finished chimney", caption: 'There are more <a href="https://www.hebronbrick.com/products/thin-brick/">color options</a> than you might expect. We went with "Bell Tower", or as I like to call it, "Brick".' %}
 {% responsive_image path: assets/images/the-chimney/chimney-top.jpg alt: "Photo of the finished chimney", caption: "View from the attic window" %}
 {% responsive_image path: assets/images/the-chimney/house-finished.jpg alt: "Photo of the house with finished chimney" %}
 
