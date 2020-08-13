@@ -17,6 +17,10 @@ Runs on Jekyll and hacks.
 
     jekyll serve -D
 
+### Do it live! ###
+
+    make publish
+
 ### Installing rmagick on Arch ###
 
     pacman -S libmagick6
