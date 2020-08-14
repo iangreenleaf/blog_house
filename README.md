@@ -15,7 +15,7 @@ Runs on Jekyll and hacks.
 
 ### Local preview ###
 
-    jekyll serve -DI
+    make serve
 
 ### Do it live! ###
 
