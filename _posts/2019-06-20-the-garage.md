@@ -214,16 +214,22 @@ Not that I actually like PBR (gustatorily *or* ideologically), but I like that i
 
 ## Time & Materials ##
 
-| Crowbar | ~$15 |
-| Dust masks | ~$5 |
-| Security door | ~$110 |
-| Doorknob and lock kit | ~$40 |
-| Pegboard and accessories | ~$20 |
-| Bike hoist | owned |
-| Storage shelves (2) | ~$120 |
-| Tool rack | $18 |
-| Nifty hooks | ~$20 |
-|||
-| Demo | ~15 hours |
-| Door install | ~15 hours |
-| Organization | several lifetimes |
+{% summary time %}
+{% line_item Demo | ~15 hours %}
+{% line_item Door install | ~15 hours %}
+{% line_item Organization | several lifetimes %}
+{% total ~30 hours %}
+{% endsummary %}
+
+{% summary cost %}
+{% line_item Crowbar | ~$15 %}
+{% line_item Dust masks | ~$5 %}
+{% line_item Security door | $110 %}
+{% line_item Doorknob and lock kit | ~$40 %}
+{% line_item Pegboard and accessories | ~$20 %}
+{% line_item Bike hoist | owned %}
+{% line_item Storage shelves (2) | ~$120 %}
+{% line_item Tool rack | $18 %}
+{% line_item Nifty hooks | ~$20 %}
+{% total ~$350 %}
+{% endsummary %}

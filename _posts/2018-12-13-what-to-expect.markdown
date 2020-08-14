@@ -76,10 +76,11 @@ Some of it is just good choices, aged a few years.
 
 I'll leave you today with a breakdown of our purchase and moving costs.
 
-| House | $301,000 |
-| :--- | ---: |
-| Down payment (25%) | $75,250 |
-| Closing costs | $7,000 |
-| Inspection | ~$800 |
-| Moving costs | ~$350 |
-| Monthly mortgage payment (including property taxes) | ~$1,500 |
+{% summary cost %}
+{% line_item House | $301,000 %}
+{% line_item Monthly mortgage payment (including property taxes) | ~$1,500 %}
+{% line_item Down payment (25%) | $75,250 %}
+{% line_item Closing costs | $7,000 %}
+{% line_item Inspection | ~$800 %}
+{% line_item Moving costs | ~$350 %}
+{% endsummary %}

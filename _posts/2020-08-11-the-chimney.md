@@ -98,8 +98,12 @@ Finishing your chimney: would recommend.
 
 ## Time & Materials ##
 
-| Materials: Lath, weep, masonry, sakcrete, thin brick | $1560 |
-| Labor: Scaffolding | $250 |
-| Labor: Installation | $1700 |
-| Equipment & truck | $300 |
-| Permit | $200 |
+{% summary cost %}
+{% subtotal_heading Contractor Expenses %}
+{% line_item Materials: Lath, weep, masonry, sakcrete, thin brick | $1,560 %}
+{% line_item Labor: Scaffolding | $250 %}
+{% line_item Labor: Installation | $1,700 %}
+{% line_item Equipment & truck | $300 %}
+{% line_item Permit | $200 %}
+{% total $4,010 %}
+{% endsummary %}
