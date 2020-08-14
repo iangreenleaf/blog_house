@@ -32,14 +32,33 @@ figure {
 }
 
 table.summary {
-  &.cost {
-    td.amount {
-      text-align: right;
-    }
+  td.amount {
+    text-align: right;
+  }
+
+  tr.subtotal-heading {
+    color: #777;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  tr.total {
+    font-weight: bold;
+    font-style: italic;
   }
 
   tr:last-child td {
     border-bottom: none;
+  }
+
+  caption {
+    text-align: left;
+    font-style: italic;
+    margin: 0.4rem 0;
+
+    h3 {
+      margin-bottom: 0;
+    }
   }
 }
 
