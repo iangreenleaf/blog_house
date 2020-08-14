@@ -31,6 +31,18 @@ figure {
   }
 }
 
+table.summary {
+  &.cost {
+    td.amount {
+      text-align: right;
+    }
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+}
+
 .layout--post .page-wrapper {
   @include breakpoint($large) {
     display: block;
