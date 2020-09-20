@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Basement Egress
+project_start: TODO
+project_end: TODO
 ---
 
 The basement was mostly finished when we bought the house.
@@ -41,36 +43,41 @@ Galvanized wells are always a little funky and tend to feel like something you w
 
 Most of the effort that goes into an egress window isn't the window itself, it's digging a big old hole in the ground for the egress.
 It was a two person operation: they brought in a mini-excavator and two wheelbarrows and one person operated the scoop while the other basically ran back and forth carrying loads of dirt to the area I had designated.
-He'd run one wheelbarrow to the dirt pile while the other one was being filled, then run it back and swap for the full one.
-That guy must sleep well at night.
+He'd run one wheelbarrow to the dirt pile while the other one was being filled, then run it back, swap for the full one, and start again.
+That guy must sleep soundly at night.
 
 Having a six-foot hole dug in your yard is a good opportunity to learn about the soil profile.
-Once I indicated interest, the guy doing the digging helpfully told me about what he had noticed.
+Once I showed interest, the guy doing the digging helpfully told me about what he had noticed.
 Apparently we have a couple feet of good topsoil, then a heavy clay layer, then underneath that is fairly sandy subsoil.
 Weird, but not too bad.
 This was timely information as well, since I was very shortly installing a rain garden in the same side of the lawn.
-In the end we get good enough drainage through the clay layer that I haven't needed to do anything special, but if our rain garden wasn't draining well, I would have considered trying to dig or punch holes through the clay, knowing that there was well-draining sand underneath.
+In the end we get good enough drainage through the clay layer that I haven't needed to do anything special, but if our rain garden wasn't draining quickly, I would have considered trying to dig or punch holes through the clay, knowing that there was well-draining sand underneath.
 
 Once the hole was dug, it was just a matter of sawing through the concrete block foundation and installing a window opening.
 I was busy with other stuff so I didn't pay a lot of attention to this part, but they moved pretty fast.
-The whole thing took about two thirds of a workday.
+The whole thing took about two thirds of a work day.
 The crew was prompt and polite and easy to work with, and the finished product looks very nice and should hold up for a long time.
 
 I was glad we made the decision to do this piece early, because it was somewhat disruptive to the site, as expected.
 The crew was very respectful and did their best not to mess up the surrounding area, but digging a big hole is always going to create a bit of havoc.
 It didn't help that the ground still had melting snow on it (thanks, April of Endless Winter).
-The mini-excavator left some tracks driving in, and the path used by the poor wheelbarrow shuttle-man got pretty trampled and compacted.
+The mini-excavator left some tracks driving in, and the path used by the beleaguered wheelbarrow shuttle-man got pretty trampled and compacted.
 If I already had nice landscaping in the area they were working, I would have been pretty stressed out by this project.
 As it was, the whole area was just crappy grass that was due to be torn up and converted shortly anyhow, so I didn't mind at all.
 
 We didn't pay extra to have the dirt disposed of, so we were left with a small mountain on our back patio.
+A lesson I've learned a couple times now: you're always going to generate way more dirt than you think you will when you start digging.
 We did eventually relocate it all to other places around the yard, but it took us most of a year to slowly chip away at it.
 I had planned to use a lot of it to regrade a section of the yard near the foundation, but that turned out to not need as much dirt as I had expected.
 The clay subsoil was the hardest thing to use up, as it was heavy enough to not really perform well in planting beds.
-That eventually led to the creation of my great ephemeral masterpiece{% comment %} post_url the-mud-head {% endcomment %}, so I guess I just needed to take the whole journey to reach the destination.
+That eventually led to the creation of [my great ephemeral masterpiece]({% comment %} post_url the-mud-head {% endcomment %}, so I guess I just needed to take the whole journey to reach the destination.
 
+## Time & Materials ##
 
-
-Base price: $1,620
-Upgrade to timber well: $630
-Permit: $75
+{% summary cost %}
+{% subtotal_heading Contractor Expenses %}
+{% line_item Base price (materials & labor) | $1,620 %}
+{% line_item Upgrade to timber well | $630 %}
+{% line_item Permit | $75 %}
+{% total $2,325 %}
+{% endsummary %}
