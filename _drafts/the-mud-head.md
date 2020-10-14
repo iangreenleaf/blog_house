@@ -3,7 +3,7 @@ layout: post
 title: The Mud Head
 ---
 
-Linkbacks: basement-egress
+The [basement egress window installation] left us with a giant pile of dirt
 
 ## Time & Materials ##
 
