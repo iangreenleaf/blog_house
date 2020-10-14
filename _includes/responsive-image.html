@@ -2,10 +2,10 @@
 {% capture srcset %}
 {% for i in resized %}{{ site.url }}/{{ i.path }} {{ i.width }}w, {% endfor %}
 {% endcapture %}
-<figure>
+<figure data-src="{{ site.url }}/{{ largest.path }}" data-srcset="{{ srcset }} {{ site.url }}/{{ path }} {{ original.width }}w" data-sizes="(min-width: 40em) 80vw, 100vw" data-sub-html=".caption">
   <img src="{{ site.url }}/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset }} {{ site.url }}/{{ path }} {{ original.width }}w">
   {% if caption or credit %}
-    <figcaption>
+    <figcaption class="caption">
       {{ caption }}
       {% if credit %}
         <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>

@@ -8,26 +8,68 @@ sitemap: false
 $accent-color: tomato;
 @import "so-simple";
 
-figure {
+.single-image, .gallery {
   background: #e9e7e5;
+  margin: 1rem 0 1.5rem;
 
-  figcaption {
-    background: #e3e2e0;
-    font-style: italic;
+  figure {
     margin: 0;
-    padding: 0.5rem;
 
-    .credit {
-      font-style: normal;
-      opacity: 0.8;
-      margin-left: 0.2rem;
+    figcaption {
+      background: #e3e2e0;
+      font-style: italic;
+      margin: 0;
+      padding: 0.5rem;
+
+      .credit {
+        font-style: normal;
+        opacity: 0.8;
+        margin-left: 0.2rem;
+      }
+    }
+
+    img {
+      max-height: 100vh;
+    }
+  }
+}
+
+.single-image {
+  figure {
+    display: block;
+    margin: auto;
+  }
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+
+  .gallery-image {
+    margin-right: 2rem;
+    flex: 0 0 auto;
+
+    &:first-child {
+      max-width: 90%;
     }
   }
 
-  img {
-    max-height: 70vh;
-    display: block;
-    margin: auto;
+  .gallery-image + .gallery-image {
+    position: relative;
+
+    .wrapper {
+      height: 100%;
+      position: absolute;
+    }
+
+    figure {
+      height: 100%;
+      img {
+        max-width: none;
+        max-height: 100%;
+      }
+    }
   }
 }
 
