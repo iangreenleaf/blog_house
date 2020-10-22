@@ -7,14 +7,23 @@ module Jekyll
 
   class GalleryImageTag < Jekyll::ResponsiveImage::Tag
     def render(context)
-      "<div class='gallery-image'><div class='wrapper'>#{super}</div></div>"
+      idx = context['gallery_idx']
+      context.push('gallery_idx' => idx + 1)
+      tag = "<div class='gallery-image'><div class='wrapper'>#{super}</div></div>"
+      if idx > 1
+        "<noscript>#{tag}</noscript>"
+      else
+        tag
+      end
     end
   end
 
   class GalleryTagBlock < Liquid::Block
     def render(context)
       @caption = unless @title.nil? then "<caption class='title'><h3>#{@title}</h3></caption>" end
-      "<div class='gallery lightgallery'>#{super}</div>"
+      context.stack('gallery_idx' => 0) do
+        "<div class='gallery lightgallery'>#{super(context)}</div>"
+      end
     end
   end
 end
