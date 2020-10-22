@@ -6,5 +6,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
       hideBarsDelay: 1500,
       subHtmlSelectorRelative: true
     })
+
+    el.className += " lightgallery-loaded"
   })
 })
