@@ -8,15 +8,18 @@ sitemap: false
 $accent-color: tomato;
 @import "so-simple";
 
+$gallery-background: #e9e7e5;
+$gallery-caption: #e3e2e0;
+
 .single-image, .gallery {
-  background: #e9e7e5;
+  background: $gallery-background;
   margin: 1rem 0 1.5rem;
 
   figure {
     margin: 0;
 
     figcaption {
-      background: #e3e2e0;
+      background: $gallery-caption;
       font-style: italic;
       margin: 0;
       padding: 0 0.5rem;
@@ -95,7 +98,7 @@ $accent-color: tomato;
         transform: translateY(-50%);
         width: 3rem;
         font-size: 22px;
-        background: #e9e7e5;
+        background: $gallery-background;
         padding: 1.5rem 0;
         text-align: center;
         opacity: 0.8;
