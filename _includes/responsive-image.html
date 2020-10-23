@@ -7,9 +7,11 @@
   <img src="{{ site.url }}/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset }} {{ site.url }}/{{ path }} {{ original.width }}w">
   {% if noscript %}</noscript>{% endif %}
   <figcaption class="caption">
-    {{ caption }}
-    {% if credit %}
-      <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>
-    {% endif %}
+    <p>
+      {{ caption }}
+      {% if credit %}
+        <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>
+      {% endif %}
+    </p>
   </figcaption>
 </figure>
