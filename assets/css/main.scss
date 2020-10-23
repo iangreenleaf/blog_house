@@ -104,6 +104,16 @@ $accent-color: tomato;
   }
 }
 
+// lightgallery modal
+.lg {
+  a {
+    color: white;
+  }
+  a:hover {
+    color: white;
+  }
+}
+
 table.summary {
   td.amount {
     text-align: right;
