@@ -9,12 +9,8 @@ module Jekyll
     def render(context)
       idx = context['gallery_idx']
       context.push('gallery_idx' => idx + 1)
-      tag = "<div class='gallery-image'><div class='wrapper'>#{super}</div></div>"
-      if idx > 1
-        "<noscript>#{tag}</noscript>"
-      else
-        tag
-      end
+      @attributes['noscript'] = idx > 1
+      "<div class='gallery-image'><div class='wrapper'>#{super}</div></div>"
     end
   end
 
