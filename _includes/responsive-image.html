@@ -6,12 +6,10 @@
   {% if noscript %}<noscript>{% endif %}
   <img src="{{ site.url }}/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset }} {{ site.url }}/{{ path }} {{ original.width }}w">
   {% if noscript %}</noscript>{% endif %}
-  {% if caption or credit %}
-    <figcaption class="caption">
-      {{ caption }}
-      {% if credit %}
-        <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>
-      {% endif %}
-    </figcaption>
-  {% endif %}
+  <figcaption class="caption">
+    {{ caption }}
+    {% if credit %}
+      <span class="credit">Photo: <a href="{{credit_url}}">{{credit}}</a></span>
+    {% endif %}
+  </figcaption>
 </figure>
