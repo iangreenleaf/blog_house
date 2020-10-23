@@ -7,7 +7,7 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 
 In April 2017, we became the proud owners of a beautiful old house in Minneapolis.
 
-{% responsive_image path: assets/images/house_orig_front.jpg alt: Photo of our house from the street %}
+{% single_image path: assets/images/house_orig_front.jpg alt: Photo of our house from the street %}
 
 The way I see it, we didn't so much find the house as the house found us.
 
@@ -37,7 +37,7 @@ Love hits when it hits.
 
 Nothing about this was the house-hunting process I imagined we would have, but I don't regret a thing.
 
-{% responsive_image path: assets/images/house_sold_sign.jpg alt: Photo of us with a "Sold" sign in front of the house %}
+{% single_image path: assets/images/house_sold_sign.jpg alt: Photo of us with a "Sold" sign in front of the house %}
 
 I'll cover the house more in a future post, but for now I'll leave it there.
 Like a birth story, but for our house, and no placentas involved.

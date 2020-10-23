@@ -14,7 +14,7 @@ In the moment, though, it meant I had to get creative about what I could scrap t
 Already present was a small corner near the porch that was absolutely packed with hostas, and one small raised bed, oddly nestled against a juniper.
 Not much to work with.
 
-{% responsive_image path: assets/images/the-first-year-garden/rabbit.jpg alt: "A rabbit lying down in an empty raised bed", caption: "This rabbit prefers we leave the bed unused, thanks." %}
+{% single_image path: assets/images/the-first-year-garden/rabbit.jpg alt: "A rabbit lying down in an empty raised bed", caption: "This rabbit prefers we leave the bed unused, thanks." %}
 
 ## The circle garden ##
 
@@ -29,7 +29,7 @@ It was already past planting time, so as soon as it was ready I started putting 
 I had some seeds from previous years, and I bought some starts at the Friends Plant Sale and a couple neighborhood plant sales.
 I also acquired a few plants from neighbors giving away extras, though one of those I would come to regret.
 
-{% responsive_image path: assets/images/the-first-year-garden/circle-garden-early.jpg alt: "The garden planted in early spring" %}
+{% single_image path: assets/images/the-first-year-garden/circle-garden-early.jpg alt: "The garden planted in early spring" %}
 
 Planks salvaged from [the garage]({% post_url 2019-06-20-the-garage %}) formed makeshift paths, and I got a bale of straw from a garden center for mulch.
 

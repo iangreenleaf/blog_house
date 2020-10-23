@@ -14,7 +14,7 @@ Most photos will be taken in the midst of the project, with whatever camera I ha
 In other words, they won't be perfect.
 If you're expecting the gorgeous visual record of, say, [Project Palermo](https://projectpalermo.com/), you're going to be disappointed.
 
-{% responsive_image path: assets/images/palermo_kitchen_island.jpg, alt: "Project Palermo's beautiful kitchen", caption: "It won't look like this.", credit: "Project Palermo", credit_url: https://projectpalermo.com/bungalow-tour/ %}
+{% single_image path: assets/images/palermo_kitchen_island.jpg, alt: "Project Palermo's beautiful kitchen", caption: "It won't look like this.", credit: "Project Palermo", credit_url: https://projectpalermo.com/bungalow-tour/ %}
 
 We're also practical people, and are focused on making functional changes that improve the house and make it a better fit for our lives.
 In other words, many of our projects are not all that glamorous.

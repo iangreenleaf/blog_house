@@ -11,7 +11,7 @@ One of the many partially-completed projects we inherited when we bought the hou
 The previous owners had installed a nice new fireplace and judging by the soot buildup, they had enjoyed it frequently.
 One problem: they never finished the chimney.
 
-{% responsive_image path: assets/images/the-chimney/inspection.png alt: "Page of the inspection report detailing issues with chimney", caption: "Shoutout to <a href='https://www.structuretech.com/'>Structure Tech</a> for their great inspection work." %}
+{% single_image path: assets/images/the-chimney/inspection.png alt: "Page of the inspection report detailing issues with chimney", caption: "Shoutout to <a href='https://www.structuretech.com/'>Structure Tech</a> for their great inspection work." %}
 
 This being a fancy new fireplace, the exhaust vents through a double- or triple-walled aluminum stovepipe rather than a traditional opening.
 The actual chimney part is just for structure and looks.
@@ -20,7 +20,7 @@ Only the previous owners never made it to "finished" and just left it at plywood
 
 This looked pretty bad, obviously.
 
-{% responsive_image path: assets/images/the-chimney/before.jpg alt: "Photo of the chimney clad in tar paper" %}
+{% single_image path: assets/images/the-chimney/before.jpg alt: "Photo of the chimney clad in tar paper" %}
 
 It also had functional concerns: the tar paper is a moisture shield but there's no real guarantee that it will be effective if it has to do all the work itself.
 Getting moisture under the tar paper, rotting the plywood and entering the rest of the house seemed like a recipe for a bad time.
@@ -35,7 +35,7 @@ Apparently it's common to put siding on these types of chimneys (because the out
 The chimney is quite tall, presumably because it needs to extend beyond the second floor, and it comes directly out of the roof so it doesn't have any visual connection to the rest of the exterior walls.
 Turning it into a weird pillar of siding seemed like a great way to call attention to how awkward it is.
 
-{% responsive_image path: assets/images/the-chimney/mockup.jpg alt: "A mockup of the chimney with matching siding", caption: "A mockup. See? It's weird." %}
+{% single_image path: assets/images/the-chimney/mockup.jpg alt: "A mockup of the chimney with matching siding", caption: "A mockup. See? It's weird." %}
 
 The previous owners had planned to do river stone to match the fireplace finish, but we are not that into river stone and besides, it wouldn't fit the style of the neighborhood at all.
 Longfellow is a lot of old houses and of those that still have visible chimney elements, it's a split of about 90% red brick and 10% yellow brick.
@@ -66,7 +66,7 @@ Erect scaffolding, check the existing structure and put up metal lathing.
 The tar paper had done an admirable job protecting the structure from the elements, so the crew replaced it but was able to leave the wood structure untouched.
 After an inspector checked it, they'd spend a couple days brick & mortaring and we'd be all done.
 
-{% responsive_image path: assets/images/the-chimney/in-progress.jpg alt: "A worker halfway through laying bricks", caption: "April 12th. This was the last of the work that happened for a while." %}
+{% single_image path: assets/images/the-chimney/in-progress.jpg alt: "A worker halfway through laying bricks", caption: "April 12th. This was the last of the work that happened for a while." %}
 
 Unfortunately, winter decided to perform a Minnesota goodbye that year.
 The poor crew had a snowstorm roll in halfway through the bricklaying, and the temperature dropped enough that they couldn't keep putting up mortar because it wouldn't cure properly.
@@ -74,12 +74,12 @@ So work got suspended for over a week while April refused to act like spring.
 Ryan was very communicative and kept apologizing for the delays, which I appreciated, but it's not like I expected him to be able control the weather.
 These things happen!
 
-{% responsive_image path: assets/images/the-chimney/dog-in-snow.jpg alt: "Photo of Rigby the dog in deep snow", caption: "April 15th, 2018." %}
+{% single_image path: assets/images/the-chimney/dog-in-snow.jpg alt: "Photo of Rigby the dog in deep snow", caption: "April 15th, 2018." %}
 
 These delays would have messed up the scheduling with the other contractors, but the cold was causing delays for everything else too, so it worked out okay.
 The egress window had to wait until there wasn't feet of snow on the ground, and our fence builder couldn't start until the ground thawed, so everything ended up happening in the original order, just several weeks late.
 
-{% responsive_image path: assets/images/the-chimney/dog-at-window.jpg alt: "Photo of Rigby the dog watching snow outside the window with construction scaffolding in the background" %}
+{% single_image path: assets/images/the-chimney/dog-at-window.jpg alt: "Photo of Rigby the dog watching snow outside the window with construction scaffolding in the background" %}
 
 Once the weather cleared, the crew wrapped up the rest of the work pretty quickly.
 
@@ -94,7 +94,7 @@ If it's as durable as promised, I should have decades before it needs any attent
 
 Finishing your chimney: would recommend.
 
-{% responsive_image path: assets/images/the-chimney/fireplace.jpg alt: "Photo of a fire in the fireplace" %}
+{% single_image path: assets/images/the-chimney/fireplace.jpg alt: "Photo of a fire in the fireplace" %}
 
 ## Time & Materials ##
 
