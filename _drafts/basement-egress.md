@@ -34,17 +34,17 @@ Also, they offer a discount if you obtain an online quote by filling out a quest
 My kind of people!
 
 I don't remember the details of the window options but we got an Anderson 400 Series, I believe because it was a step up from the basic option and my research suggested it would do an acceptable job.
-We splashed out for the more spendy timber lining instead of a basic galvanized metal sheet.
+We splashed out for the more spendy timber lining on the well itself instead of a basic galvanized metal sheet.
 I'm very glad we did, even though it raised the price considerably.
 A window with a galvanized well would be _fine_ and would do the job adequately, but I don't think it would actually make the room better.
 The timber well is attractive enough that the window becomes an asset and really adds to the ambiance of the room.
-It's also much more attractive from the outside.
+It's also much prettier from the outside.
 Galvanized wells are always a little funky and tend to feel like something you want to screen, while this one serves as a feature in the landscape.
 
 Most of the effort that goes into an egress window isn't the window itself, it's digging a big old hole in the ground for the egress.
 It was a two person operation: they brought in a mini-excavator and two wheelbarrows and one person operated the scoop while the other basically ran back and forth carrying loads of dirt to the area I had designated.
 He'd run one wheelbarrow to the dirt pile while the other one was being filled, then run it back, swap for the full one, and start again.
-That guy must sleep soundly at night.
+That guy must sleep well at night.
 
 Having a six-foot hole dug in your yard is a good opportunity to learn about the soil profile.
 Once I showed interest, the guy doing the digging helpfully told me about what he had noticed.
@@ -62,13 +62,14 @@ I was glad we made the decision to do this piece early, because it was somewhat 
 The crew was very respectful and did their best not to mess up the surrounding area, but digging a big hole is always going to create a bit of havoc.
 It didn't help that the ground still had melting snow on it (thanks, April of Endless Winter).
 The mini-excavator left some tracks driving in, and the path used by the beleaguered wheelbarrow shuttle-man got pretty trampled and compacted.
-If I already had nice landscaping in the area they were working, I would have been pretty stressed out by this project.
+If I already had nice landscaping in the area they were working, I would have been stressed out by this project.
 As it was, the whole area was just crappy grass that was due to be torn up and converted shortly anyhow, so I didn't mind at all.
 
 We didn't pay extra to have the dirt disposed of, so we were left with a small mountain on our back patio.
-A lesson I've learned a couple times now: you're always going to generate way more dirt than you think you will when you start digging.
+A lesson I've learned a couple times now: you're always going to generate way more dirt than you think.
 We did eventually relocate it all to other places around the yard, but it took us most of a year to slowly chip away at it.
-I had planned to use a lot of it to regrade a section of the yard near the foundation, but that turned out to not need as much dirt as I had expected.
+I had planned to use the dirt to regrade a section of the yard near the foundation, but that didn't make nearly as big a dent as I had expected.
+A lot of it went to leveling out a low spot {% comment %} post_url the-low-spot {% endcomment %} in the back yard, and some more went to slightly raising the profile of the new planting areas I put in along the fence in back.
 The clay subsoil was the hardest thing to use up, as it was heavy enough to not really perform well in planting beds.
 That eventually led to the creation of [my great ephemeral masterpiece]({% comment %} post_url the-mud-head {% endcomment %}, so I guess I just needed to take the whole journey to reach the destination.
 
