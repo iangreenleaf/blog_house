@@ -51,6 +51,7 @@ This meant that when you opened a right inswing door, the top left corner was he
 
 If I got a door all the way installed only to discover that it couldn't open more than a couple inches before crunching into the ceiling, I'd be pretty hosed.
 The corner of the door traces an arc as it opens, so if it gets far enough into the swing it will be pulled further away from the ceiling... but it needs to stay clear of the ceiling far enough for the curve of the arc to balance out the inward angle of the doorway.
+And if you're getting really precise, you have to consider that the pivot point isn't actually the edge of the door, but a point in the hinge, a fraction of an inch behind the face of the door itself.
 The mathematics of the situation seemed effectively impossible to work out, so I did the next best thing: a paper prototype!
 I traced the funny dog-eared door shape onto a big piece of cardboard and cut it out to serve as a placeholder door.
 Then I held this up and tried to keep the "hinge" side fixed in place while swinging it back and forth to simulate opening and closing the door.
@@ -131,7 +132,12 @@ I used some test pieces to experiment with different styles.
 Based on this, I determined that a slight roundover on the vertical edges was all the ornamentation I felt it needed.
 For the narrow angled pieces, I decided to rip them at angles, which should allow the outside edge to meet the adjoining wall rather than leaving a tiny gap.
 Getting the fit right meant a painstaking process for each piece of measuring, calculating angles, ripping a test piece, and adjusting up to several times until the fit was perfect.
-This made the whole process a lot more complicated and slower, but I'm extremely happy with the results.
+
+Just to make the whole thing even harder, I discovered that the drywall above the door has a significant inward bow, which meant the head casing didn't sit flat.
+My options were to cut into the drywall or plane a whole lot of wood off the trim pieces to make them sit properly.
+I opted to cut into the drywall, with guidance from my good friend [Vancouver Carpenter](https://www.youtube.com/watch?v=AQHHfZqRTyE).
+
+All this extra finesse made the whole process a lot more complicated and slower, but I'm extremely happy with the results.
 The trim looks clean and professional, and the custom fit makes the doorway look like it belongs there instead of feeling like something jammed awkwardly into the corner.
 
 Between the jamb and the trim, I spent **a lot** of time on this project.
@@ -153,8 +159,32 @@ The space between the door frame and the stairs is weird and small, so do I put 
 Also, the end of the trim piece on the stairs had never really been finished, just cut flush and left.
 If I wrapped the trim around the corner to meet the door trim, it would solve both problems at once.
 
-TODO
+This meant I needed to try to match the existing trim on the stairs.
+Luckily, I have a father in law who is a woodworker and has lots of leftover bits of wood lying around.
+He had just what I needed, a spare cutoff of 1"x12" red oak.
+I used the table saw to slice a section to length, and then cut another triangular slice that would wrap around the corner at 45°.
+I couldn't do a standard outside miter because the existing trim was cut flush with the wall, and doing it like a butt joint would have left end grain exposed.
+Wrapping it like this solved that problem, plus given the prominent location, I think a square corner might have felt like a bit much.
+This softens it up a bit.
+As with the other trim, the goal here was to not call attention to this, and I feel like I succeeded.
 
+I used the CA glue + activator trick to bond the angled piece to the rest of the trim.
+It was hugely helpful to have that option, as the piece was so small and fiddly that any other option for securing it would have been fraught with peril and/or a huge nuisance.
+
+With that trim in place, I did finally actually install the quarter round on the other side of the door frame.
+What an accomplishment!
+Of course, now that I had done all the work to prepare the frame for a door, I still needed a door.
 
 ## The door ##
 
+Our house helpfully came with some spare doors, mostly those pulled off second-floor closets.
+These were the right width for the bathroom door, so I picked one unlucky door to go under the knife.
+I needed to remove a corner so it would fit in the frame.
+I measured about eight times because I was nervous about screwing this up.
+
+The event itself was over pretty quickly, just some very careful cutting with the circular saw.
+I think I used painters' tape as an extra safeguard against splintering, but the door cut very cleanly and I had measured well.
+
+To tighten up the arc a little more, I also chiseled out a little more of the hinge mortises on the door so it could sit further "in" on the hinge.
+This may have been a mistake, because it turns out there's nothing more difficult than relocating a screw hole by 1/8".
+The screws will be determined to find their way back to the old hole, and standard wood filler isn't strong enough to hold up to that.
