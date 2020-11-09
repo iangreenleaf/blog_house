@@ -17,8 +17,14 @@ $gallery-caption: #e3e2e0;
 
   figure {
     margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
     figcaption {
+      align-self: stretch;
       background: $gallery-caption;
       font-style: italic;
       margin: 0;
@@ -36,85 +42,6 @@ $gallery-caption: #e3e2e0;
     img {
       max-height: 100vh;
     }
-  }
-}
-
-.single-image {
-  figure {
-    display: block;
-    margin: auto;
-  }
-}
-
-.lightgallery-loaded {
-  display: flex;
-  justify-content: center;
-  overflow: hidden;
-  position: relative;
-  cursor: pointer;
-
-  .gallery-image {
-    margin-left: 5%;
-    flex: 0 0 auto;
-
-    figure {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-
-      figcaption {
-        align-self: start;
-      }
-    }
-
-    &:first-child {
-      max-width: 90%;
-    }
-
-    &:nth-child(2) {
-      position: relative;
-      opacity: 0.6;
-
-      &:hover {
-        opacity: 1;
-      }
-
-      .wrapper {
-        height: 100%;
-        position: absolute;
-      }
-
-      figure {
-        height: 100%;
-        img {
-          max-width: none;
-        }
-      }
-
-      figure:after {
-        content: "➔";
-        position: absolute;
-        left: 0;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 3rem;
-        font-size: 22px;
-        background: $gallery-background;
-        padding: 1.5rem 0;
-        text-align: center;
-        opacity: 0.8;
-      }
-    }
-  }
-}
-
-// lightgallery modal
-.lg {
-  a {
-    color: white;
-  }
-  a:hover {
-    color: white;
   }
 }
 
@@ -151,7 +78,7 @@ table.summary {
 
 .layout--post .page-wrapper {
   @include breakpoint($large) {
-    display: block;
+    grid-template-columns: none;
     -webkit-box-pack: inherit;
     -ms-flex-pack: inherit;
     justify-content: space-between;
