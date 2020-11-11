@@ -5,7 +5,7 @@ project_start: 2017-07-18
 project_end: 2017-07-20
 ---
 
-The other half-finished big ticket project that came with the house (besides [the chimney]({% post_url the-chimney %})) was central air conditioning.
+The other half-finished big ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
 The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and heat exchanger, but no units had been installed.
 
 High velocity AC is a special system, manufactured almost exclusively by the Spacepak brand, that uses flexible supply lines that are much smaller than the ducts in your typical central air system.
