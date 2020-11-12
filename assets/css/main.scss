@@ -76,6 +76,11 @@ table.summary {
   }
 }
 
+.embed-container {
+  display: flex;
+  justify-content: center;
+}
+
 // Tweaks for the default theme styling
 
 .layout--post .page-wrapper {
