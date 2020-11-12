@@ -92,13 +92,17 @@ Galvanized wells are always a little funky and tend to feel like something you w
 The wider opening also lets in more light and gives a feeling of expansiveness from inside.
 This part of the basement feels a lot cheerier than it did with the small dim window.
 
+{% single_image path: assets/images/basement-egress/after-inside.jpg alt: "Photo of the new window from inside, without trim" %}
+
 With the window installed, the only thing left for me to do was finish the interior trim, so I got right to work.
 Ha ha!
 Just kidding, it's been three years and I haven't touched it.
 I only took the stickers off the window just now to take this photo.
 When we finish the rest of the basement, we'll finish the window interior.
 Until then, it just isn't a priority.
-It's doing its job fine.
+It's still the best-looking part of the basement.
+
+{% single_image path: assets/images/basement-egress/after-inside-wide.jpg alt: "Photo of the new window surrounded by unfinished basement and shelving", caption: "Shhhh, this is fine." %}
 
 ## Time & Materials ##
 
