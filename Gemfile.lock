@@ -78,6 +78,7 @@ GEM
     rexml (3.2.4)
     rmagick (4.1.2)
     rouge (3.22.0)
+    ruby-oembed (0.14.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -97,6 +98,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-responsive-image
   jekyll-theme-so-simple
+  ruby-oembed
   tzinfo-data
 
 BUNDLED WITH
