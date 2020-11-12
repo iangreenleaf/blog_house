@@ -76,6 +76,8 @@ table.summary {
   }
 }
 
+// Tweaks for the default theme styling
+
 .layout--post .page-wrapper {
   @include breakpoint($large) {
     grid-template-columns: none;
@@ -85,9 +87,15 @@ table.summary {
   }
 }
 
+.page-sidebar {
+  text-align: left;
+}
+
 .dt-published {
   display: none;
 }
+
+// Footer styling
 
 .site-footer {
   .mailchimp-form {
