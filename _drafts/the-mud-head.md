@@ -13,7 +13,7 @@ I slowly redistributed this to other places around the yard as I added garden be
 Hard to work within garden beds, not great for plants, and if left on the surface, prone to drying into useless rock-hard chunks.
 I started separating out this clay soil and setting it aside as I moved all the other stuff, so as I reached the end of the pile I was left with probably about 20 gallons of clay soil with no real purpose.
 
-{% single_image path: assets/images/the-mud-head/dirt-pile-in-progress.jpg alt: "Photo of a pile of heavy clay soil" %}
+{% single_image path: assets/images/the-mud-head/clay.jpg alt: "Photo of a pile of heavy clay soil" %}
 
 As I contemplated what to do with all this clay, one particular idea floated to the top and stayed there.
 In season 2 of the delightful [Big Dreams, Small Spaces](https://www.bbc.co.uk/programmes/b07237wd), Monty Don helps the mildly eccentric Frankie renovate her country cottage garden.
