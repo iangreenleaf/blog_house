@@ -20,7 +20,7 @@ Not much to work with.
 ## The circle garden ##
 
 There was one more feature in the yard that could have been a problem but instead I saw as an opportunity.
-The previous residents had kept an enormous above-ground pool in the side yard for years.
+The previous residents had kept an enormous above-ground pool in the side yard for quite a few years.
 The pool was gone when we moved in, but in its place was a large circular patch of totally bare dirt.
 It was a good size for a garden, and planting it with vegetables was going to be a lot more fun than letting the weeds plant it.
 
@@ -148,15 +148,48 @@ The wild and slightly unruly nature of it wouldn't work in every situation (this
 Also, the dog likes to bushwhack through this area for no obvious reason.
 I swear part of the appeal for her is that if she gets into the middle, the plants are thick enough she's completely hidden from sight.
 
+## Whirligig ##
+
+Once a year, Katherine travels to rural Wisconsin to attend a barn dance.
+On her way there, she passes [a garden store](http://cottagegardenfarm.com/) that is known to people in the area for making outstanding whirligigs.
+Seriously.
+You probably thought all whirligigs were about the same quality, but that's just because you've never encountered a truly exemplary whirligig before.
+These ones spin effortlessly and come with a lifetime rebalancing guarantee.
+
+After some discussion, we agreed to invest in a whirligig, so on her next Wisconsin trip Katherine brought one home.
+We didn't have a specific spot in mind for it, but we tried it out in the prairie area and thought it fit in very nicely, so it lives there now.
+The only issue we have is that suicidal figwort plants keep trying to grow directly into the spinning blades and get all chewed up, so we have to keep trimming them back.
+We even moved it to a different spot and somehow a new figwort appeared and dove right into the blades.
+
+Anyhow, it's a great whirligig.
+
 ## Plant List ##
 
 ## Time & Materials ##
 
-| Plants | ~$25 |
-| Straw | $11 |
-| [Cod juice fertilizer](https://www.twomikes.net/) | ~$8 |
-| Chicken wire and t-posts | free |
-|||
-| Prep | ~3 hours |
-| Planting | ~4 hours |
-| Maintenance | ~1 hr/week |
+{% summary cost %}
+{% subtotal_heading Vegetable garden %}
+{% line_item Plants | ~$25 %}
+{% line_item Straw bale | $11 %}
+{% line_item [Cod juice fertilizer](https://www.twomikes.net/) | $8 %}
+{% line_item Chicken wire and t-posts | free %}
+{% line_item Salvaged planks | free %}
+{% subtotal $44 %}
+{% subtotal_heading Native prairie %}
+{% line_item [Pollinator Palooza seed mix](https://www.prairiemoon.com/pollinator-palooza-prairie-seed-mix-prairie-moon-nursery.html) | $29 %}
+{% line_item Whirligig | ~$140 %}
+{% subtotal $170 %}
+{% endsummary %}
+
+{% summary time %}
+{% subtotal_heading Vegetable garden %}
+{% line_item Prep | ~4 hours %}
+{% line_item Planting | ~4 hours %}
+{% line_item Maintenance | ~1 hour per week %}
+{% subtotal_heading Native prairie %}
+{% line_item Seeding | ~1 hour %}
+{% line_item Sunchoke infestation | ~12 hours %}
+{% line_item First year (weeding, mowing) | ~6 hours %}
+{% line_item Second year (weeding) | ~4 hours %}
+{% line_item Third year (weeding) | ~1 hour %}
+{% endsummary %}
