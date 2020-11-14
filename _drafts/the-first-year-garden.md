@@ -7,7 +7,8 @@ I had maintained a small garden at both of the last two places we rented, so now
 However, we closed on the house at the end of April, and were consumed with moving and some of the more pressing move-in issues after that.
 The timeline meant that I wasn't going to have time to do almost any prep work before planting time rolled around.
 
-In a way, this was a blessing in disguise for me, because it forced me to temper my ambitions for the first year, and that gave me a whole growing season to observe and learn about the condition of the land.
+In a way, this was a blessing in disguise for me.
+It forced me to temper my ambitions for the first year, and that gave me a whole growing season to observe and learn about the condition of the land.
 Thus, when I did start making more permanent decisions I did so well-informed.
 In the moment, though, it meant I had to get creative about what I could scrap together.
 
@@ -25,6 +26,10 @@ It was a good size for a garden, and planting it with vegetables was going to be
 
 I did a halfhearted job of double-digging the circle to loosen up the soil.
 In the process I discovered that some sections of the space had about 8" of decent soil before hitting a layer of compacted rocks and rubble—this would be a recurring theme in the yard.
+It quickly became clear that digging into this compacted layer and sifting out the rocks would take far too much time and effort.
+This was a temporary site, not a permanent one, so it didn't need to be perfect.
+I dug down as far as the good soil and left the stuff below it alone.
+
 It was already past planting time, so as soon as it was ready I started putting things in the ground.
 I had some seeds from previous years, and I bought some starts at the Friends Plant Sale and a couple neighborhood plant sales.
 I also acquired a few plants from neighbors giving away extras, though one of those I would come to regret.
@@ -71,9 +76,9 @@ I've since reined in my use of free plants from neighbors, in large part because
 
 The sunchokes grew okay through the season, though they "lodged" (i.e. fell over) after enduring some moderate winds.
 The first disappointment came when I dug them at the end of the season and discovered that they had created almost no edible tubers.
-Their root systems contained a few tubers too tiny to be practical and a ton of rhizomes (long-distance horizontal roots), which sounds like foreshadowing because it was.
+Their root systems contained a few tubers too tiny to be practical and a ton of rhizomes (long-distance horizontal roots), and if that sounds like foreshadowing it's because it is.
 
-The real bad news arrived the following spring, when hundreds of volunteer sunchoke plants appeared all around the circle garden.
+The real bad news arrived the following spring (2018), when hundreds of volunteer sunchoke plants appeared all around the circle garden.
 Not only were there a ton clustered around where I had planted the sunchokes the previous year, but seedlings were also showing up as far as five feet away.
 Turns out all those rhizomes had placed little tubers all over the place, ready to colonize.
 By this time, I had seeded the circle garden with native plants, and while sunchokes are technically a native, I didn't want them to dominate this area like they were clearly prepared to do.
@@ -90,6 +95,58 @@ This strategy did eventually work, but it took a whole summer of frequent attent
 
 Luckily, I didn't let this ordeal put me off of growing sunchokes, and I have since planted some elsewhere that are now one of my favorite and most productive crops.
 You should consider growing sunchokes too, but learn from my mistakes: grow a named cultivar, and situate it somewhere that is easy to control the spread.
+
+## Retirement ##
+
+By the 2018 growing season, I had established a large permanent vegetable garden elsewhere in the yard and no longer needed the circle space for food.
+So now what?
+
+We didn't (and still don't) have a strong vision for this part of the yard.
+It's on the side of our house and visible from the kitchen window, so Katherine wants something pretty to look at while she washes dishes.
+We want a small open area for lounging in the sun, but I had no desire to convert all of it back into grass (I hate grass).
+We could eventually want to use this space for something specific, like a playhouse, a picnic table, a... dog palace?
+Something.
+With the future use a question mark, I didn't want to plant it up with very permanent stuff like fruit trees.
+
+In the end, I decided to take the path of least resistance.
+The grass areas around the circle would remain grass for the moment, and I would plant the circle up with something pretty, rabbit-resistant, and low maintenance.
+A native plant prairie seemed like the perfect choice.
+It would look nice, it wouldn't need much care, and since we weren't using the space for anything else, it would be put to work providing food and habitat for native insects.
+With the vegetable garden nearby, it would also provide an enticing hangout spot for predator insects who help control pests.
+
+With the native plants in the rain garden, I had taken a focused, careful approach, buying starts and laying them out according to a thoughtful design plan.
+There was to be none of that here.
+I'd put down a bunch of seed and whatever grew, grew.
+There were also a few perennial food plants--rhubarb, green onions, and perennial arugula--that I left in place, figuring they could wait until I had some other permanent place to move them.
+
+I bought a packet of [Pollinator Palooza seed mix](https://www.prairiemoon.com/pollinator-palooza-prairie-seed-mix-prairie-moon-nursery.html) from Prairie Moon.
+As recommended, I sowed the seeds in early winter, right as one of our first major snowfalls arrived.
+
+Spring 2018 was a pretty weird season.
+The snow and cold hung around a long time, and then the weather turned on a dime to immediately become hot, dry, summer conditions.
+I suspect this wasn't helpful to the seeds, who didn't have a cool moist transition period to germinate and start establishing.
+The outcome that year did not look very good.
+Other than some black-eyed susans, very few native plants showed up and I was concerned that the prairie planting had been a failure.
+
+Luckily, I didn't care enough to intervene, and 2019 proved much more successful.
+Quite a few more natives appeared and the space started to fill in, making the threat of weeds less pressing.
+We got some nice flowers, not only from the robust and ever-adventurous black-eyed susans, but from some more unusual participants like figwort and native field thistle.
+
+The prairie fully arrived in 2020.
+It's now a lush area packed with foliage and flowers and constantly busy with pollinators.
+I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
+It seems that the natives, now fully established, have thoroughly out-competed the weeds.
+This was always the plan in theory, but seeing it take place in practice was very exciting.
+
+Looking back, I realized I had put shockingly little work into establishing this area in general.
+I had done a bit of weeding in the first two years, mostly of pesky sow thistle, but really very little time in the grand scheme of things.
+The only major time investment was fighting back sunchokes, a problem of my own making.
+I was probably helped somewhat by not having major weed pressure to begin with, but still, this result feels like a big win.
+
+Thirty bucks and some patience got me an area that doesn't need mowing, looks pretty, and provides a huge boost of biodiversity.
+The wild and slightly unruly nature of it wouldn't work in every situation (this year, notably, a [gaura](https://www.prairiemoon.com/gaura-biennis-biennial-gaura-prairie-moon-nursery.html) grew about 7 feet tall and then epically flopped over), but in this spot it works great.
+Also, the dog likes to bushwhack through this area for no obvious reason.
+I swear part of the appeal for her is that if she gets into the middle, the plants are thick enough she's completely hidden from sight.
 
 ## Plant List ##
 
