@@ -50,7 +50,7 @@ table.summary {
     text-align: right;
   }
 
-  tr.subtotal-heading {
+  tr.subtotal-heading, tr.subtotal {
     color: #777;
     font-weight: bold;
     font-style: italic;
@@ -61,8 +61,10 @@ table.summary {
     font-style: italic;
   }
 
-  tr:last-child td {
-    border-bottom: none;
+  tr:last-child, tr.subtotal {
+    td {
+      border-bottom: none;
+    }
   }
 
   caption {
