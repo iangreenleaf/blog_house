@@ -167,7 +167,7 @@ Anyhow, it's a great whirligig.
 
 ## Time & Materials ##
 
-{% summary cost %}
+{% summary cost, Expenses %}
 {% subtotal_heading Vegetable garden %}
 {% line_item Plants | ~$25 %}
 {% line_item Straw bale | $11 %}
@@ -181,7 +181,7 @@ Anyhow, it's a great whirligig.
 {% subtotal $170 %}
 {% endsummary %}
 
-{% summary time %}
+{% summary time, Time %}
 {% subtotal_heading Vegetable garden %}
 {% line_item Prep | ~4 hours %}
 {% line_item Planting | ~4 hours %}
