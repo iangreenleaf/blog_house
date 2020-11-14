@@ -1,6 +1,6 @@
 module Jekyll
   class SummaryTableTagBlock < Liquid::Block
-    def initialize(tag_name, markup, tokens)
+    def initialize(tag_name, markup, parse_context)
       super
       @type, @title = markup.split(", ")
     end
@@ -12,18 +12,18 @@ module Jekyll
   end
 
   class SummaryTableLineItem < Liquid::Tag
-    def initialize(tag_name, text, tokens)
+    def initialize(tag_name, text, parse_context)
       super
       @description, @amount = text.split(" | ")
     end
 
     def render(context)
-      "<tr class='line-item'><td class='description'>#{@description}</td><td class='amount'>#{@amount}</td></tr>"
+      "<tr class='line-item'><td class='description'>#{context.invoke("markdownify", @description).gsub(/<p>(.*)<\/p>/, '\1')}</td><td class='amount'>#{@amount}</td></tr>"
     end
   end
 
   class SummaryTableSubtotalHeading < Liquid::Tag
-    def initialize(tag_name, text, tokens)
+    def initialize(tag_name, text, parse_context)
       super
       @title = text
     end
@@ -34,7 +34,7 @@ module Jekyll
   end
 
   class SummaryTableTotal < Liquid::Tag
-    def initialize(tag_name, text, tokens)
+    def initialize(tag_name, text, parse_context)
       super
       @amount = text
     end
@@ -45,7 +45,7 @@ module Jekyll
   end
 
   class SummaryTableSubtotal < Liquid::Tag
-    def initialize(tag_name, text, tokens)
+    def initialize(tag_name, text, parse_context)
       super
       @amount = text
     end
