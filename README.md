@@ -4,6 +4,12 @@ Find it at [https://house.youngram.com].
 
 Runs on Jekyll and hacks.
 
+## One-time setup ##
+
+```
+./bin/setup
+```
+
 ## CLI ##
 
 ### Compose commands ###
