@@ -79,8 +79,11 @@ The first disappointment came when I dug them at the end of the season and disco
 Their root systems contained a few tubers too tiny to be practical and a ton of rhizomes (long-distance horizontal roots), and if that sounds like foreshadowing it's because it is.
 
 The real bad news arrived the following spring (2018), when hundreds of volunteer sunchoke plants appeared all around the circle garden.
+
+{% single_image path: assets/images/the-first-year-garden/sunchoke-volunteers.jpg alt: "Volunteer sunchokes all over the garden", caption: "I've made a huge mistake." %}
+
 Not only were there a ton clustered around where I had planted the sunchokes the previous year, but seedlings were also showing up as far as five feet away.
-Turns out all those rhizomes had placed little tubers all over the place, ready to colonize.
+Turns out those rhizomes had placed little tubers all over the place, ready to colonize.
 By this time, I had seeded the circle garden with native plants, and while sunchokes are technically a native, I didn't want them to dominate this area like they were clearly prepared to do.
 
 How do you fight a sunchoke infestation?
