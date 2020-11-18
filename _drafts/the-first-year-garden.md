@@ -166,7 +166,24 @@ We even moved it to a different spot and somehow a new figwort appeared and dove
 
 Anyhow, it's a great whirligig.
 
-## Plant List ##
+## Plant List (vegetables) ##
+
+
+## Plant List (wildflowers) ##
+
+Wildflowers I've positively identified from [the seed mix](https://www.prairiemoon.com/pollinator-palooza-prairie-seed-mix-prairie-moon-nursery.html):
+
+* Agastache foeniculum (Anise Hyssop)
+* Baptisia alba (White Wild Indigo)
+* Chamaecrista fasciculata (Partridge Pea)
+* Cirsium discolor (Pasture Thistle)
+* Coreopsis lanceolata (Lance-leaf Coreopsis)
+* Echinacea purpurea (Purple Coneflower)
+* Gaura longiflora (Large-flowered Gaura)
+* Monarda fistulosa (Wild Bergamot)
+* Penstemon digitalis (Foxglove Beardtongue)
+* Rudbeckia hirta (Black-eyed Susan)
+* Scrophularia lanceolata (Early Figwort)
 
 ## Time & Materials ##
 
