@@ -88,7 +88,7 @@ I'm not a fan of poison, though, so I've never given it a try.
 In theory, this sort of glyphosate application done with proper safety precautions should be fairly safe and not present an ongoing danger.
 But that theory depends a little too heavily on taking the pesticide industry at their word and ignoring all the other times that this sort of thing turned out terrible in hindsight.
 
-There are a couple other considerations that I presume would be important to take into account with this method.
+There are a couple other considerations that (I presume) are important to take into account with this method.
 First, it doesn't remove any vegetative matter, so all the dead grass and weeds and "thatch" will still be there one the surface.
 Second, the glyphosate will not have any effect on the weed seed bank, so you must be prepared to act quickly to ensure that the weeds don't get established before your replacement plantings do.
 
@@ -138,7 +138,7 @@ While it still has the downsides I mentioned in the sod section, what this metho
 Digging and flipping can effectively prepare an area for planting without changing the height, requires no more than a shovel, and has no need for expensive or complicated disposal.
 I used this method to prepare some of our side beds, and will discuss it more there.
 
-An alternative to the shovel is a grub hoe (a tool similar to the average garden hoe except bigger, tougher, andmeaner).
+An alternative to the shovel is a grub hoe (a tool similar to the average garden hoe except bigger, tougher, and meaner).
 Rather than cutting out pieces of turf, with a grub hoe you move in a line, chopping out chunks of turf as you go.
 Once you get into a rhythm, you can cut up a lot of area very quickly, much faster than with a shovel.
 If you're removing the material, you will still have to come back through with a shovel or your hands to pick up the pieces and chuck them in the wheelbarrow.
@@ -146,6 +146,115 @@ I used a grub hoe to remove the turf in a number of our early plantings, includi
 It's a good compromise between efficiency and flexibility when working with areas of non-uniform vegetation and non-square shapes.
 
 ## Smothering ##
+
+Cover your grass with something opaque.
+Black plastic sheeting is the standard choice, but old carpet, tarps, thick fabric, plywood sheets, or anything else that can hold up to the elements would also work fine.
+Weight it down with rocks or boards or something so it doesn't blow away.
+Leave it on there long enough to kill everything from lack of sunlight, then take it off and you're ready to plant.
+
+This is a pretty popular method in both small- and large-scale plantings.
+I think the big benefit is that it is cheap, organic, and fairly light on labor.
+It does take some time, obviously—at least a month, and a whole season would be ideal.
+When the plastic comes off, all the vegetative matter and weed seeds are still going to be there, so don't come unprepared.
+
+I've used this method in a few small spots around the yard, but not for any major planting area.
+The sheet mulching methods I'll describe work on a similar principle but mitigate some of the disadvantages, so I find those to be more useful in my small urban site.
+
 ## Solarizing ##
+
+This looks very similar to smothering, with one key difference.
+Instead of using an opaque material like black plastic, you lay down clear plastic that lets sunlight through.
+This creates a greenhouse effect, trapping heat under the plastic.
+In warm temperatures and bright sunlight, it can get so hot under the plastic that it not only kills all the growing plants, but heats the top layer of soil to a temperature that kills weed seeds.
+It does also damage the soil's biodiversity by killing all microorganisms in the top couple inches, but if you take good care of the site afterwards, that will likely be able to bounce back.
+
+Similar to smothering, this method is cheap and easy, and scales up or down well.
+It's a worthy alternative to smothering on sites where weed pressure is expected to be very high.
+It's also probably a bit faster than smothering, though with a less flexible timeline.
+
+I've tried solarizing twice in our yard and failed both times.
+I think my downfall is that this method, while promising, has more specific requirements than most of the other methods, and failing to get the conditions just right will render it completely ineffective.
+If your temperatures don't get hot enough under the plastic to kill the plants, you've instead created a nice warm moist tropical environment that most weeds will love.
+Here's the steps I think are crucial to success:
+
+ * Keep the edges of the plastic tight to the ground, perhaps by burying them in dirt.
+   If there are gaps, they will act like vents and allow to much airflow that will moderate the temperatures.
+ * Mow the area before laying plastic.
+   Lush plant growth can act like insulation, preventing heat from getting to the base of the plants to fully kill them.
+ * Most important of all: you have to achieve maximum sun intensity for this to work.
+   Your area needs to have direct sunlight for at least several hours around midday, when the sun is straight overhead (approximately 10am-2pm).
+   And you need to have this in place for the sunniest part of the season (summer solstice).
+   Here in Minnesota, I've missed that window slightly and paid for it.
+   Even late July and August is too late for us.
+   It's still hot and sunny weather, but the sun is too low in the sky by then and doesn't radiate heat effectively enough to really get cooking.
+   For the best odds of success, I would aim to have my plastic down no later than the beginning of June, and plan to leave it until the end of July.
+
+Solarizing sounds like a very powerful method for certain site conditions.
+If you think it's the perfect thing for you, by all means go for it.
+Just invest in a bit of planning to make sure you succeed.
+
 ## Sheet mulching ##
+
+Sheet mulching (also sometimes called "lasagna gardening") combines several techniques into one all-inclusive method for preparing a site.
+The basic idea is to layer material on top of your grass: first a biodegradable weed barrier to smother the existing vegetation, then a thick layer of organic material and mulch to hold it all down and provide fertility.
+This is all left to decompose, and planting is done without any further disturbance of the soil.
+Ideally, the sheet mulched area is given a few months to break down into nice fertile soil before planting.
+However, it is also possible to plant directly into a freshly sheet-mulched area by punching holes through the weed barrier for transplants, or by topping the layers with soil or compost and sowing seeds into that.
+
+By burying the former grass under a bunch of new material, the weed seed bank is kept away from the surface where it would germinate.
+The dead vegetation will be broken down under the surface by worms and microorganisms, converted to organic matter that's helpful to the soil.
+
+The weed barrier is usually newspaper or cardboard (I much prefer cardboard).
+There are many different "recipes" for the organic material layered on top.
+Some people like to create many thin striated layers of material, while others just do a couple thick layers.
+Usually some amount of compost is used, but there is a lot of flexibility in the other organic matter based on your preferences and what is easily available to you.
+Straw, leaves, manure, sawdust, wood chips, shredded paper, and just about anything else you can think of are options.
+You can also add soil amendments, or fertility boosters like used coffee grounds.
+And you can add uncomposted kitchen scraps under the weed barrier, where they will break down along with everything else.
+
+We used sheet mulching to prepare about 500 sq. ft. for our vegetable garden and have had a very good outcome.
+
+I think sheet mulching comes out well ahead of other methods in terms of results.
+Done well, it can tame very rough conditions, and it effectively deals with the existing vegetation and weed seed bank.
+It also rolls a bunch of soil improvement into the preparation step, something that you would have to do separately with most of the other methods.
+It's possible to do sheet mulching not only organically, but with also with local materials and materials almost exclusively reclaimed from the waste stream.
+It can be done quickly or slowly, and can be done well in advance or right before planting.
+
+The big downside to sheet mulching is that it's a lot of work.
+You're looking at 3"-12" of organic material, which is a lot of stuff to haul in and spread over your site.
+You may also find it difficult to source all the materials needed.
+Living in the middle of a large metro area, I didn't have easy access to straw or manure at a price that would have been cost-effective for the large amounts I needed.
+You are also unlikely to have a large quantity of compost lying around if you want to sheet mulch a big area all at once, so you may have to purchase some.
+
+One more consideration: sheet mulching will raise the height of the area considerably.
+The freshly laid material may as much as a foot thick, and the eventual settled height will probably be something like 3" above the former ground level.
+
+As long as you're willing to do a bit of work, sheet mulching is an excellent solutions for sites that you want to be very well prepared.
+For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be a bit of overkill.
+I'm glad I did a thorough sheet mulching for the vegetable garden, but for most other areas of our yard, I've developed a "lazy" variant that works well with much less investment.
+
 ## Lazy sheet mulching ##
+
+This is a stripped-down variation of sheet mulching that uses the same principle but drastically simplifies the materials.
+I may do a full post later to show examples of the process, but it's pretty straightforward.
+Lay cardboard on top of the existing grass.
+Top generously with wood chips.
+Leave for a while to decompose, or punch holes in the carboard to plant immediately.
+
+This method reduces the required inputs to two materials that are very easy for me to source.
+Large sheets of cardboard can be gathered free from appliance stores or my preference, bike shops.
+Arborist wood chips are sometimes available free from municipal sites, and some arborists will also drop a load off at your house for free (since it saves them a disposal fee).
+
+The simple recipe and the light weight of the materials mean I can cover a lot of area fairly rapidly.
+It's still more work than some of the other methods, but since the areas I'm working on would need mulch eventually anyhow, I come out ahead in the long run by having wood chips already in place to serve as mulch.
+
+Like full sheet mulching, this offers a lot of flexibility in timing and scale.
+A good thick cardboard and a deep layer of wood chips can suppress just about all weeds successfully, so the existing site conditions aren't a concern.
+As long as you like the wood chip aesthetic, the results look nice and need no further care.
+
+This method only works in places where wood chips are an acceptable final layer.
+It wouldn't be suitable for areas that are dug frequently, like vegetables or ornamental annuals.
+It also doesn't provide the immediate soil improvement of full sheet mulching, though over the course of several years, the wood chips will start to break down and provide a lot of benefits to the soil.
+
+This method has become my go-to choice for most situations because for my yard, it presents the best path from grass to not-grass.
+I've converted roughly 1500 sq. ft. of grass using this method, an amount that was achievable specifically because of the simplicity and efficiency of this approach.
