@@ -258,3 +258,14 @@ It also doesn't provide the immediate soil improvement of full sheet mulching, t
 
 This method has become my go-to choice for most situations because for my yard, it presents the best path from grass to not-grass.
 I've converted roughly 1500 sq. ft. of grass using this method, an amount that was achievable specifically because of the simplicity and efficiency of this approach.
+
+## Go forth and kill your grass ##
+
+There you have it, a veritable arsenal of grass-killing techniques.
+Which one is right for you depends on the specifics of your situation and your preferences.
+Most importantly, pick the one that leads to you killing some grass.
+If your first attempt is small or imperfect, it's still better than doing nothing.
+
+At this very moment you, yes **you**, have some patch of grass sitting around that you never use.
+That grass is wasting your time, and it's wasting the potential of a space that could be benefiting somebody if it weren't wasted by grass.
+Go kill that grass, and put something useful in its place.
