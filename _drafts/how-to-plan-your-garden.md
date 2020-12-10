@@ -21,18 +21,13 @@ Part of the planning process was turning the dreams I had floating around in my 
 We also had some site-specific constraints and issues to address.
 Most of these were revealed during the observation period.
 
- * Our north-facing windows are close to the street, and with only empty space between the house and the sidewalk, it made our dining room feel a little exposed.
-   It would be nice to have something to partially screen the view.
- * Since the yard is level with the public sidewalk, it feels very weird if there isn't something to delineate the border.
- * The wind can really rip across parts of the lot.
-   The worst seems to be north winds traveling across the front yard.
- * The back of the lot, near the alley, was neglected and in terrible condition.
-   The soil was so compacted that nothing would grow there until it was improved.
-   Drainage was also very poor and it would remain very wet for a long time after rains.
- * The alley is not a charming view and would do well to be screened.
  * The thin strip between the garage and alley was full of weeds and in bad condition, being an especially tough site.
  * Much of the lawn was lumpy and uneven.
    Some areas had pretty good grass, but others were very weedy and/or patchy.
+ * Since the yard is level with the public sidewalk, it feels very weird if there isn't something to delineate the border.
+ * The back of the lot, near the alley, was neglected and in terrible condition.
+   The soil was so compacted that nothing would grow there until it was improved.
+   Drainage was also very poor and it would remain very wet for a long time after rains.
 
 ## Zones ##
 
@@ -66,3 +61,26 @@ Zones aren't the final word, but rather a useful tool to be used as part of a to
 ## Sectors ##
 
 Another planning tool described in _Edible Forest Gardens_ is ["sectors"](https://open.oregonstate.education/permaculture/chapter/sectors/).
+While sectors are commonly described in terms of directional forces, I think the real power of the technique lies in giving shape and location to various invisible aspects of a site.
+When we create maps, they tend to identify tangible things: here's the dimensions of the house, here's the path, here's some trees, here's a hill.
+But where does the sun shine in winter?
+Which views are desirable or undesirable?
+What enters the site from neighboring areas---wildlife, odors, light, seeds, pollution?
+
+Thinking in terms of sectors helped me distill a bunch of observations about our site into a concise and useful format that could be used alongside other maps to inform my decisions.
+Some key takeaways for us were:
+
+ * Several windows on the first floor of the house look out onto sections of the yard, and we would like those to be nice views of some sort.
+ * Our north-facing windows are close to the street, and with only empty space between the house and the sidewalk, it made our dining room feel exposed to people walking past.
+   It would be nice to have something to partially screen the view.
+ * The wind can really rip across parts of the lot.
+   The worst seems to be north winds traveling across the front yard.
+   These are not only unpleasant, but prove destructive at times, knocking over crops and causing other minor damage.
+ * The alley is not a charming view and would do well to be screened. The garage is also not a great view.
+ * We only have one immediate next-door neighbor, who is quiet and easy to get along with.
+   We don't need major screening in that direction, though something to slow down the entry of weed seeds might be nice.
+ * The house gets limited sun in the winter, so we should not do anything to further limit that.
+ * Due to the corner lot, we have a lot of interface with the public sidewalks and roads.
+   This gives our yard a lot of potential to be appreciated from the outside as well as from the inside.
+
+## Sun Surveys ##
