@@ -37,14 +37,15 @@ Things that we use often, or that require frequent attention, should be located 
 Areas that are further from the house or harder to access will be visited less often, and are harder to supply with resources like water or compost.
 We should use these areas for things that require fewer inputs and can take care of themselves without frequent weeding or other maintenance.
 
-The canonical 5-zone framework is oriented towards larger tracts of land, like rural homesteads, and so many of the specifics are not as relevant to urban lots.
-An urban lot is unlikely to have zones 3 through 5 (farming, forage, and wilderness) located within its boundaries.
+The canonical 5-zone framework is oriented towards larger tracts of land, like rural homesteads, and so many of the specifics are not as relevant to urban areas.
+A city lot is unlikely to have zones 3 through 5 (farming, forage, and wilderness) located within its boundaries.
 However, the general concepts are still a useful tool for planning an urban space.
 Our yard very much has areas that are easier or harder to access, and visited more or less frequently.
 
 The "back nine", for example, is far enough from the house that most hoses don't reach.
+This means it's a nuisance to water it, and therefore it will not be watered very often.
 We also don't pass through that area on the way to or from anywhere else, and we don't spend time in that area to relax or work.
-When planning what to do with it, I knew it should contain things that were resilient and largely self-sufficient.
+When planning what to do with it, I looked specifically for things that were resilient and largely self-sufficient.
 While that area was a potential site for the vegetable garden in terms of size and sun, I knew that was something that should go in a closer "zone" if possible.
 
 The strip between the alley and garage is even further out, zone-wise.
@@ -84,3 +85,23 @@ Some key takeaways for us were:
    This gives our yard a lot of potential to be appreciated from the outside as well as from the inside.
 
 ## Sun Surveys ##
+
+I'll probably do a more in-depth post on sun surveys at some point.
+Since sunlight is one of the most important factors to plants' success, it's very valuable to know how much sun an area receives when you are deciding what to plant.
+
+My early sun surveying was done informally by simply paying attention and mentally noting where sun and shade fell throughout the 2017 growing season.
+Later, I would do the process more formally by systematically photographing the yard over the course of the day to document the sun and shade.
+This latter method took more work and planning, but offers much more exact detail, which is useful in more precise planning.
+The informal method was good enough for my initial needs of delineating the yard into general areas.
+
+The sun data was vital to deciding where to place the vegetable garden.
+In order to get the best production out of many types of vegetables, I needed to make sure it was located in "full sun" (6+ hours of sun per day).
+I would also use sun information heavily when planning other plantings, like the rain garden.
+The area selected for that has a mixture of different sun types, so when designing I selected a variety of different natives and made sure to locate each plant somewhere with conditions that suited it.
+
+Sun is important to humans as well as plants.
+I considered sun conditions carefully when selecting the areas that would be maintained for leisure.
+Katherine especially likes to bask in the hot sun like a lizard, so I made sure to accommodate her needs with several spots for relaxing that receive sun at different times of the day.
+Since it's sometimes more comfortable to be in the shade, I was also careful to leave several spots that allow for that.
+Thanks to the placement of the house and some large trees, these spots change roles over the course of the day, so an area that was sunny in the morning will be shaded by afternoon, while another area that was shaded in the morning is now in sun.
+This gives us a lot of flexibility and encourages us to be outside as much as possible.
