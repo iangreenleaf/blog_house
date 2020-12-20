@@ -27,6 +27,16 @@ tag_archive_path: "/tags/#"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-so-simple
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      project_start:
+      project_end:
+      tags:
+    posts:
+      project_start:
+      project_end:
+      tags:
 responsive_image:
   template: _includes/responsive-image.html
   base_path: assets/images
