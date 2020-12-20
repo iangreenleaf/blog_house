@@ -94,12 +94,53 @@ table.summary {
   }
 }
 
-.page-sidebar {
-  text-align: left;
+.page-title {
+  margin-bottom: 0.2em;
 }
 
-.dt-published {
-  display: none;
+.layout--post .page-sidebar {
+  margin-bottom: 1.5em;
+}
+
+.page-sidebar {
+  text-align: left;
+
+  .page-date,
+  .read-time,
+  .page-taxonomies-title,
+  .page-taxonomies {
+    font-family: $meta-font-family;
+    font-style: italic;
+    white-space: normal;
+  }
+}
+
+.page-taxonomies-title {
+  display: inline;
+  font-size: inherit;
+  font-weight: normal;
+  text-transform: none;
+
+  @include breakpoint($large) {
+    display: inline;
+    margin: inherit;
+    padding: inherit;
+    font-size: inherit;
+    font-weight: normal;
+  }
+}
+
+.page-taxonomies {
+  display: inline;
+  margin-right: 1em;
+  padding: 0;
+  list-style: none;
+
+  @include breakpoint($large) {
+    display: inline;
+    margin: inherit;
+    margin-right: 1em;
+  }
 }
 
 // Footer styling

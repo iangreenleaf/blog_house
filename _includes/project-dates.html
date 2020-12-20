@@ -1,5 +1,5 @@
-<span class="project-dates page-date">
-  {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+{%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+<div class="project-dates page-date">
   {%- assign start_date = page.project_start | date: date_format -%}
   {%- assign end_date = page.project_end | date: date_format -%}
   {%- if start_date == end_date -%}
@@ -15,4 +15,4 @@
       {{ end_date | date: date_format }}</a>
     </time>
   {%- endif -%}
-</span>
+</div>

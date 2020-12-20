@@ -1,0 +1,7 @@
+{%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+<div class="page-date dt-published">
+  Published On:
+  <time datetime="{{ page.date | date_to_xmlschema }}">
+    {{ page.date | date: date_format }}
+  </time>
+</div>
