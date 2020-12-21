@@ -27,6 +27,12 @@ tag_archive_path: "/tags/#"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-so-simple
+
+plugins:
+  - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll-paginate-v2
+
 jekyll_compose:
   default_front_matter:
     drafts:
@@ -51,9 +57,14 @@ responsive_image:
   strip: false
   save_to_source: false
   cache: false
-plugins:
-  - jekyll-feed
-  - jekyll-responsive-image
+pagination:
+  enabled: true
+  per_page: 20
+  permalink: '/page/:num/'
+  sort_reverse: true
+  trail:
+    before: 3
+    after: 3
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- if page.pagination.enabled -%}
+    {% include posts-paginated.html %}
+  {%- else -%}
+    {% include posts-limit.html %}
+  {%- endif -%}
+</div>

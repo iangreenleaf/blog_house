@@ -1,0 +1,32 @@
+{%- for entry in paginator.posts -%}
+  {% include entry.html %}
+{%- endfor -%}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  <ul>
+    <li>
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">{{ site.data.text[site.locale].previous | default: "Previous" }}</a>
+      {% else %}
+        <a href="#" class="disabled"><span aria-hidden="true">{{ site.data.text[site.locale].previous | default: "Previous" }}</span></a>
+      {% endif %}
+    </li>
+    {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+        <li>
+            <a {% if page.url == trail.path %}class="disabled current"{% endif %} href="{{ trail.path | prepend: site.baseurl | remove_first: 'index.html' }}" title="{{trail.title}}">{{ trail.num }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
+    <li>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.data.text[site.locale].next | default: "Next" }}</a>
+      {% else %}
+        <a href="#" class="disabled"><span aria-hidden="true">{{ site.data.text[site.locale].next | default: "Next" }}</span></a>
+      {% endif %}
+    </li>
+  </ul>
+</nav>
+{% endif %}

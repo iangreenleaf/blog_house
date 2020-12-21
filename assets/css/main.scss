@@ -11,6 +11,10 @@ $accent-color: tomato;
 $gallery-background: #e9e7e5;
 $gallery-caption: #e3e2e0;
 
+.layout--home .page-header h1 {
+  display: none;
+}
+
 .single-image, .gallery {
   background: $gallery-background;
   margin: 1rem 0 1.5rem;
