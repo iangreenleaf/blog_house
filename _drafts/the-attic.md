@@ -1,6 +1,10 @@
 ---
 layout: post
 title: The Attic
+tags:
+  - DIY
+  - Attic
+  - Not a lot of finish
 ---
 
 ## Time & Materials ##

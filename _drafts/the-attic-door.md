@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Attic Door
+tags: DIY Attic
 ---
 
 The best test of similar you are to me in personality is how much [this comic](https://xkcd.com/349/) resonates with you.

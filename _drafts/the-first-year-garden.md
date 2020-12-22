@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The first-year garden
+tags: Garden
 ---
 
 I had maintained a small garden at both of the last two places we rented, so now that we had a place of our own I was excited to get a garden going.

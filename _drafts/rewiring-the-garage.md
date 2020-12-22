@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rewiring the garage
+tags: DIY
 ---
 
 {% summary time %}

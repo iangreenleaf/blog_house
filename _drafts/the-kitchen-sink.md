@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Kitchen Sink
+tags: DIY
 ---
 
 ## The sprayer ##

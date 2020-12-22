@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Mud Head
+tags: Garden
 ---
 
 ## A bolt of inspiration ##

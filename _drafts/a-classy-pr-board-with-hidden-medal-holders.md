@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A classy PR board with hidden medal holders
+tags: DIY
 ---
 
 The router was an indispensable tool for making the frame, and it was an excellent skill builder for that tool.

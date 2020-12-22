@@ -1,6 +1,9 @@
 ---
 layout: post
 title: How to kill your grass
+tags:
+  - Garden
+  - How to
 ---
 
 I hate lawns.

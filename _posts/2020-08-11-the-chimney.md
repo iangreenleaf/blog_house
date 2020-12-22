@@ -3,6 +3,10 @@ layout: post
 title: The Chimney
 project_start: 2019-04-10
 project_end: 2019-04-23
+tags:
+  - Exterior
+  - Contractors
+  - Not a lot of finish
 ---
 
 A recurring theme of this journal is going to be a comment our inspector made concerning the previous owners of our house: "they had a lot of *start* in them, but not a lot of *finish*."

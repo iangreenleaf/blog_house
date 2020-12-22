@@ -3,6 +3,11 @@ layout: post
 title: Basement Egress
 project_start: 2018-03-28
 project_end: 2018-03-28
+tags:
+  - Basement
+  - Exterior
+  - Contractors
+  - Not a lot of finish
 ---
 
 The basement was mostly finished when we bought the house.

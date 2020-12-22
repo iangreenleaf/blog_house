@@ -72,6 +72,9 @@ autopages:
     layouts:
       - tags.html
     permalink: '/tags/:tag'
+    slugify:
+      mode: 'default'
+      case: false
   categories:
     enabled: false
   collections:

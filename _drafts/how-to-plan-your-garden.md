@@ -1,6 +1,9 @@
 ---
 layout: post
 title: How to plan your garden
+tags:
+  - Garden
+  - How to
 ---
 
 https://www.chelseagreen.com/product/edible-forest-gardens-volume-ii/

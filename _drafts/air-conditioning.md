@@ -3,6 +3,10 @@ layout: post
 title: (H.V.)AC
 project_start: 2017-07-18
 project_end: 2017-07-20
+tags:
+  - Boring
+  - Contractors
+  - Not a lot of finish
 ---
 
 The other half-finished big ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
