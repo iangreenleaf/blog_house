@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://house.youngram.com"
 permalink: none
 copyright: '<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Youngram House Journal</span> 🏡 All content ©<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Ian Young</span> unless otherwise noted. Released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons BY-NC-SA License</a>.'
-tag_archive_path: "/tags/#"
+tag_archive_path: "/tags/"
 
 # Build settings
 markdown: kramdown
@@ -65,6 +65,17 @@ pagination:
   trail:
     before: 3
     after: 3
+autopages:
+  enabled: true
+  tags:
+    title: "Posts tagged ':tag'"
+    layouts:
+      - tags.html
+    permalink: '/tags/:tag'
+  categories:
+    enabled: false
+  collections:
+    enabled: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
