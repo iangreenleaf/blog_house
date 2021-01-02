@@ -43,9 +43,9 @@ Rabbits started snipping things the moment I planted.
 Luckily I was cruising the free section on Nextdoor pretty heavily around this time and had acquired some chicken wire and t-posts, so that made a makeshift fence.
 At some point I got some landscape staples and used those to hold down the bottom of the fence, and that arrangement provided sufficient protection throughout the season.
 
-## Bonus tomatoes ##
+## Bonus bed ##
 
-In addition to the circle garden, the small raised bed was available for use, so I planted it with tomatoes.
+In addition to the circle garden, the small raised bed was available for use, so I planted it with tomatoes and a few flowers and other leftovers.
 This bed didn't have any critter protection, but thankfully the rabbits around here have never shown any interest in tomato plants.
 I had a motley assortment of tomato cages, some passed down from my father, some scavenged, and a few that came with the house.
 They worked fine and the tomatoes did pretty well.
@@ -56,7 +56,26 @@ The boards were also rotting and coming apart, so I didn't expect this bed to ex
 
 ## Pretty good results ##
 
-TODO
+Given the limited amount of site preparation and the numerous imperfections in my process, I feel like I got as good of results as I could have hoped for.
+There was remarkably little weed pressure--I think the pool must have been in place for so long that the weed seeds underneath it had rotted or lost viability.
+Most of the vegetables grew well, considering the soil hadn't been amended or improved in any way.
+I did buy some liquid fertilizer that I applied to the tomatoes and flowers a couple times.
+It's from a local company that grinds up invasive carp into [a nutrient-rich fish juice](https://twomikes.net/?page_id=37).
+What a great use for an unwanted species!
+As you might imagine, it smells a bit fishy when applied, but that smell is gone by the next day.
+
+We got a very good crop of tomatoes, which is good because they are a top garden priority around here.
+The greens were also good, with more arugula than I could harvest and a stellar performance from the "Amish Deer Tongue" lettuce, which has earned itself a permanent place in my planting lineup.
+Beans are always a safe bet, and we had a nice mix of herbs too.
+
+This is not to say there weren't failures.
+I planted quite a few herb and flower seeds that never germinated.
+Many of these were from packets I'd been holding on to for years, so it's likely a lot of the seeds were just too old.
+I tried to grow a tomato plant from saved seed, but lacking any way to start it indoors, I just direct-seeded in mid-May and it barely reached maturity before the weather got too cold.
+We also impulse-purchased some Prairie Smoke plants without any specific plan on what to do with them.
+Well, those are fairly reticent native perennials that take several years to establish before flowering, so not a great choice for a garden-in-transition.
+
+I also made one more error that seemed small at the time but would come back to haunt me.
 
 ## The sunchoke mistake ##
 
@@ -89,13 +108,13 @@ By this time, I had seeded the circle garden with native plants, and while sunch
 
 How do you fight a sunchoke infestation?
 It's not easy, but it's possible.
-Mowing is an option, but it would have to be done very regularly to be effective---the sunchokes didn't mind being cut back too much and would quickly regrow.
+Mowing is an option, but it would have to be done very regularly to be effective---the sunchokes didn't mind being cut back and would quickly regrow.
 Mulching would probably work, but I suspect it would have to be a very impenetrable layer to foil these vigorous plants.
 
 I chose a war of attrition, making frequent patrols throughout the summer to pull up every sunchoke plant I found in the area.
 More would sprout, and a week later I'd pull some more.
 When I had time, I'd also use a trowel to dig out the tubers themselves so they couldn't just send up a new stem.
-This strategy did eventually work, but it took a whole summer of frequent attention before I got things under control.
+This strategy did eventually work, but it took a whole summer of regular attention before I got things under control.
 
 Luckily, I didn't let this ordeal put me off of growing sunchokes, and I have since planted some elsewhere that are now one of my favorite and most productive crops.
 You should consider growing sunchokes too, but learn from my mistakes: grow a named cultivar, and situate it somewhere that is easy to control the spread.
@@ -155,7 +174,7 @@ I swear part of the appeal for her is that if she gets into the middle, the plan
 ## Whirligig ##
 
 Once a year, Katherine travels to rural Wisconsin to attend a barn dance.
-On her way there, she passes [a garden store](http://cottagegardenfarm.com/) that is known to people in the area for making outstanding whirligigs.
+On her way there, she passes [a garden store](http://cottagegardenfarm.com/) that is known in the area for making outstanding whirligigs.
 Seriously.
 You probably thought all whirligigs were about the same quality, but that's just because you've never encountered a truly exemplary whirligig before.
 These ones spin effortlessly and come with a lifetime rebalancing guarantee.
@@ -167,8 +186,34 @@ We even moved it to a different spot and somehow a new figwort appeared and dove
 
 Anyhow, it's a great whirligig.
 
-## Plant List (vegetables) ##
+## Plant List (first year) ##
 
+* Moss Rose
+* Peas, "Dwarf Gray Sugar"
+* Arugula "Sylvetta"
+* Mesclun Mix
+* Lettuce, "Amish Deer Tongue"
+* Sunchokes
+* Tomato, "Paul Robeson"
+* Tomato, "Cherokee Purple"
+* Tomato, "Cosmic Eclipse"
+* Tomato, "Iglehart Yellow"
+* Tomato, "Black Cherry"
+* Tomato, "Roma"
+* Sweet Pepper, "King of the North"
+* Sweet Pepper, "Yellow Monster"
+* Pole Bean, "Kentucky Wonder"
+* Scallions
+* Basil, "Herb Emily"
+* Rosemary, "Mozart"
+* Dill, "Dukat"
+* Dill, "Tetra"
+* Cilantro
+* Thyme, English
+* Peppermint
+* Zinnia, "Benary's Giant Wine"
+* Marigolds
+* Prairie Smoke
 
 ## Plant List (wildflowers) ##
 
@@ -190,12 +235,12 @@ Wildflowers I've positively identified from [the seed mix](https://www.prairiemo
 
 {% summary cost, Expenses %}
 {% subtotal_heading Vegetable garden %}
-{% line_item Plants | ~$25 %}
+{% line_item Plants | ~$35 %}
 {% line_item Straw bale | $11 %}
 {% line_item [Cod juice fertilizer](https://www.twomikes.net/) | $8 %}
 {% line_item Chicken wire and t-posts | free %}
 {% line_item Salvaged planks | free %}
-{% subtotal $44 %}
+{% subtotal $54 %}
 {% subtotal_heading Native prairie %}
 {% line_item [Pollinator Palooza seed mix](https://www.prairiemoon.com/pollinator-palooza-prairie-seed-mix-prairie-moon-nursery.html) | $29 %}
 {% line_item Whirligig | ~$140 %}
