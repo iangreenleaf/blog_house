@@ -59,7 +59,7 @@ The boards were also rotting and coming apart, so I didn't expect this bed to ex
 Given the limited amount of site preparation and the numerous imperfections in my process, I feel like I got as good of results as I could have hoped for.
 There was remarkably little weed pressure--I think the pool must have been in place for so long that the weed seeds underneath it had rotted or lost viability.
 
-{% single_image path: assets/images/the-first-year-garden/circle-garden-peas.jpg alt: "Peas and tomatoes in the circle garden" %}
+{% single_image path: assets/images/the-first-year-garden/circle-garden-peas.jpg alt: "Peas and marigolds in the circle garden" %}
 
 Most of the vegetables grew well, considering the soil hadn't been amended or improved in any way.
 I did buy some liquid fertilizer that I applied to the tomatoes and flowers a couple times.
@@ -90,9 +90,7 @@ I also made one more error that seemed small at the time but would come back to 
 Sunchokes, also known as Jerusalem Artichokes, are a perennial relative of the sunflower with tasty edible tubers.
 They are also often described as an aggressive spreader, to be treated with care.
 I took these warnings too lightly and paid for it.
-
-I had read about sunchokes somewhere and was interested in them.
-When someone on Nextdoor offered free baby plants dug from their yard, I biked over and grabbed a handful of starts, which I plopped in the middle of the circle garden.
+When someone on Nextdoor offered free baby sunchokes dug from their yard, I biked over and grabbed a handful of starts, which I plopped in the middle of the circle garden.
 
 Mistake #1: *Right* in the middle of the garden.
 My thinking at the time was that they were taller so they could be flanked by shorter plants without blocking views or sun.
@@ -153,6 +151,7 @@ There were also a few perennial food plants--rhubarb, green onions, and perennia
 
 I bought a packet of [Pollinator Palooza seed mix](https://www.prairiemoon.com/pollinator-palooza-prairie-seed-mix-prairie-moon-nursery.html) from Prairie Moon.
 As recommended, I sowed the seeds in early winter, right as one of our first major snowfalls arrived.
+Many native seeds need "cold stratification" to break dormancy, so letting them winter in place is the way to achieve that with the least effort.
 
 Spring 2018 was a pretty weird season.
 The snow and cold hung around a long time, and then the weather turned on a dime to immediately become hot, dry, summer conditions.
@@ -177,7 +176,7 @@ It's now a lush area packed with foliage and flowers and constantly busy with po
 {% gallery %}
 {% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The garden in July 2020." %}
 {% gallery_image path: assets/images/the-first-year-garden/coneflower-butterfly.jpg alt: "A butterfly on a purple coneflower", caption: "Coneflowers seem to be a favorite of butterflies." %}
-{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'It's called "bee balm" for a reason!' %}
+{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'Its called "bee balm" for a reason!' %}
 {% endgallery %}
 
 I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
