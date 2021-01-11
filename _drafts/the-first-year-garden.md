@@ -176,7 +176,7 @@ It's now a lush area packed with foliage and flowers and constantly busy with po
 {% gallery %}
 {% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The garden in July 2020." %}
 {% gallery_image path: assets/images/the-first-year-garden/coneflower-butterfly.jpg alt: "A butterfly on a purple coneflower", caption: "Coneflowers seem to be a favorite of butterflies." %}
-{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'Its called "bee balm" for a reason!' %}
+{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'It’s called “bee balm” for a reason!' %}
 {% endgallery %}
 
 I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
