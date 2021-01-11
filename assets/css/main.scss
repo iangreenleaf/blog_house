@@ -47,6 +47,10 @@ $gallery-caption: #e3e2e0;
       max-height: 100vh;
     }
   }
+
+  .splide__arrow[disabled] {
+    display: none;
+  }
 }
 
 table.summary {
