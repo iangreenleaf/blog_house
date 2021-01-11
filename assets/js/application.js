@@ -1,3 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-  new Splide('.splide', {pagination: false}).mount();
+  for (el of document.getElementsByClassName('splide')) {
+    new Splide(el, {pagination: false}).mount();
+  }
 })
