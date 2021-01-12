@@ -2,8 +2,8 @@
 layout: post
 title: The first-year garden
 tags: Garden
+date: 2021-01-11 23:52 -0600
 ---
-
 I had maintained a small garden at both of the last two places we rented, so now that we had a place of our own I was excited to get a garden going.
 However, we closed on the house at the end of April, and were consumed with moving and some of the more pressing move-in issues after that.
 The timeline meant that I wasn't going to have time to do almost any prep work before planting time rolled around.
