@@ -165,21 +165,18 @@ Other than some black-eyed susans, very few native plants showed up and I was co
 
 Luckily, I didn't care enough to intervene, and 2019 proved much more successful.
 Quite a few more natives appeared and the space started to fill in, making the threat of weeds less pressing.
-We got some nice flowers, not only from the robust and ever-adventurous black-eyed susans, but from some more unusual participants like figwort and native field thistle.
+We got some nice flowers, not only from the robust and ever-adventurous black-eyed susans, but from some more unusual participants like figwort and native pasture thistle.
 
-{% gallery %}
-{% gallery_image path: assets/images/the-first-year-garden/prairie-second-year.jpg alt: "The prairie garden with blooming flowers" %}
-{% gallery_image path: assets/images/the-first-year-garden/figwort.jpg alt: "A closeup up figwort flowers", caption: "Figwort, a somewhat rare and somewhat weird native" %}
-{% endgallery %}
+{% single_image path: assets/images/the-first-year-garden/prairie-second-year.jpg alt: "The prairie garden with blooming flowers", caption: "The pocket prairie, year two. Note the black-eyed susans throughout. On the left is some anise hyssop. The big thing on the right is a native thistle. There are a couple purple coneflowers in there too, and some rogue sunchokes that I hadn't pulled yet. In back is some phlox, not native but I got it from a neighbor and left it there until I figured out what to do with it." %}
 
 The prairie fully arrived in 2020.
 It's now a lush area packed with foliage and flowers and constantly busy with pollinators.
 
 {% gallery %}
-{% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The garden in July 2020." %}
+{% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The pocket prairie, year three. From left to right: bee balm, pasture thistle, figwort, black-eyed susans, purple coneflower, guara. Also dotted around are some grasses that are probably natives, but grasses are too hard to identify." %}
 {% gallery_image path: assets/images/the-first-year-garden/coneflower-butterfly.jpg alt: "A butterfly on a purple coneflower", caption: "Coneflowers seem to be a favorite of butterflies." %}
+{% gallery_image path: assets/images/the-first-year-garden/thistle.jpg alt: "A bumblebee on a thistle blossom", caption: 'This native “pasture thistle” was a surprise hit. It’s a huge and striking plant, and the bees loved the giant blossoms.'  %}
 {% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'It’s called “bee balm” for a reason!' %}
-{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a thistle blossom", caption: 'This native “field thistle” was a surprise hit. It’s a huge and striking plant, and the bees loved the giant blossoms.'  %}
 {% endgallery %}
 
 I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
@@ -217,6 +214,8 @@ We didn't have a specific spot in mind for it, but we tried it out in the prairi
 
 The only issue we have is that suicidal figwort plants keep trying to grow directly into the spinning blades and get all chewed up, so we have to keep trimming them back.
 We even moved it to a different spot and somehow a new figwort appeared and dove right into the blades.
+
+{% single_image path: assets/images/the-first-year-garden/figwort.jpg alt: "A closeup up figwort flowers", caption: "“I crave death!”" %}
 
 Anyhow, it's a great whirligig.
 
