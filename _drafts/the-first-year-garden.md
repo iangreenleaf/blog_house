@@ -221,7 +221,6 @@ Anyhow, it's a great whirligig.
 
 ## Plant List (first year) ##
 
-* Moss Rose
 * Peas, "Dwarf Gray Sugar"
 * Arugula "Sylvetta"
 * Mesclun Mix
