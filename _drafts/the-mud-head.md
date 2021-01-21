@@ -6,7 +6,7 @@ tags: Garden
 
 ## A bolt of inspiration ##
 
-The [basement egress window installation] left us with a giant pile of dirt.
+The [basement egress window installation]({% post_url 2020-11-12-basement-egress %}) left us with a giant pile of dirt.
 
 {% single_image path: assets/images/the-mud-head/dirt-pile-in-progress.jpg alt: "Photo of a very large pile of dirt" %}
 
