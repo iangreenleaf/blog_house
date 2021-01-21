@@ -27,7 +27,7 @@ I paid a garden consultant to do a site visit and draw up an informal set of lay
 While I didn't end up using most of her designs, the process did get me started thinking about how to determine how to use a space, and it gave me a sense of the possibilities available to us.
 I could start to see the shape of the thing I needed to do, I just needed a lot more practical information to actually be able to do it.
 
-## Becoming a landscape designer ##
+## Getting educated ##
 
 One of the things I figured out early on in the process of reading about gardening stuff was that the permaculture philosophy greatly appealed to me.
 What is permaculture?
