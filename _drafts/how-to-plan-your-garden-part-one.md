@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to plan your garden, part one: The vision
+title: "How to plan your garden, part one: The vision"
 tags:
   - Garden
   - How to
@@ -206,7 +206,7 @@ As I got into more detail on what exactly I would plant, this theme morphed into
 This blended well with the bordering "wildlife" area, extending the wildlife zone further and giving the whole side yard a naturalistic landscaping feel.
 
 The south side of the house just had a "flex" theme, which meant I wasn't sure what we'd do with it and would keep our options open for now.
-The [first-year garden]({% post_url the-first-year-garden %}) was there, so the conversion of that into prairie would augment the pollinator needs of the neighboring food production area.
+The [first-year garden]({% post_url 2021-01-11-the-first-year-garden %}) was there, so the conversion of that into prairie would augment the pollinator needs of the neighboring food production area.
 
 The southeast corner got a loose "dog & birds" theme, which was more a descriptive label based on its current use.
 I didn't have a strong vision for how to use that area and figuring it out was not a high priority.
