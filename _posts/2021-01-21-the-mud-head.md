@@ -94,6 +94,7 @@ You never know when I'll get a burst of motivation.
 {% summary time, Time %}
 {% line_item Sculpting | 2 hours %}
 {% line_item Maintenance | 0.5 hours %}
+{% total 2.5 hours %}
 {% endsummary %}
 
 {% summary cost, Materials %}
