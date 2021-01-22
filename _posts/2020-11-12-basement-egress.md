@@ -78,7 +78,7 @@ We did eventually relocate it all to other places around the yard, but it took u
 I had planned to use the dirt to regrade a section of the yard near the foundation, but that didn't make nearly as big a dent as I had expected.
 A lot of it went to leveling out a low spot {% comment %} post_url the-low-spot {% endcomment %} in the back yard, and some more went to slightly raising the profile of the new planting areas I put in along the fence in back.
 The clay subsoil was the hardest thing to use up, as it was heavy enough to not perform well in planting beds.
-That eventually led to the creation of a great ephemeral masterpiece{% comment %} post_url the-mud-head {% endcomment %} (to be covered in a later post), so I guess I just needed to take the whole journey to reach the destination.
+That eventually led to the creation of [my great ephemeral masterpiece]({% post_url 2021-01-21-the-mud-head %}), so I guess I just needed to take the whole journey to reach the destination.
 
 The finished window looks very nice.
 

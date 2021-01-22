@@ -2,8 +2,8 @@
 layout: post
 title: The Mud Head
 tags: Garden
+date: 2021-01-21 23:29 -0600
 ---
-
 ## A bolt of inspiration ##
 
 The [basement egress window installation]({% post_url 2020-11-12-basement-egress %}) left us with a giant pile of dirt.
