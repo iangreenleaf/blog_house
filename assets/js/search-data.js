@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"I had maintained a small garden at both of the last two places we rented, so now that we had a place of our own I was excited to get a garden going.However, we closed on the house at the end of April, and were consumed with moving and some...","categories": [],
         "tags": ["Garden"],
         "url": "https://house.youngram.com/the-first-year-garden.html"
+      },{
+        "title": "The Mud Head",
+        "excerpt":"A bolt of inspiration The basement egress window installation left us with a giant pile of dirt. I slowly redistributed this to other places around the yard as I added garden beds, but some of the the subsoil they had dug up was heavy clay.Hard to work within garden beds,...","categories": [],
+        "tags": ["Garden"],
+        "url": "https://house.youngram.com/the-mud-head.html"
       }]
