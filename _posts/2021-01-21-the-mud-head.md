@@ -91,11 +91,11 @@ You never know when I'll get a burst of motivation.
 
 ## Time & Materials ##
 
-{% summary cost %}
-{% line_item Clay soil | free %}
-{% endsummary %}
-
-{% summary time %}
+{% summary time, Time %}
 {% line_item Sculpting | 2 hours %}
 {% line_item Maintenance | 0.5 hours %}
+{% endsummary %}
+
+{% summary cost, Materials %}
+{% line_item Clay soil | free %}
 {% endsummary %}
