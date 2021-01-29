@@ -123,8 +123,8 @@ Zones aren't the final word, but rather a useful tool to be used as part of a to
 
 ## Sectors ##
 
-Another planning tool described in _Edible Forest Gardens_ is ["sectors"](https://open.oregonstate.education/permaculture/chapter/sectors/).
-While sectors are commonly described in terms of directional forces, I think the real power of the technique lies in giving shape and location to various invisible aspects of a site.
+Another planning tool described in _Edible Forest Gardens_ is ["sectors"](https://open.oregonstate.education/permaculture/chapter/sectors/) and "flows".
+While these are commonly described in terms of directional forces, I think the real power of the technique lies in giving shape and location to various invisible aspects of a site.
 When we create maps, they tend to identify tangible things: here's the dimensions of the house, here's the path, here's some trees, here's a hill.
 But where does the sun shine in winter?
 Which views are desirable or undesirable?
