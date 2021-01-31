@@ -246,4 +246,4 @@ This is also the best shade from hot midday sun, so we'd leave some area for us 
 This macro-level plan seems so straightforward in hindsight, but reaching this point felt like the hardest part of the process.
 With my themed areas as the guiding document, the rest of the design seemed to flow naturally out of it.
 That's not to say I didn't have a ton of work still ahead of me, though.
-I had a lot of research and designing left to do, which we'll cover in part 2.
+I had a lot of research and designing left to do, which we'll cover in part two.
