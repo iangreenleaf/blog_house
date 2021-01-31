@@ -27,19 +27,36 @@ I paid a garden consultant to do a site visit and draw up an informal set of lay
 While I didn't end up using most of her designs, the process did get me started thinking about how to determine how to use a space, and it gave me a sense of the possibilities available to us.
 I could start to see the shape of the thing I needed to do, I just needed a lot more practical information to actually be able to do it.
 
+## Observe and Interact ##
+
+One of the best decisions I made in the planning process was forced upon me.
+We finished a rocky closing process for our house at the end of April, and the time suck of buying a house, moving, and being first-time homeowners meant that I had very little time to plan or prepare as planting season rolled around in May.
+This necessarily limited how much I could expect to achieve in the first year, so I planted [a modest vegetable garden]({% post_url 2021-01-11-the-first-year-garden %}) and accepted that my bigger ambitions would need to wait a year.
+
+This was good, because major site planning decisions really should not be made until one has been able to observe conditions throughout a growing season.
+I probably wouldn't have followed this advice well if I had a few more months of lead time before spring, but I'm glad I didn't have that choice.
+
+Spending the first year observing allowed me to see how the site changed over time: what kind of runoff came from the house during rainstorms, where water pooled during wet periods, which areas got the most and least sun, where the grass grew well and where it didn't, and so on.
+It gave me time to take detailed measurements, draw maps, and conduct soil tests.
+And it gave me time to learn a lot more, to roll ideas around in my head, to sketch out possibilities while looking at the site, and to get outside and pace out distances on the ground when I needed to see it in situ.
+
 ## Getting educated ##
 
-One of the things I figured out early on in the process of reading about gardening stuff was that the permaculture philosophy greatly appealed to me.
+One of the things I figured out in the process of reading about gardening stuff was that the permaculture philosophy greatly appealed to me.
 What is permaculture?
 There are many answers to that question, few of them short, but I like [this one](https://www.permaculturenews.org/what-is-permaculture/) pretty well:
 
 > Permaculture (the word, coined by Bill Mollison, is a portmanteau of permanent agriculture and permanent culture) is the conscious design and maintenance of agriculturally productive ecosystems which have the diversity, stability, and resilience of natural ecosystems… [It] is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms. The philosophy behind permaculture is one of working with, rather than against, nature; of protracted and thoughtful observation rather than protracted and thoughtless action; of looking at systems in all their functions, rather than asking only one yield of them; and allowing systems to demonstrate their own evolutions.
 
 There are a certain set of gardening practices (food forests, hugelkultur, comfrey) that have become associated with permaculture, some of which appeal to me, but for me those were not as much of a draw as the whole-design nature of the idea.
-Many other garden ideologies systems like organic gardening or square foot gardening tend to be centered around one specific concept plus a loose constellation of practices compatible with the core idea.
+Many other garden ideologies like organic gardening or square foot gardening tend to be centered around one specific concept plus a loose constellation of practices compatible with the core idea.
 While many of them have useful advice to offer, I don't find them compelling as an organizing principle for everything.
 Permaculture, in being primarily a design philosophy, credibly promises guidance on the entirety of the system—not only how one manages a garden, but how a garden can fit into your life and the surrounding world.
 It provides not only tools for thinking about design, but tools for thinking about the act of designing.
+
+My entry point for permaculture was Toby Hemenway's <i>Gaia's Garden</i>.
+It's a lovely book that provides a very accessible overview of the concepts that drive permaculture design.
+It's not the final word on the subject, but it was a great place to learn the concepts and terminology, and to gather ideas about how I could apply these concepts in my own space.
 
 Permaculture also gave me a descriptive term for exploring and discovering useful information.
 Because it is aligned with many of the things I wanted out of the garden (beyond-organic, low-input, ecological), I could peruse permaculture sources as a starting point and learn about ideas and techniques that were likely to appeal to me.
@@ -48,11 +65,13 @@ I'm pretty skilled at sifting through information of varying quality, so this wa
 
 The other major breakthrough in my planning education was probably the most valuable book purchase I've ever made: <cite>[Edible Forest Gardens, Volume Two](https://www.chelseagreen.com/product/edible-forest-gardens-volume-ii/)</cite>.
 
+{% single_image path: assets/images/how-to-plan-a-garden/book.jpg alt: "Book cover of Edible Forest Gardens, Volume Two" %}
+
 Side note: there is a Volume One, which provides a conceptual background on permaculture and temperate climate forest gardens in particular.
 It's a perfectly nice book, but not essential if you've picked up the gist from other sources.
 All the meat is in Volume Two, which focuses on practical applications.
 
-<cite>[Edible Forest Gardens, Volume Two]</cite> is a stellar permacultural resource, with extensive plant lists and tables.
+<cite>Edible Forest Gardens, Volume Two</cite> is a stellar permacultural resource, with extensive plant lists and tables.
 But it's also an excellent guide to the design process in general.
 It offers an extremely thorough design program that you can follow to the letter or simply pluck out the parts that appeal to you, and it covers the whole spectrum from very broad exercises like defining the vision for your site to very specific advice like the best way to plant a tree.
 I referred to this book a ton throughout every step of my process.
@@ -61,6 +80,8 @@ The design exercises gave me tools to move from ideas to action.
 Let's take a look at some of the interesting ones.
 
 ## Let's begin ##
+
+{% single_image path: assets/images/how-to-plan-a-garden/base-map.png alt: "Map of our lot", caption: "Here's a simple map of our lot with house, garage, driveway, and sidewalks marked." %}
 
 The early part of the planning process was turning the dreams I had floating around in my head into concrete goals, large and small:
 
@@ -104,6 +125,8 @@ A city lot is unlikely to have zones 3 through 5 (farming, forage, and wildernes
 However, the general concepts are still a useful tool for planning an urban space.
 Our yard very much has areas that are easier or harder to access, and visited more or less frequently.
 
+{% single_image path: assets/images/how-to-plan-a-garden/zones.png alt: "Map of our lot with zones marked out", caption: "Our lot mapped with micro-scale zone designations." %}
+
 The "back nine", for example, is far enough from the house that most hoses don't reach.
 This means it's a nuisance to water it, and therefore it will not be watered very often.
 We also don't pass through that area on the way to or from anywhere else, and we don't spend time in that area to relax or work.
@@ -129,6 +152,8 @@ When we create maps, they tend to identify tangible things: here's the dimension
 But where does the sun shine in winter?
 Which views are desirable or undesirable?
 What enters the site from neighboring areas---wildlife, odors, light, seeds, pollution?
+
+{% single_image path: assets/images/how-to-plan-a-garden/sectors.png alt: "Map of our lot with sectors marked out", caption: "A sector-ish analysis applied to our lot." %}
 
 Thinking in terms of sectors helped me distill a bunch of observations about our site into a concise and useful format that could be used alongside other maps to inform my decisions.
 Some key takeaways for us were:
@@ -175,9 +200,9 @@ With all this information distilled into discrete lists of attributes, I could s
 Some areas had specific problems that needed solving, and so should host something that solved that problem.
 Some of the features I wanted to add had specific placement needs, and so those would get first priority on suitable sites.
 
-I realized that given the size of our yard and the wide variety of features I wanted, the easiest way to develop a sensible plan would be to break the yard up into several different areas, each with their own theme.
+I realized that given the size of our yard and the wide variety of features I wanted, the easiest way to develop a sensible plan would be to break the yard up into several broad areas, each with their own theme.
 
-TODO pic
+{% single_image path: assets/images/how-to-plan-a-garden/general-plan.png alt: "Map of our lot with themed areas marked" %}
 
 The southwest corner got a "food production" theme and would host the vegetable garden.
 Sub-themes for this area were "beneficial insects", because insects are useful to food plots for pollination and pest control, and "visually interesting", because it is situated at the front of the lot and should be pleasant for us to look at from the porch and passersby to look at from the sidewalk.
