@@ -181,6 +181,8 @@ Later, I would do the process more formally by systematically photographing the 
 This latter method took more work and planning, but offers much more exact detail, which is useful in more precise planning.
 The informal method was good enough for my initial needs of delineating the yard into general areas.
 
+{% single_image path: assets/images/how-to-plan-a-garden/sun.png alt: "Map of our lot with sun exposure marked", caption: "A very rough estimate of sun and shade on our lot. I didn't use this during planning, it's just for your edification." %}
+
 The sun data was vital to deciding where to place the vegetable garden.
 In order to get the best production out of many types of vegetables, I needed to make sure it was located in "full sun" (6+ hours of sun per day).
 I would also use sun information heavily when planning other plantings, like the rain garden.
