@@ -11,7 +11,7 @@ I had done a bit of gardening at our rentals over the years, but always at a fai
 I knew I wanted to go much bigger with my ambitions, but I didn't have any experience in landscape design.
 
 Our yard is quite big for the inner city.
-It's a full double lot (just under a quarter acre) and our house has a fairly small footprint, so there's a lot left over.
+It's a full double lot (just under a quarter acre) and our house has a fairly small footprint, so there's plenty of space left over.
 Other than a couple huge trees, the yard was entirely turfgrass when we moved in, and I knew I wanted to kill most of that.
 This meant that I had a blank slate to work with, and while great in a lot of ways, that also meant that I didn't have anything to guide my decisions or limit my options.
 
@@ -30,7 +30,7 @@ I could start to see the shape of the thing I needed to do, I just needed a lot 
 ## Observe and Interact ##
 
 One of the best decisions I made in the planning process was forced upon me.
-We finished a rocky closing process for our house at the end of April, and the time suck of buying a house, moving, and being first-time homeowners meant that I had very little time to plan or prepare as planting season rolled around in May.
+We finished a rocky closing process for our house at the end of April, and the timesuck of buying a house, moving, and being first-time homeowners meant that I had very little time to plan or prepare as planting season rolled around in May.
 This necessarily limited how much I could expect to achieve in the first year, so I planted [a modest vegetable garden]({% post_url 2021-01-11-the-first-year-garden %}) and accepted that my bigger ambitions would need to wait a year.
 
 This was good, because major site planning decisions really should not be made until one has been able to observe conditions throughout a growing season.
@@ -48,7 +48,7 @@ There are many answers to that question, few of them short, but I like [this one
 
 > Permaculture (the word, coined by Bill Mollison, is a portmanteau of permanent agriculture and permanent culture) is the conscious design and maintenance of agriculturally productive ecosystems which have the diversity, stability, and resilience of natural ecosystems… [It] is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms. The philosophy behind permaculture is one of working with, rather than against, nature; of protracted and thoughtful observation rather than protracted and thoughtless action; of looking at systems in all their functions, rather than asking only one yield of them; and allowing systems to demonstrate their own evolutions.
 
-There are a certain set of gardening practices (food forests, hugelkultur, comfrey) that have become associated with permaculture, some of which appeal to me, but for me those were not as much of a draw as the whole-design nature of the idea.
+There are a certain set of gardening practices (food forests, hugelkultur, comfrey) that have become associated with permaculture, some of which I do find appealing, but for me those were not as much of a draw as the whole-design nature of the idea.
 Many other garden ideologies like organic gardening or square foot gardening tend to be centered around one specific concept plus a loose constellation of practices compatible with the core idea.
 While many of them have useful advice to offer, I don't find them compelling as an organizing principle for everything.
 Permaculture, in being primarily a design philosophy, credibly promises guidance on the entirety of the system—not only how one manages a garden, but how a garden can fit into your life and the surrounding world.
@@ -73,7 +73,7 @@ All the meat is in Volume Two, which focuses on practical applications.
 
 <cite>Edible Forest Gardens, Volume Two</cite> is a stellar permacultural resource, with extensive plant lists and tables.
 But it's also an excellent guide to the design process in general.
-It offers an extremely thorough design program that you can follow to the letter or simply pluck out the parts that appeal to you, and it covers the whole spectrum from very broad exercises like defining the vision for your site to very specific advice like the best way to plant a tree.
+It offers an extremely thorough design program that you can follow to the letter or simply pluck out the parts that appeal to you, and it covers the whole spectrum from very broad exercises like defining the vision for your site, to very specific advice like the best way to plant a tree.
 I referred to this book a ton throughout every step of my process.
 It was particularly valuable early on, as I was struggling to figure out where to begin.
 The design exercises gave me tools to move from ideas to action.
@@ -127,11 +127,11 @@ Our yard very much has areas that are easier or harder to access, and visited mo
 
 {% single_image path: assets/images/how-to-plan-a-garden/zones.png alt: "Map of our lot with zones marked out", caption: "Our lot mapped with micro-scale zone designations." %}
 
-The "back nine", for example, is far enough from the house that most hoses don't reach.
+The back of the lot, for example, is far enough from the house that most hoses don't reach.
 This means it's a nuisance to water it, and therefore it will not be watered very often.
 We also don't pass through that area on the way to or from anywhere else, and we don't spend time in that area to relax or work.
 When planning what to do with it, I looked specifically for things that were resilient and largely self-sufficient.
-While that area was a potential site for the vegetable garden in terms of size and sun, I knew relatively high-maintenance vegetables were something that should go in a closer "zone" if possible.
+While that area was a potential site for the vegetable garden in terms of size and sun, I knew relatively high-maintenance vegetables were something that should go in a closer zone if possible.
 
 The strip between the alley and garage is even further out, zone-wise.
 Not only is it far from the house, it's completely out of sight from almost everywhere in the house and yard.
