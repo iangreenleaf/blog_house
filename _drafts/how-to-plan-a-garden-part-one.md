@@ -17,6 +17,11 @@ This meant that I had a blank slate to work with, and while great in a lot of wa
 
 It was clear that I needed help.
 
+{% gallery %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/start1.jpg alt: "Photo of the yard when we bought the house", caption: "The future is wide open." %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/start2.jpg alt: "Photo of the yard when we bought the house", caption: "So. Much. Grass." %}
+{% endgallery %}
+
 I could have gone with a traditional landscape design firm, but I hate to imagine how much they would have charged me for a set of fancy full-color plans.
 Besides, this wouldn't have been a good fit for how I wanted to manage the garden.
 I wanted to handle most of the installation and maintenance myself, and I knew the design would need to change over time.
@@ -80,8 +85,6 @@ The design exercises gave me tools to move from ideas to action.
 Let's take a look at some of the interesting ones.
 
 ## Let's begin ##
-
-{% single_image path: assets/images/how-to-plan-a-garden/base-map.png alt: "Map of our lot", caption: "Here's a simple map of our lot with house, garage, driveway, and sidewalks marked." %}
 
 The early part of the planning process was turning the dreams I had floating around in my head into concrete goals, large and small:
 
