@@ -126,6 +126,8 @@ I probably spent more time on this than on all the other weeding I've done in th
 Luckily, I didn't let this ordeal put me off of growing sunchokes, and I have since planted some elsewhere that are now one of my favorite and most productive crops.
 You should consider growing sunchokes too, but learn from my mistakes: grow a named cultivar, and situate it somewhere that is easy to control the spread.
 
+{% single_image path: assets/images/the-first-year-garden/sunchokes.jpg caption: "Me, later, with some better-behaved sunchokes." %}
+
 ## Retirement ##
 
 By the 2018 growing season, I had established a large permanent vegetable garden elsewhere in the yard and no longer needed the circle space for food.
@@ -177,6 +179,7 @@ It's now a lush area packed with foliage and flowers and constantly busy with po
 {% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The garden in July 2020." %}
 {% gallery_image path: assets/images/the-first-year-garden/coneflower-butterfly.jpg alt: "A butterfly on a purple coneflower", caption: "Coneflowers seem to be a favorite of butterflies." %}
 {% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'It’s called “bee balm” for a reason!' %}
+{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a thistle blossom", caption: 'This native “field thistle” was a surprise hit. It’s a huge and striking plant, and the bees loved the giant blossoms.'  %}
 {% endgallery %}
 
 I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
