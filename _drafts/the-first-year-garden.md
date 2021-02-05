@@ -35,9 +35,9 @@ It was already past planting time, so as soon as it was ready I started putting 
 I had some seeds from previous years, and I bought some starts at the Friends Plant Sale and a couple neighborhood plant sales.
 I also acquired a few plants from neighbors giving away extras, though one of those I would come to regret.
 
-{% single_image path: assets/images/the-first-year-garden/circle-garden-early.jpg alt: "The garden planted in early spring" %}
-
 Planks salvaged from [the garage]({% post_url 2019-06-20-the-garage %}) formed makeshift paths, and I got a bale of straw from a garden center for mulch.
+
+{% single_image path: assets/images/the-first-year-garden/circle-garden-july.jpg alt: "The garden in early July" %}
 
 Rabbits started snipping things the moment I planted.
 Luckily I was cruising the free section on Nextdoor pretty heavily around this time and had acquired some chicken wire and t-posts, so that made a makeshift fence.
@@ -47,8 +47,8 @@ At some point I got some landscape staples and used those to hold down the botto
 
 In addition to the circle garden, the small raised bed was available for use, so I planted it with tomatoes and a few flowers and other leftovers.
 This bed didn't have any critter protection, but thankfully the rabbits around here have never shown any interest in tomato plants.
-I had a motley assortment of tomato cages, some passed down from my father, some scavenged, and a few that came with the house.
-They worked fine and the tomatoes did pretty well.
+
+{% single_image path: assets/images/the-first-year-garden/raised-bed-june.jpg alt: "The raised bed in late June" %}
 
 The juniper right next to the bed, however, got in the way of maintenance and harvesting.
 I never figured out what the logic was in this placement.
@@ -58,15 +58,23 @@ The boards were also rotting and coming apart, so I didn't expect this bed to ex
 
 Given the limited amount of site preparation and the numerous imperfections in my process, I feel like I got as good of results as I could have hoped for.
 There was remarkably little weed pressure--I think the pool must have been in place for so long that the weed seeds underneath it had rotted or lost viability.
+
+{% single_image path: assets/images/the-first-year-garden/circle-garden-peas.jpg alt: "Peas and tomatoes in the circle garden" %}
+
 Most of the vegetables grew well, considering the soil hadn't been amended or improved in any way.
 I did buy some liquid fertilizer that I applied to the tomatoes and flowers a couple times.
 It's from a local company that grinds up invasive carp into [a nutrient-rich fish juice](https://twomikes.net/?page_id=37).
 What a great use for an unwanted species!
 As you might imagine, it smells a bit fishy when applied, but that smell is gone by the next day.
 
-We got a very good crop of tomatoes, which is good because they are a top garden priority around here.
+We got a nice crop of tomatoes, which is good because they are a top garden priority around here.
 The greens were also good, with more arugula than I could harvest and a stellar performance from the "Amish Deer Tongue" lettuce, which has earned itself a permanent place in my planting lineup.
-Beans are always a safe bet, and we had a nice mix of herbs too.
+Beans and peas are always a good bet, and we had a nice mix of herbs too.
+
+{% gallery %}
+{% gallery_image path: assets/images/the-first-year-garden/circle-garden-midsummer.jpg alt: "The circle garden in late summer" %}
+{% gallery_image path: assets/images/the-first-year-garden/raised-bed-midsummer.jpg alt: "The raised bed in late summer" %}
+{% endgallery %}
 
 This is not to say there weren't failures.
 I planted quite a few herb and flower seeds that never germinated.
@@ -83,12 +91,12 @@ Sunchokes, also known as Jerusalem Artichokes, are a perennial relative of the s
 They are also often described as an aggressive spreader, to be treated with care.
 I took these warnings too lightly and paid for it.
 
-I had heard about sunchokes somewhere and was interested in them.
+I had read about sunchokes somewhere and was interested in them.
 When someone on Nextdoor offered free baby plants dug from their yard, I biked over and grabbed a handful of starts, which I plopped in the middle of the circle garden.
 
 Mistake #1: *Right* in the middle of the garden.
 My thinking at the time was that they were taller so they could be flanked by shorter plants without blocking views or sun.
-In retrospect, what I actually did was provide them with a ton of clear surface to colonize and no barriers to keep them contained.
+In retrospect, what I actually did was provide them with a ton of open soil to colonize and no barriers to keep them contained.
 
 Mistake #2: I suspect these sunchokes were a wild type.
 There are cultivars that produce bigger tubers and spread less vigorously, but these were probably the undomesticated variety.
@@ -112,9 +120,10 @@ Mowing is an option, but it would have to be done very regularly to be effective
 Mulching would probably work, but I suspect it would have to be a very impenetrable layer to foil these vigorous plants.
 
 I chose a war of attrition, making frequent patrols throughout the summer to pull up every sunchoke plant I found in the area.
-More would sprout, and a week later I'd pull some more.
+More would sprout, and a week later I'd pull them up again.
 When I had time, I'd also use a trowel to dig out the tubers themselves so they couldn't just send up a new stem.
 This strategy did eventually work, but it took a whole summer of regular attention before I got things under control.
+I probably spent more time on this than on all the other weeding I've done in this garden in its whole existence.
 
 Luckily, I didn't let this ordeal put me off of growing sunchokes, and I have since planted some elsewhere that are now one of my favorite and most productive crops.
 You should consider growing sunchokes too, but learn from my mistakes: grow a named cultivar, and situate it somewhere that is easy to control the spread.
@@ -151,25 +160,45 @@ I suspect this wasn't helpful to the seeds, who didn't have a cool moist transit
 The outcome that year did not look very good.
 Other than some black-eyed susans, very few native plants showed up and I was concerned that the prairie planting had been a failure.
 
+{% single_image path: assets/images/the-first-year-garden/prairie-first-year.jpg alt: "The new prairie garden growing mostly grass and weeds", caption: "The pocket prairie, year one. Not looking too promising." %}
+
 Luckily, I didn't care enough to intervene, and 2019 proved much more successful.
 Quite a few more natives appeared and the space started to fill in, making the threat of weeds less pressing.
 We got some nice flowers, not only from the robust and ever-adventurous black-eyed susans, but from some more unusual participants like figwort and native field thistle.
 
+{% gallery %}
+{% gallery_image path: assets/images/the-first-year-garden/prairie-second-year.jpg alt: "The prairie garden with blooming flowers" %}
+{% gallery_image path: assets/images/the-first-year-garden/figwort.jpg alt: "A closeup up figwort flowers", caption: "Figwort, a somewhat rare and somewhat weird native" %}
+{% endgallery %}
+
 The prairie fully arrived in 2020.
 It's now a lush area packed with foliage and flowers and constantly busy with pollinators.
+
+{% gallery %}
+{% gallery_image path: assets/images/the-first-year-garden/prairie-third-year.jpg alt: "Prairie garden with many blooming flowers", caption: "The garden in July 2020." %}
+{% gallery_image path: assets/images/the-first-year-garden/coneflower-butterfly.jpg alt: "A butterfly on a purple coneflower", caption: "Coneflowers seem to be a favorite of butterflies." %}
+{% gallery_image path: assets/images/the-first-year-garden/bee-balm-bee.jpg alt: "A bumblebee on a monarda blossom", caption: 'It's called "bee balm" for a reason!' %}
+{% endgallery %}
+
 I did virtually no weeding or maintenance on it the entire year, and yet almost every plant I could identify was a native.
 It seems that the natives, now fully established, have thoroughly out-competed the weeds.
 This was always the plan in theory, but seeing it take place in practice was very exciting.
+
+{% single_image path: assets/images/the-first-year-garden/bee-balm.jpg %}
 
 Looking back, I realized I had put shockingly little work into establishing this area in general.
 I had done a bit of weeding in the first two years, mostly of pesky sow thistle, but really very little time in the grand scheme of things.
 The only major time investment was fighting back sunchokes, a problem of my own making.
 I was probably helped somewhat by not having major weed pressure to begin with, but still, this result feels like a big win.
 
+{% single_image path: assets/images/the-first-year-garden/coneflower.jpg %}
+
 Thirty bucks and some patience got me an area that doesn't need mowing, looks pretty, and provides a huge boost of biodiversity.
 The wild and slightly unruly nature of it wouldn't work in every situation (this year, notably, a [gaura](https://www.prairiemoon.com/gaura-biennis-biennial-gaura-prairie-moon-nursery.html) grew about 7 feet tall and then epically flopped over), but in this spot it works great.
 Also, the dog likes to bushwhack through this area for no obvious reason.
 I swear part of the appeal for her is that if she gets into the middle, the plants are thick enough she's completely hidden from sight.
+
+{% single_image path: assets/images/the-first-year-garden/prairie-dog.jpg alt: "Dog sitting in the prairie garden", caption: "Dog approved." %}
 
 ## Whirligig ##
 
@@ -181,6 +210,9 @@ These ones spin effortlessly and come with a lifetime rebalancing guarantee.
 
 After some discussion, we agreed to invest in a whirligig, so on her next Wisconsin trip Katherine brought one home.
 We didn't have a specific spot in mind for it, but we tried it out in the prairie area and thought it fit in very nicely, so it lives there now.
+
+{% single_image path: assets/images/the-first-year-garden/whirligig.jpg alt: "The whirligig in the middle of the prairie garden"" %}
+
 The only issue we have is that suicidal figwort plants keep trying to grow directly into the spinning blades and get all chewed up, so we have to keep trimming them back.
 We even moved it to a different spot and somehow a new figwort appeared and dove right into the blades.
 
