@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How to plan a garden, part one: The vision"
+title: 'How to plan a garden, part one: The vision'
 tags:
-  - Garden
-  - How to
+- Garden
+- How to
+date: 2021-02-04 21:10 -0600
 ---
-
 With our new house, I was very excited to start planning our garden and landscaping, but to be honest also very intimidated.
 I had done a bit of gardening at our rentals over the years, but always at a fairly small scale.
 I knew I wanted to go much bigger with my ambitions, but I didn't have any experience in landscape design.
