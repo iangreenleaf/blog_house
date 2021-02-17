@@ -36,7 +36,10 @@ This final map was drawn on 10x10 graph paper.
 I have another version drawn in Sketchup, which is the one you see in the previous post, but I didn't end up using that version much during the planning process.
 The graph paper version was easier to refer back to, as I could easily count out measurements of an area I was interested in.
 
-## TODO ##
+## Tools of the trade ##
+
+In preparation for doing a lot of mapping, I assembled some tools to help.
+These weren't all necessary, but they did make the job a bit faster and more pleasant.
 
 <dl>
   <dt>Graph paper</dt>
@@ -65,6 +68,87 @@ The graph paper version was easier to refer back to, as I could easily count out
       Has a wider expressive range, such as drawing thicker lines, or shading areas.
       Sturdy and will last me forever.</dd>
 </dl>
+
+## The lay of the land ##
+
+Elevation changes are typically an important part of site design.
+The contours of a site can affect water drainage, microclimates, ease of access, and so on.
+I won't be discussing this much, for the simple reason that our lot doesn't have any elevation changes.
+It's graded completely flat and is level with the sidewalk, so we don't even have the small front yard hill that many South Minneapolis lots do.
+For the most part, this was fine, as it made my job easier.
+I thought a few times about adding mounds or hills to provide some variety, but there was nowhere in the yard that seemed like it would particularly benefit from that, and since the drainage on our site is generally fine, I was hesitant to make any changes that would throw things out of balance.
+
+Another important thing to consider early in the design process is hardscaping.
+In our case, this was also fairly easy.
+There is a small patio behind the house, and if we ever decide to add a larger patio, it will go in that same area.
+I don't have any plans to change the location of the other sidewalks, and other than slightly decreasing the size of the driveway when we put in the fence, none of that is changing either.
+The area a potential patio might extend to is staying grass for now, so there wasn't a concern about installing permanent plantings when they might turn out to be in the way.
+
+## A few more important details ##
+
+When selecting plants, there are a couple general attributes that will help determine if a plant will be happy in a spot
+
+## Plants… ##
+
+Plant selection was probably the most time-consuming (and most fun) part of the process.
+I didn't have much plant knowledge coming into this, so I really dove headfirst into the subject.
+Starting with themed areas helped a lot, as the different sections of the yard naturally lent themselves to different kinds of plants.
+The food area got vegetables and other edibles, the wildlife area got native plants, and the wild area got a permaculture food forest palette.
+Focusing on these areas one at a time gave me a way to direct my research.
+
+Some of the resources I found most useful in this were:
+
+<dl>
+  <dt><cite>Gaia's Garden</cite></dt>
+  <dd>Offers some good starter lists of permaculture favorites, and in-depth profiles of a few specific plants the detail how they might be best put to use.</dd>
+  <dt><cite>Edible Forest Gardens, Volume Two</cite></dt>
+  <dd>The back of the book is a huge set of appendices with fabulous plant lists for a permaculture focus. Would that every resource was this thorough.</dd>
+  <dt><cite>[Perennial vegetables](https://www.worldcat.org/title/perennial-vegetables-from-artichoke-to-zuiki-taro-a-gardeners-guide-to-over-100-delicious-easy-to-grow-edibles/oclc/636660344?loc=)</cite></dt>
+  <dd>A guide to edible perennial plants, a subject I was specifically interested in. Not a perfect book but a good companion piece to the others.</dd>
+  <dt><cite>[Birdscaping in the Midwest](https://www.worldcat.org/title/birdscaping-in-the-midwest-a-guide-to-gardening-with-native-plants-to-attract-birds/oclc/80180291?loc=)</cite></dt>
+  <dd>A thorough and informative guide to attracting all sorts of birds. Excellent plant lists, second only to <cite>Edible Forest Gardens</cite>.</dd>
+  <dt><cite>[Attracting Butterflies & Hummingbirds to Your Backyard](https://www.worldcat.org/title/attracting-butterflies-hummingbirds-to-your-backyard-watch-your-garden-come-alive-with-beauty-on-the-wing/oclc/893647163?loc=)</cite></dt>
+  <dd>Just like it says, a guide to creating plants and habitat for hummingbirds and butterflies. These were two types of wildlife I was specifically interested in, so it was a great fit.</dd>
+  <dt>Seed catalogs</dt>
+  <dd>Some of the catalogs seed companies put out offer a lot of good information on the plants they sell. Fedco has very good paper catalogs for both trees and vegetables. [Prairie Moon](https://www.prairiemoon.com/)'s online and paper catalogs are excellent reference sources for native plants in our region.</dd>
+  <dt>Plant lists</dt>
+  <dd>There are lots of sample plant lists for native plants floating around. I collected a variety including some from Blue Thumb, Xerces, and UMN's Bee Lab. If I were starting today my first stop would be the resources in the [Lawns to Legumes program guide](https://bwsr.state.mn.us/sites/default/files/2020-06/Planting%20for%20Pollinators_updated_2020.pdf). The plant lists and sample plans are high quality and easy to use.</dd>
+  <dt>[USDA Plants Database](https://plants.usda.gov)</dt>
+  <dd>This tool isn't the easiest to use, but it contains a ton of information. I used it to check if a plant was considered native to the state, to find scientific names for plants, and to help untangle the taxonomy of plants with confusing classifications (lookin' at you, "serviceberry"). Some plants also have more detailed fact sheets or plant guides, which can offer detailed information on growing characteristics (though these are often aimed towards agriculture or forestry). They also have a ton of searchable plant characteristics that I feel like I have only scratched the surface of. For example, I figured out how to search for MN natives with "medium" or "high" nitrogen fixing capabilities and got several useful plant suggestions from that.</dd>
+</dl>
+
+When choosing plants, the primary criteria for me is: what functions does this plant serve?
+Ideally, everything we grow should serve multiple purposes (in the permaculture world, this is called "stacking functions").
+For example, a large serviceberry shrub on the north side of our lot can provide: attractive spring flowers and beautiful fall foliage; a partial screen from the sidewalk; early season food for pollinators; tasty berries for birds and humans; perching spots and cover for birds; habitat for a variety of insects; a deep root system that sequesters carbon, improves the soil, and allows for water penetration; and leaves that filter dust and pollutants.
+While it might sound very complicated to look at plants in this multi-faceted way, I felt that it actually made the job easier by narrowing my scope to selections of plants that have a lot to offer.
+Notably, I have been able to almost entirely ignore the vast world of decorative nursery perennials, because those plants are often bred solely for appearance and in my garden a single function is not enough to warrant consideration.
+
+The idea of functions dovetailed perfectly with the considerations I had [previously mapped out]({% post_url 2021-02-04-how-to-plan-a-garden-part-one %}) with zones and sectors, as finer-grained details within the general themes.
+For example, when picking plants for the northeast corner, the general theme dictated that they contribute to a woodland feel and four-season beauty.
+From sectors, I knew that they should be attractive from the public sidewalk as well as our picture window, that they should be able to withstand the strong winds that enter at that corner, and that they should provide a windbreak to protect the rest of the yard.
+From zones, I knew that they should be relatively self-sufficient because I wouldn't be dragging a hose up there all that often to water them, and I wouldn't be passing through every day to deal with weeds or other maintenance.
+Red-twig dogwood meets all of those criteria perfectly, plus is a native plant with excellent wildlife value, so it got the nod in that area.
+
+## …and where to put them ##
+
+When deciding on the exact placement of plants, there a number of other questions to consider besides meeting the desired functions.
+
+How big will the plant be at maturity?
+What is its habit (i.e. shape) and will that be a good fit for where it is?
+How much sun does it like and will it receive the right amount (both right now, and once the plantings are fully established)?
+Will it create the right amount of sun for surrounding plants at maturity?
+What sort of root system does it have and will that coexist with other plants nearby?
+Does it spread or stay in one place, and is that what you want it to do?
+Will it receive the right amount of moisture?
+Is the plant hardy in your zone, or if it's borderline, will it receive extra protection?
+Will the plant be happy with the soil pH?
+
+TODO
+
+For spacing, I largely adhered to the ["crowns touching" rule](https://permies.com/t/153438/Dense-Wide-Spacing-Food-Forests#1214206).
+In hindsight now that we've had a few years of growth, I think I made the right decision on tree spacing but I could have planted many of the shrubs and forbs more densely.
+As [this commenter](https://permies.com/t/153438/Dense-Wide-Spacing-Food-Forests#1203185) notes, "most people put their trees too close together, but then don't plant enough support species".
+I've been slowly filling in my original plantings with additional understory plants as I realize there's space for more.
 
 ## Time & Materials ##
 
