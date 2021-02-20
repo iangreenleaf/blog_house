@@ -50,7 +50,7 @@ These weren't all necessary, but they did make the job a bit faster and more ple
   <dd>Once I had a map drawn, I could quickly trace the boundaries onto tracing paper to make copies.
       This was handy when I wanted to try out different potential layouts or iterate several times on a design.
       There are other ways I could have dealt with this, so the tracing paper was not a necessity, but it did come in handy a few times.</dd>
-  <dt>[Circle drawing template](https://www.amazon.com/gp/product/B000KIDVJE/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)</dt>
+  <dt><a href="https://www.amazon.com/gp/product/B000KIDVJE/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1">Circle drawing template</a></dt>
   <dd>I stumbled on this by chance but it turned out to be one of the most useful tools I picked up.
       This particular template has a wide range of circle sizes that were perfect for drawing trees, bushes, and forbs.
       It's much easier and faster to draw small circles this way than with a compass, and much neater than trying to draw circles freehand.
@@ -63,7 +63,7 @@ These weren't all necessary, but they did make the job a bit faster and more ple
       Used with 1:10 graph paper, you can make measurements that translate to feet with no conversion required.
       While it seemed like a great idea, I didn't end up using this very much.
       If I weren't primarily working on graph paper, or if our site were bigger and had fewer right angles, I might have needed it more often.</dd>
-  <dt>[Clutch pencil](https://www.amazon.com/gp/product/B000JQSV7E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)</dt>
+  <dt><a href="https://www.amazon.com/gp/product/B000JQSV7E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1">Clutch pencil</a></dt>
   <dd>Not a necessary purchase, but a nice complement to mechanical pencils.
       Has a wider expressive range, such as drawing thicker lines, or shading areas.
       Sturdy and will last me forever.</dd>
@@ -99,15 +99,15 @@ Focusing on these areas one at a time gave me a way to direct my research.
 Some of the resources I found most useful in this were:
 
 <dl>
-  <dt><cite>Gaia's Garden</cite></dt>
+  <dt><a href="https://tobyhemenway.com/book/gaias-garden/"><cite>Gaia's Garden</cite></a></dt>
   <dd>Offers some good starter lists of permaculture favorites, and in-depth profiles of a few specific plants the detail how they might be best put to use.</dd>
-  <dt><cite>Edible Forest Gardens, Volume Two</cite></dt>
+  <dt><a href="https://www.chelseagreen.com/product/edible-forest-gardens-volume-ii/"><cite>Edible Forest Gardens, Volume Two</cite></a></dt>
   <dd>The back of the book is a huge set of appendices with fabulous plant lists for a permaculture focus. Would that every resource was this thorough.</dd>
-  <dt><cite>[Perennial vegetables](https://www.worldcat.org/title/perennial-vegetables-from-artichoke-to-zuiki-taro-a-gardeners-guide-to-over-100-delicious-easy-to-grow-edibles/oclc/636660344?loc=)</cite></dt>
+  <dt><a href="https://www.worldcat.org/title/perennial-vegetables-from-artichoke-to-zuiki-taro-a-gardeners-guide-to-over-100-delicious-easy-to-grow-edibles/oclc/636660344?loc="><cite>Perennial Vegetables</cite></a></dt>
   <dd>A guide to edible perennial plants, a subject I was specifically interested in. Not a perfect book but a good companion piece to the others.</dd>
-  <dt><cite>[Birdscaping in the Midwest](https://www.worldcat.org/title/birdscaping-in-the-midwest-a-guide-to-gardening-with-native-plants-to-attract-birds/oclc/80180291?loc=)</cite></dt>
+  <dt><a href="https://www.worldcat.org/title/birdscaping-in-the-midwest-a-guide-to-gardening-with-native-plants-to-attract-birds/oclc/80180291?loc="><cite>Birdscaping in the Midwest</cite></a></dt>
   <dd>A thorough and informative guide to attracting all sorts of birds. Excellent plant lists, second only to <cite>Edible Forest Gardens</cite>.</dd>
-  <dt><cite>[Attracting Butterflies & Hummingbirds to Your Backyard](https://www.worldcat.org/title/attracting-butterflies-hummingbirds-to-your-backyard-watch-your-garden-come-alive-with-beauty-on-the-wing/oclc/893647163?loc=)</cite></dt>
+  <dt><a href="https://www.worldcat.org/title/attracting-butterflies-hummingbirds-to-your-backyard-watch-your-garden-come-alive-with-beauty-on-the-wing/oclc/893647163?loc="><cite>Attracting Butterflies & Hummingbirds to Your Backyard</cite></a></dt>
   <dd>Just like it says, a guide to creating plants and habitat for hummingbirds and butterflies. These were two types of wildlife I was specifically interested in, so it was a great fit.</dd>
   <dt>Seed catalogs</dt>
   <dd>Some of the catalogs seed companies put out offer a lot of good information on the plants they sell. Fedco has very good paper catalogs for both trees and vegetables. [Prairie Moon](https://www.prairiemoon.com/)'s online and paper catalogs are excellent reference sources for native plants in our region.</dd>
@@ -136,19 +136,53 @@ When deciding on the exact placement of plants, there a number of other question
 How big will the plant be at maturity?
 What is its habit (i.e. shape) and will that be a good fit for where it is?
 How much sun does it like and will it receive the right amount (both right now, and once the plantings are fully established)?
-Will it create the right amount of sun for surrounding plants at maturity?
+Will it create the right amount of sun at maturity for surrounding plants?
 What sort of root system does it have and will that coexist with other plants nearby?
 Does it spread or stay in one place, and is that what you want it to do?
 Will it receive the right amount of moisture?
 Is the plant hardy in your zone, or if it's borderline, will it receive extra protection?
 Will the plant be happy with the soil pH?
 
-TODO
-
 For spacing, I largely adhered to the ["crowns touching" rule](https://permies.com/t/153438/Dense-Wide-Spacing-Food-Forests#1214206).
 In hindsight now that we've had a few years of growth, I think I made the right decision on tree spacing but I could have planted many of the shrubs and forbs more densely.
 As [this commenter](https://permies.com/t/153438/Dense-Wide-Spacing-Food-Forests#1203185) notes, "most people put their trees too close together, but then don't plant enough support species".
 I've been slowly filling in my original plantings with additional understory plants as I realize there's space for more.
+
+Developing the designs was a highly iterative process.
+I worked primarily with the trees and shrubs in most sections, as those are the most permanent and most structural plants.
+For each section, I put together a short list of possible plants using the resources listed above, then sketched out different placements and combinations to see what worked well.
+
+The rain garden was one of the most complicated areas, reflected in the number of different concepts I considered for it:
+
+[rain garden sketches]
+
+Once I had a base map, I could use tracing paper to quickly create copies of a map to sketch different ideas on.
+For the back of the lot, which had a lot of flexibility, I wanted to quickly visualize many different layouts and combinations of different plant sizes.
+I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small an large shrubs.
+I could push these around on the map as I thought through how to best make use of that space.
+
+[back nine sketches]
+
+On the side of the house, I was also interested in the vertical dimension of the planting, as we wanted to partially screen our windows but not create an impenetrable wall.
+Once I had a layout that looked good from the "top-down" perspective, I drew a scaled side view to help me imagine what it would look like from the sidewalk.
+
+[side view]
+
+In addition to making sure the plans looked good on paper, I vetted them on the ground itself to make sure they felt good there as well.
+I used stakes to mark the center of major elements and spray paint to mark the outlines of trees, bushes, or other structural elements.
+This helped me visualize the final result and gave me a chance to walk out potential borders and pathways.
+
+[paint view]
+
+With the "bones" of the landscape decided, I filled in the designs with the "forbs" (non-woody plants) I wanted.
+This process was similar to the trees and shrubs, though often easier because there is a lot more flexibility in placement of smaller plants.
+What plants went into the design depended on what plants I could source, so this part involved iterations of looking at plant lists from local vendors, adjusting the design, rechecking the plant lists, and so on.
+
+[rain garden plan]
+
+Some areas didn't get detailed schematics of every plant ahead of time, but rather a rough plan of plant selections and quantities that I'd finalize at planting time.
+And of course the iterative design process continued after planting, as I would realize I had more room to fill, or would need to replace a plant that wasn't doing well, or would find a new exciting plant and need to figure out where to fit it in.
+I consider the maps living documents, and try to keep them updated as things change (though my track record on that has been spotty).
 
 ## Time & Materials ##
 
@@ -160,14 +194,21 @@ Still, planning a design of this magnitude is a definite commitment.
 
 {% summary cost %}
 {% subtotal_heading Books %}
+{% line_item <cite>[Gaia's Garden](https://tobyhemenway.com/book/gaias-garden/)</cite> | $30 %}
 {% line_item <cite>[Edible Forest Gardens, Volume Two](https://www.chelseagreen.com/product/edible-forest-gardens-volume-ii/)</cite> | $62 %}
+{% line_item <cite>[Perennial Vegetables](https://www.worldcat.org/title/perennial-vegetables-from-artichoke-to-zuiki-taro-a-gardeners-guide-to-over-100-delicious-easy-to-grow-edibles/oclc/636660344?loc=)</cite> | $15 %}
+{% line_item <cite>[Birdscaping in the Midwest](https://www.worldcat.org/title/birdscaping-in-the-midwest-a-guide-to-gardening-with-native-plants-to-attract-birds/oclc/80180291?loc=)</cite> | library %}
+{% line_item <cite>[Attracting Butterflies & Hummingbirds to Your Backyard](https://www.worldcat.org/title/attracting-butterflies-hummingbirds-to-your-backyard-watch-your-garden-come-alive-with-beauty-on-the-wing/oclc/893647163?loc=)</cite> | library %}
+{% subtotal $107 %}
 {% subtotal_heading Drafting supplies %}
 {% line_item 4x4 graph paper | existing %}
 {% line_item [10x10 graph paper](https://www.amazon.com/gp/product/B001KZH2DC/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1) | $6 %}
-{% line_item [tracing paper](https://www.amazon.com/gp/product/B004GXBXSK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | $6 %}
-{% line_item [circle drawing template](https://www.amazon.com/gp/product/B000KIDVJE/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $7 %}
-{% line_item [triangular scale ruler](https://www.amazon.com/gp/product/B000HEOI0W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $6 %}
-{% line_item [clutch pencil](https://www.amazon.com/gp/product/B000JQSV7E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | $7 %}
-{% line_item [compass](https://www.amazon.com/gp/product/B005M306U4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | $9 %}
-{% total $ %}
+{% line_item [Tracing paper](https://www.amazon.com/gp/product/B004GXBXSK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | $6 %}
+{% line_item [Circle drawing template](https://www.amazon.com/gp/product/B000KIDVJE/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $7 %}
+{% line_item [Triangular scale ruler](https://www.amazon.com/gp/product/B000HEOI0W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $6 %}
+{% line_item [Clutch pencil](https://www.amazon.com/gp/product/B000JQSV7E/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | $7 %}
+{% line_item [Compass](https://www.amazon.com/gp/product/B005M306U4/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | $9 %}
+{% line_item [Inverted marking paint](https://www.homedepot.com/p/Rust-Oleum-Professional-15-oz-Fluorescent-Red-Orange-2X-Distance-Inverted-Marking-Spray-Paint-266590/203302842) | $6 %}
+{% subtotal $47 %}
+{% total $154 %}
 {% endsummary %}
