@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How to plan a garden, part one: The vision'
+title: 'How to plan a garden, part one: the vision'
 tags:
 - Garden
 - How to

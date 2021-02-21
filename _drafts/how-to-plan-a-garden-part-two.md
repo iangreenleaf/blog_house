@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to plan a garden, part two: The details"
+title: "How to plan a garden, part two: the details"
 tags:
   - Garden
   - How to
@@ -19,7 +19,7 @@ I've shown you an overview map of our lot that I used for high-level planning, b
 We didn't have any documents to use as a starting point, so it was up to me to come up with a decently accurate map of the yard and existing features.
 Here's my working document:
 
-{% single_image path: assets/images/how-to-plan-a-garden/overview-map-sketch.png alt: "A very rough sketch of our lot layout" %}
+{% single_image path: assets/images/how-to-plan-a-garden/overview-map-sketch.jpg alt: "A very rough sketch of our lot layout" %}
 
 I sketched out the house and yard and then spent a while walking around outside measuring every component you see marked on there.
 For the longer segments, I marked out about 40 feet with masking tape on a spool of rope I had found abandoned in the garage and used that with a little stake to hold one end.
@@ -30,7 +30,7 @@ You can see I didn't measure every dimension of every feature, but rather just e
 Were our lot bigger or more complicated, I might have needed to use fancier techniques like triangulation to accurately locate some features, but on my map that never felt necessary.
 Most features were easily placed with right angles, and I only needed it to be accurate within a couple feet anyways.
 
-{% single_image path: assets/images/how-to-plan-a-garden/overview-map.png alt: "A finished map of our whole lot layout" %}
+{% single_image path: assets/images/how-to-plan-a-garden/overview-map.jpg alt: "A finished map of our whole lot layout" %}
 
 This final map was drawn on 10x10 graph paper.
 I have another version drawn in Sketchup, which is the one you see in the previous post, but I didn't end up using that version much during the planning process.
@@ -84,16 +84,12 @@ There is a small patio behind the house, and if we ever decide to add a larger p
 I don't have any plans to change the location of the other sidewalks, and other than slightly decreasing the size of the driveway when we put in the fence, none of that is changing either.
 The area a potential patio might extend to is staying grass for now, so there wasn't a concern about installing permanent plantings when they might turn out to be in the way.
 
-## A few more important details ##
-
-When selecting plants, there are a couple general attributes that will help determine if a plant will be happy in a spot
-
 ## Plants… ##
 
 Plant selection was probably the most time-consuming (and most fun) part of the process.
 I didn't have much plant knowledge coming into this, so I really dove headfirst into the subject.
 Starting with themed areas helped a lot, as the different sections of the yard naturally lent themselves to different kinds of plants.
-The food area got vegetables and other edibles, the wildlife area got native plants, and the wild area got a permaculture food forest palette.
+The food area got vegetables and other edibles, the wildlife area got native plants, and the back of the lot got a permaculture food forest palette.
 Focusing on these areas one at a time gave me a way to direct my research.
 
 Some of the resources I found most useful in this were:
@@ -154,31 +150,41 @@ For each section, I put together a short list of possible plants using the resou
 
 The rain garden was one of the most complicated areas, reflected in the number of different concepts I considered for it:
 
-[rain garden sketches]
+{% gallery %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-1.jpg, alt: "Sketch of a potential rain garden layout" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-2.jpg, alt: "Sketch of a potential rain garden layout" %}
+{% endgallery %}
 
 Once I had a base map, I could use tracing paper to quickly create copies of a map to sketch different ideas on.
 For the back of the lot, which had a lot of flexibility, I wanted to quickly visualize many different layouts and combinations of different plant sizes.
 I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small an large shrubs.
 I could push these around on the map as I thought through how to best make use of that space.
 
-[back nine sketches]
+{% gallery %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/back-nine-paper-sketch.jpg, alt: "Map of the back area of the lot with loose circles of paper laid out" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/back-nine-sketch.jpg, alt: "Sketch of the back area of the lot" %}
+{% endgallery %}
 
 On the side of the house, I was also interested in the vertical dimension of the planting, as we wanted to partially screen our windows but not create an impenetrable wall.
 Once I had a layout that looked good from the "top-down" perspective, I drew a scaled side view to help me imagine what it would look like from the sidewalk.
 
-[side view]
+{% single_image path: assets/images/how-to-plan-a-garden/rain-garden-profile.jpg alt: "A sketch of the rain garden layout from the side" %}
 
 In addition to making sure the plans looked good on paper, I vetted them on the ground itself to make sure they felt good there as well.
 I used stakes to mark the center of major elements and spray paint to mark the outlines of trees, bushes, or other structural elements.
 This helped me visualize the final result and gave me a chance to walk out potential borders and pathways.
 
-[paint view]
+{% gallery %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/paint-tree-layout.jpg, caption: "Paint and stakes to mark the mature size of a tree canopy" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/paint-rain-garden.jpg, caption: "Paint for the outline of the rain garden depression, stakes for trees and shrubs" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/snow-tree-layout.jpg, caption: "As an alternative, just stomp circles in the snow to mark tree locations!" %}
+{% endgallery %}
 
 With the "bones" of the landscape decided, I filled in the designs with the "forbs" (non-woody plants) I wanted.
 This process was similar to the trees and shrubs, though often easier because there is a lot more flexibility in placement of smaller plants.
 What plants went into the design depended on what plants I could source, so this part involved iterations of looking at plant lists from local vendors, adjusting the design, rechecking the plant lists, and so on.
 
-[rain garden plan]
+{% single_image path: assets/images/how-to-plan-a-garden/rain-garden-draft.jpg caption: "A not-quite-final version of the rain garden design, with forbs filled in." %}
 
 Some areas didn't get detailed schematics of every plant ahead of time, but rather a rough plan of plant selections and quantities that I'd finalize at planting time.
 And of course the iterative design process continued after planting, as I would realize I had more room to fill, or would need to replace a plant that wasn't doing well, or would find a new exciting plant and need to figure out where to fit it in.
