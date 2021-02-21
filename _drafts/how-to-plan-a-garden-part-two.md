@@ -43,7 +43,7 @@ These weren't all necessary, but they did make the job a bit faster and more ple
 
 <dl>
   <dt>Graph paper</dt>
-  <dd>I got two types, 10 squares per inch and 4 squares per inch. The 10x10 is easiest to do math with, and matches up with the commone engineer's scale of 1:10.
+  <dd>I got two types, 10 squares per inch and 4 squares per inch. The 10x10 is easiest to do math with, and matches up with the common engineer's scale of 1:10.
       It's a good size for larger maps but was a little too small for doing finer designs on specific areas, like mapping out exact plant locations.
       The 4x4 graph paper was a much better scale for those drawings.</dd>
   <dt>Tracing paper</dt>
@@ -109,7 +109,7 @@ Some of the resources I found most useful in this were:
   <dd>Some of the catalogs seed companies put out offer a lot of good information on the plants they sell. Fedco has very good paper catalogs for both trees and vegetables. [Prairie Moon](https://www.prairiemoon.com/)'s online and paper catalogs are excellent reference sources for native plants in our region.</dd>
   <dt>Plant lists</dt>
   <dd>There are lots of sample plant lists for native plants floating around. I collected a variety including some from Blue Thumb, Xerces, and UMN's Bee Lab. If I were starting today my first stop would be the resources in the [Lawns to Legumes program guide](https://bwsr.state.mn.us/sites/default/files/2020-06/Planting%20for%20Pollinators_updated_2020.pdf). The plant lists and sample plans are high quality and easy to use.</dd>
-  <dt>[USDA Plants Database](https://plants.usda.gov)</dt>
+  <dt><a href="https://plants.usda.gov">USDA Plants Database</a></dt>
   <dd>This tool isn't the easiest to use, but it contains a ton of information. I used it to check if a plant was considered native to the state, to find scientific names for plants, and to help untangle the taxonomy of plants with confusing classifications (lookin' at you, "serviceberry"). Some plants also have more detailed fact sheets or plant guides, which can offer detailed information on growing characteristics (though these are often aimed towards agriculture or forestry). They also have a ton of searchable plant characteristics that I feel like I have only scratched the surface of. For example, I figured out how to search for MN natives with "medium" or "high" nitrogen fixing capabilities and got several useful plant suggestions from that.</dd>
 </dl>
 
