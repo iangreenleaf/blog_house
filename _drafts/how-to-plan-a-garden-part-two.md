@@ -113,6 +113,14 @@ Some of the resources I found most useful in this were:
   <dd>This tool isn't the easiest to use, but it contains a ton of information. I used it to check if a plant was considered native to the state, to find scientific names for plants, and to help untangle the taxonomy of plants with confusing classifications (lookin' at you, "serviceberry"). Some plants also have more detailed fact sheets or plant guides, which can offer detailed information on growing characteristics (though these are often aimed towards agriculture or forestry). They also have a ton of searchable plant characteristics that I feel like I have only scratched the surface of. For example, I figured out how to search for MN natives with "medium" or "high" nitrogen fixing capabilities and got several useful plant suggestions from that.</dd>
 </dl>
 
+{% single_image path: assets/images/how-to-plan-a-garden/master-list.png caption: "A glimpse into my master plant list." %}
+
+My plant research mania hit a peak with the creation of the "master list" I used to track potential plants and their attributes.
+Many of the fields were cribbed from the extensive and detailed charts in <cite>Edible Forest Gardens, Volume Two</cite>.
+Any plant I came across in research that sounded interesting was added to the list, and if it entered serious consideration, I'd fill out as many of the fields as I could find information for.
+This gave me a quick reference for design characteristics like size, sun, and moisture preferences.
+It also helped me track which of the traits I cared most about were met by each plant.
+
 When choosing plants, the primary criteria for me is: what functions does this plant serve?
 Ideally, everything we grow should serve multiple purposes (in the permaculture world, this is called "stacking functions").
 For example, a large serviceberry shrub on the north side of our lot can provide: attractive spring flowers and beautiful fall foliage; a partial screen from the sidewalk; early season food for pollinators; tasty berries for birds and humans; perching spots and cover for birds; habitat for a variety of insects; a deep root system that sequesters carbon, improves the soil, and allows for water penetration; and leaves that filter dust and pollutants.
@@ -124,6 +132,12 @@ For example, when picking plants for the northeast corner, the general theme dic
 From sectors, I knew that they should be attractive from the public sidewalk as well as our picture window, that they should be able to withstand the strong winds that enter at that corner, and that they should provide a windbreak to protect the rest of the yard.
 From zones, I knew that they should be relatively self-sufficient because I wouldn't be dragging a hose up there all that often to water them, and I wouldn't be passing through every day to deal with weeds or other maintenance.
 Red-twig dogwood meets all of those criteria perfectly, plus is a native plant with excellent wildlife value, so it got the nod in that area.
+
+{% single_image path: assets/images/how-to-plan-a-garden/master-list-sources.png caption: "The master list eventually generated several offshoots, like this plant sourcing list." %}
+
+I feel like now would be a good time to point out that you certainly do not need to go this deep to do a successful garden design.
+This sort of highly detailed data-heavy process suits my personality, and besides, I was very excited about the whole project.
+But many people are perfectly successful using a much less rigorous process, so don't be intimidated by my spreadsheet version of [the crazy wall](https://crazywalls.tumblr.com/).
 
 ## …and where to put them ##
 
