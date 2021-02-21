@@ -13,7 +13,7 @@ module Jekyll
 
   class GalleryTagBlock < Liquid::Block
     def render(context)
-      "<div class='gallery'><div class='splide'><div class='splide__track'><ul class='splide__list'>#{super}</ul></div></div></div>"
+      "<div class='gallery'><div class='splide'><div class='splide__track'><ul class='splide__list' style='list-style-type: none;'>#{super}</ul></div></div></div>"
     end
   end
 end
