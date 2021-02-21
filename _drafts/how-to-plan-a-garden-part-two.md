@@ -153,6 +153,9 @@ The rain garden was one of the most complicated areas, reflected in the number o
 {% gallery %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-1.jpg, alt: "Sketch of a potential rain garden layout" %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-2.jpg, alt: "Sketch of a potential rain garden layout" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-3.jpg, alt: "Sketch of a potential rain garden layout" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-4.jpg, alt: "Sketch of a potential rain garden layout" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-5.jpg, alt: "Sketch of a potential rain garden layout" %}
 {% endgallery %}
 
 Once I had a base map, I could use tracing paper to quickly create copies of a map to sketch different ideas on.
