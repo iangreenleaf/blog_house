@@ -174,7 +174,7 @@ The rain garden was one of the most complicated areas, reflected in the number o
 
 Once I had a base map, I could use tracing paper to quickly create copies of a map to sketch different ideas on.
 For the back of the lot, which had a lot of flexibility, I wanted to quickly visualize many different layouts and combinations of different plant sizes.
-I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small an large shrubs.
+I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small and large shrubs.
 I could push these around on the map as I thought through how to best make use of that space.
 
 {% gallery %}
