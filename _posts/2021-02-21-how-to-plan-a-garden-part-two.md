@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How to plan a garden, part two: the details"
+title: 'How to plan a garden, part two: the details'
 tags:
-  - Garden
-  - How to
+- Garden
+- How to
+date: 2021-02-21 20:34 -0600
 ---
-
 My [journey thus far]({% post_url 2021-02-04-how-to-plan-a-garden-part-one %}) in landscape design had arrived at a high-level plan for the yard that split it into segments with themes driving the design.
 
 {% single_image path: assets/images/how-to-plan-a-garden/general-plan.png alt: "Map of our lot with themed areas marked" %}
