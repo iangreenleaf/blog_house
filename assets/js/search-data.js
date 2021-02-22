@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"With our new house, I was very excited to start planning our garden and landscaping, but to be honest also very intimidated.I had done a bit of gardening at our rentals over the years, but always at a fairly small scale.I knew I wanted to go much bigger with my...","categories": [],
         "tags": ["Garden","How to"],
         "url": "https://house.youngram.com/how-to-plan-a-garden-part-one.html"
+      },{
+        "title": "How to plan a garden, part two: the details",
+        "excerpt":"My journey thus far in landscape design had arrived at a high-level plan for the yard that split it into segments with themes driving the design. This was an excellent starting point for the design, but I still had to fill in a lot of details and figure out what...","categories": [],
+        "tags": ["Garden","How to"],
+        "url": "https://house.youngram.com/how-to-plan-a-garden-part-two.html"
       }]
