@@ -34,7 +34,7 @@ var store = [{
         "tags": ["Garden"],
         "url": "https://house.youngram.com/the-mud-head.html"
       },{
-        "title": "How to plan a garden, part one: The vision",
+        "title": "How to plan a garden, part one: the vision",
         "excerpt":"With our new house, I was very excited to start planning our garden and landscaping, but to be honest also very intimidated.I had done a bit of gardening at our rentals over the years, but always at a fairly small scale.I knew I wanted to go much bigger with my...","categories": [],
         "tags": ["Garden","How to"],
         "url": "https://house.youngram.com/how-to-plan-a-garden-part-one.html"
