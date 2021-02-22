@@ -164,7 +164,7 @@ For each section, I put together a short list of possible plants using the resou
 
 The rain garden was one of the most complicated areas, reflected in the number of different concepts I considered for it:
 
-{% gallery %}
+{% gallery fade: true %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-1.jpg, alt: "Sketch of a potential rain garden layout" %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-2.jpg, alt: "Sketch of a potential rain garden layout" %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-3.jpg, alt: "Sketch of a potential rain garden layout" %}
@@ -177,7 +177,7 @@ For the back of the lot, which had a lot of flexibility, I wanted to quickly vis
 I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small and large shrubs.
 I could push these around on the map as I thought through how to best make use of that space.
 
-{% gallery %}
+{% gallery fade: true %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/back-nine-paper-sketch.jpg, alt: "Map of the back area of the lot with loose circles of paper laid out" %}
 {% gallery_image path: assets/images/how-to-plan-a-garden/back-nine-sketch.jpg, alt: "Sketch of the back area of the lot" %}
 {% endgallery %}
