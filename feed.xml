@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://house.youngram.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://house.youngram.com/" rel="alternate" type="text/html" /><updated>2021-02-21T20:53:58-06:00</updated><id>https://house.youngram.com/feed.xml</id><title type="html">The Youngram House Journal</title><subtitle>Chronicling our homeowner journey</subtitle><entry><title type="html">How to plan a garden, part two: the details</title><link href="https://house.youngram.com/how-to-plan-a-garden-part-two.html" rel="alternate" type="text/html" title="How to plan a garden, part two: the details" /><published>2021-02-21T20:34:00-06:00</published><updated>2021-02-21T20:34:00-06:00</updated><id>https://house.youngram.com/how-to-plan-a-garden-part-two</id><content type="html" xml:base="https://house.youngram.com/how-to-plan-a-garden-part-two.html">&lt;p&gt;My &lt;a href=&quot;/how-to-plan-a-garden-part-one.html&quot;&gt;journey thus far&lt;/a&gt; in landscape design had arrived at a high-level plan for the yard that split it into segments with themes driving the design.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://house.youngram.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://house.youngram.com/" rel="alternate" type="text/html" /><updated>2021-02-21T21:25:01-06:00</updated><id>https://house.youngram.com/feed.xml</id><title type="html">The Youngram House Journal</title><subtitle>Chronicling our homeowner journey</subtitle><entry><title type="html">How to plan a garden, part two: the details</title><link href="https://house.youngram.com/how-to-plan-a-garden-part-two.html" rel="alternate" type="text/html" title="How to plan a garden, part two: the details" /><published>2021-02-21T20:34:00-06:00</published><updated>2021-02-21T20:34:00-06:00</updated><id>https://house.youngram.com/how-to-plan-a-garden-part-two</id><content type="html" xml:base="https://house.youngram.com/how-to-plan-a-garden-part-two.html">&lt;p&gt;My &lt;a href=&quot;/how-to-plan-a-garden-part-one.html&quot;&gt;journey thus far&lt;/a&gt; in landscape design had arrived at a high-level plan for the yard that split it into segments with themes driving the design.&lt;/p&gt;
 
 &lt;div class=&quot;single-image&quot;&gt;
 
@@ -210,7 +210,7 @@ For each section, I put together a short list of possible plants using the resou
 
 &lt;p&gt;The rain garden was one of the most complicated areas, reflected in the number of different concepts I considered for it:&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;fade&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -263,7 +263,7 @@ For the back of the lot, which had a lot of flexibility, I wanted to quickly vis
 I cut out a bunch of circles of different sizes representing standard, semi-dwarf, and dwarf fruit trees, as well as small and large shrubs.
 I could push these around on the map as I thought through how to best make use of that space.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;fade&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -301,7 +301,7 @@ https://house.youngram.com/assets/images/how-to-plan-a-garden/resized/rain-garde
 I used stakes to mark the center of major elements and spray paint to mark the outlines of trees, bushes, or other structural elements.
 This helped me visualize the final result and gave me a chance to walk out potential borders and pathways.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -428,7 +428,7 @@ This meant that I had a blank slate to work with, and while great in a lot of wa
 
 &lt;p&gt;It was clear that I needed help.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -834,7 +834,7 @@ I shaped it on a gentle slant and tried to design the face so that there were no
 Once the features were roughed in, it was just a matter of refining the shape and prominence of the features and adding details until it looked the way I wanted (suitably dramatic).
 I gotta say, it turned out better than expected.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -1015,7 +1015,7 @@ As you might imagine, it smells a bit fishy when applied, but that smell is gone
 The greens were also good, with more arugula than I could harvest and a stellar performance from the “Amish Deer Tongue” lettuce, which has earned itself a permanent place in my planting lineup.
 Beans and peas are always a good bet, and we had a nice mix of herbs too.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -1192,7 +1192,7 @@ https://house.youngram.com/assets/images/the-first-year-garden/resized/prairie-s
 &lt;p&gt;The prairie fully arrived in 2020.
 It’s now a lush area packed with foliage and flowers and constantly busy with pollinators.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -1464,7 +1464,7 @@ We thought about doing both, but that would have doubled the cost and not double
 A single egress window seemed like the best balance for our needs.
 One of the windows was situated in a more likely spot for a future bedroom, plus it was a simpler section of wall (the other window sits in a bump-out where the first floor bay window follows down into the foundation), so it got the nod.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
@@ -1821,7 +1821,7 @@ https://house.youngram.com/assets/images/the-chimney/resized/dog-at-window-480.j
 
 &lt;p&gt;Once the weather cleared, the crew wrapped up the rest of the work pretty quickly.&lt;/p&gt;
 
-&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
+&lt;div class=&quot;gallery&quot;&gt;&lt;div class=&quot;splide&quot; data-splide=&quot;{&amp;quot;type&amp;quot;:&amp;quot;slide&amp;quot;}&quot;&gt;&lt;div class=&quot;splide__track&quot;&gt;&lt;ul class=&quot;splide__list&quot; style=&quot;list-style-type: none;&quot;&gt;
 &lt;li class=&quot;gallery-image splide__slide&quot;&gt;
 
 &lt;figure&gt;
