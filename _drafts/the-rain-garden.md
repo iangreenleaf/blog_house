@@ -28,3 +28,26 @@ The only sections that were a little trickier to design with this constraint wer
 Native plants for these conditions do exist, but it took a bit more research to uncover good candidates and sometimes took more effort to source seedlings than it did for more common plants in the other areas.
 Still, I'm glad I decided to set myself the challenge.
 It's been fun to puzzle out how to get everything I want within the palette of native plants, and it has kept the design for this area nice and focused.
+
+## Plant selection ##
+
+Goals for plants in this area:
+
+* Aid infiltration of runoff
+* Provide [food, shelter, water, and habitat](https://www.nwf.org/Garden-for-Wildlife/) to a variety of wildlife
+* Pretty flowers!
+* Partially screen the view from the sidewalk into the dining room
+* Provide beautiful views from the two sets of windows
+* Require few to no inputs (water, mulch, fertilizer) once established
+* Require little weeding and other maintenance once established
+
+Placing trees and shrubs along the north edge seemed like a good plan, so I started there.
+These could provide a screen and beautiful views, and putting them on the north side would leave plenty of sunny space for other plants.
+I came up with a short list by consulting lists of native woody plants that enjoy a fair amount of moisture, cross referenced with lists of plants that provide benefits to birds and pollinators.
+Then I sketched a ton of different layouts, evaluating each one for how well it provided screening and views, and if it left room for a good rainwater basin and lots of sun for wildflowers.
+
+TODO pics
+
+I settled on a large serviceberry shrub/tree and a couple medium shrubs, highbush cranberry and chokeberry.
+All three of these have attractive flowers, nice fall color, and berries that are popular with birds and (to varying degrees) edible for humans as well.
+Elderberry almost made the cut, but we had acquired a dog who likes to eat a lot of things she finds outside, and there are some reports of elderberry toxicity to pets—not a particularly grave danger, but I decided I'd be happier if I just didn't have to worry about how many unripe berries the dog had eaten off a bush in one sitting.
