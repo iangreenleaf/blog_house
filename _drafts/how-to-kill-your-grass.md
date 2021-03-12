@@ -17,6 +17,8 @@ If you have 30 minutes, I refer you to [this excellent and comprehensive piece](
 I know that seems like an awful lot of words to spend on lawns, but you really won't be disappointed.
 If you want the shorter version, I think that lawns in America are a bullshit status symbol that started as aspirational imitation of old-world aristocracy and mutated into a bizarre reflection of our manifest destiny fable.
 And more to the point, they're an ecological disaster, a maintenance liability, and worst of all, largely useless.
+Don't want to hear it from me?
+How about [a message from Chicago's most Chicago botanist](https://www.youtube.com/watch?v=oz9I2YwmV8M) instead?
 
 "But wait," you say, "*I* use *my* lawn!"
 I believe you.
