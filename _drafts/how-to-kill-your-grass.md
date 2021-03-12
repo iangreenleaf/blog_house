@@ -72,7 +72,7 @@ If the turfgrass goes away and nothing else shows up to compete, the weeds will 
 How quickly and densely will you be growing replacement vegetation?
 Once you've "emptied" out the space, you should have a plan for filling it back up expeditiously.
 If you will be planting something dense and fast-growing, it can out-compete the weeds by getting established first and hogging all the space.
-The more sparse and/or slow to establish your plantings, the more you will need to take precautions to suppress the weed seed bank.
+The more sparse and/or slow to establish your plantings are, the more you will need to take precautions to suppress the weed seed bank.
 
 How will you be planting?
 Will you be covering the area with mulch?
@@ -94,7 +94,7 @@ In theory, this sort of glyphosate application done with proper safety precautio
 But that theory depends a little too heavily on taking the pesticide industry at their word and ignoring all the other times that this sort of thing turned out terrible in hindsight.
 
 There are a couple other considerations that (I presume) are important to take into account with this method.
-First, it doesn't remove any vegetative matter, so all the dead grass and weeds and "thatch" will still be there one the surface.
+First, it doesn't remove any vegetative matter, so all the dead grass and weeds and "thatch" will still be there on the surface.
 Second, the glyphosate will not have any effect on the weed seed bank, so you must be prepared to act quickly to ensure that the weeds don't get established before your replacement plantings do.
 
 For me, this option feels like a last resort.
@@ -183,7 +183,7 @@ If your temperatures don't get hot enough under the plastic to kill the plants, 
 Here's the steps I think are crucial to success:
 
  * Keep the edges of the plastic tight to the ground, perhaps by burying them in dirt.
-   If there are gaps, they will act like vents and allow to much airflow that will moderate the temperatures.
+   If there are gaps, they will act like vents and allow too much airflow that will moderate the temperatures.
  * Mow the area before laying plastic.
    Lush plant growth can act like insulation, preventing heat from getting to the base of the plants to fully kill them.
  * Most important of all: you have to achieve maximum sun intensity for this to work.
@@ -232,10 +232,10 @@ Living in the middle of a large metro area, I didn't have easy access to straw o
 You are also unlikely to have a large quantity of compost lying around if you want to sheet mulch a big area all at once, so you may have to purchase some.
 
 One more consideration: sheet mulching will raise the height of the area considerably.
-The freshly laid material may as much as a foot thick, and the eventual settled height will probably be something like 3" above the former ground level.
+The freshly laid material may be as much as a foot thick, and the eventual settled height will probably be something like 3" above the former ground level.
 
 As long as you're willing to do a bit of work, sheet mulching is an excellent solutions for sites that you want to be very well prepared.
-For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be a bit of overkill.
+For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be overkill.
 I'm glad I did a thorough sheet mulching for the vegetable garden, but for most other areas of our yard, I've developed a "lazy" variant that works well with much less investment.
 
 ## Lazy sheet mulching ##
