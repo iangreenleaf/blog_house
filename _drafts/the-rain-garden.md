@@ -8,7 +8,7 @@ tags: Garden
 
 ## Resources ##
 
-The best resource I found for rain garden design and installation was [this guide from Blue Thumb]().
+The best resource I found for rain garden design and installation was [this guide from Blue Thumb]({% link /assets/files/rain-garden-manual.pdf %}).
 It offers a lot of useful information, including a lot of very specific practical advice that is invaluable if you're going to be doing the installation yourself.
 
 TODO plant lists
