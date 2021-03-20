@@ -127,7 +127,45 @@ It took me another week or so to buy and put down mulch, which unfortunately pro
 
 ## Downspout channels ##
 
-TODO
+I wanted to make sure that water from the downspouts was conveyed effectively to the basin of the rain garden, but I didn't really want to add giant downspout extensions.
+I decided to dig a couple channels and line them with rocks in kind of a creek bed aesthetic.
+Between all the dirt from the [egress window]({% post_url 2020-11-12-basement-egress %}) and the dirt we had just removed from the rain garden itself, I had quite a good collection of fist-sized river rocks on hand.
+These worked perfectly and it was lovely to be able to turn a waste product into an asset.
+I saved myself the time and money of disposal and I didn't need to buy imported rocks.
+Closed loop, baby!
+
+Digging the channels mostly just involved making sure they maintained a steady downhill grade so there was nowhere that water would pool.
+I had some landscape fabric I had scavenged from somebody's alley, and I decided to line the bottom of the channels with that, held down by landscaping staples.
+I figured this would discourage weed incursion and help keep the soil in place.
+Landscape fabric also significantly reduces water infiltration, which is a negative trait when used in plantings but was beneficial in channels where I'd prefer the water to run off anyways.
+I could have lined them with black plastic to completely prevent water infiltration, but I didn't have any black plastic on hand, and am not very worried about a small amount of water soaking in, as long as most of it runs off.
+
+I mounded a little soil along the edges to define the channel, filled them in with rocks, and we were in business.
+
+TODO pic
+
+I liked the appearance of these channels a lot and they worked well enough in the first year.
+However, a few design flaws became apparent that I wanted to improve along.
+
+First, I had topped off the large rocks with a bunch of smaller gravel-size rocks (also dug up from our yard).
+These kind of ruined the attractive look of the rock, and also seemed to encourage sediment buildup.
+
+Second, I had tried to make the channels meander a bit instead of taking a straight path, for aesthetic reasons.
+Since they are only about six feet long, these curves ended up being a little forced and one of the larger bends was causing water backups and erosion.
+Better to give it a straight path and let the edges gently undulate.
+
+Third, I needed better separation on the edges.
+Having physical barrier meant a lot of dirt and woodchips was being kicked into the channels, which would presumably eventually clog them up.
+
+So in 2020 I pulled all the rocks out and re-dug the channels.
+I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=W857605473) to define the edges.
+I don't know why Home Depot doesn't carry this stuff in stores.
+It's great: easy to install, easy to bend to shape, stays put, looks nice, and should last for a long time.
+
+The final step was to build some lil' bridges where the path crosses the channels, to protect the edging and cut down on contamination.
+
+With these changes made, the channels have worked perfectly and look great.
+I love how they fit into the landscape, and the fact that all the rocks came from this land gives them a special extra connection to the site.
 
 ## Revisions ##
 
@@ -160,10 +198,60 @@ When planning the spacing and light tolerance for plants around the trees and sh
 But the baby woody plants will take 5+ years to reach that size, and I should have thought through the sunnier and more open conditions that will exist until they do.
 Luckily, most of the plants I picked out for shade in those areas (Dwarf Trout Lily, Sweet Joe Pye) seem to be handling the extra sun gracefully.
 I've filled in some of the extra space with some easy sun-loving plants like Goldenrod that will be gradually phased out as they become shaded.
-A garden is not a static entity, and I should have planned starting at the beginning rather than at the end.
+A garden changes over time, and a good plan should take that into consideration.
 
 ## Performance ##
+
+Not much happens in the first year of a native wildflower garden.
+Not only do most plants not flower in their first year, but many of them seem to just sit there without even putting on much foliage.
+Be patient, they're working on a good root system and will get moving once they're ready.
+
+TODO
 
 ## The good stuff ##
 
 ## Favorite plants ##
+
+### Obedient Plant ###
+
+### Cardinal Flower ###
+
+### Partridge Pea (Chamaecrista fasciculata) ###
+
+This plant doesn't seem to get much publicity, which is strange considering how easy and delightful it is.
+I found it because it was listed in the [USDA Plants Database](https://plants.usda.gov) as a native plant with the highest level of nitrogen fixation ability.
+It's an annual but self-seeds so effectively that it might as well be a perennial.
+It's got a bushy, mounded habit about 1'-2' high.
+After letting it spread for a few years, we have big drifts of it along the fenceline, where it has been very effective at outcompeting weeds.
+It does spread some each year, but it's not hard to rip up some seedlings if you want to keep it in check.
+
+It's easy to grow and blooms right away—a treat in a newly-established native plant garden where all the perennials will take their time to get going.
+The profuse yellow flowers are very pretty and bloom for an extended period of time.
+And pollinators **love** this plant.
+I see all sorts of bees, wasps, and flies jostling each other as they enjoy the buffet.
+When I walk past the partidge pea in late summer, there's so much activity that it sounds like the entire bush is buzzing.
+
+I don't think any other flower I grow comes even close to the amount of pollinator interest these generate.
+
+### Gray's Sedge (Carex grayi) ###
+
+Didn't think a grasslike plant could be exciting?
+Think again as you gaze upon the madness of Gray's Sedge.
+
+TODO pic
+
+Yes, that is this sedge's seed head.
+Why it decided to make it look like a [morning star](https://en.wikipedia.org/wiki/Morning%2Fstar%2F%28weapon%29), I do not know.
+But it's a delightfully weird sight, and the sedge itself has grown very happily in part shade at the bottom of the basin.
+
+There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon.com/carex-muskingumensis-palm-sedge-prairie-moon-nursery.html), [fox sedge](https://www.prairiemoon.com/carex-vulpinoidea-brown-fox-sedge-prairie-moon-nursery.html)), but Gray's Sedge is a total standout and well worth picking up if you can find it.
+
+### Wild Geranium ###
+
+### Spikenard ###
+
+### Serviceberry ###
+
+I suspect we will like our serviceberry a lot, as pretty much everyone loves serviceberries.
+It started as a very small seedling, though, so it's still a fairly small plant and is not yet flowering or producing fruit.
+Mostly I just wanted to take a moment to tell you about how utterly confusing the taxonomy is as soon as you try to determine what actual plant constitutes a "serviceberry".
