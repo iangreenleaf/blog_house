@@ -255,3 +255,24 @@ There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon
 I suspect we will like our serviceberry a lot, as pretty much everyone loves serviceberries.
 It started as a very small seedling, though, so it's still a fairly small plant and is not yet flowering or producing fruit.
 Mostly I just wanted to take a moment to tell you about how utterly confusing the taxonomy is as soon as you try to determine what actual plant constitutes a "serviceberry".
+
+## Time & Materials ##
+
+TODO
+
+{% summary time %}
+{% line_item Doing stuff | 6 hours %}
+{% line_item Cleanup | ~1 hour %}
+{% total ~7 hours %}
+{% endsummary %}
+
+{% summary cost %}
+{% subtotal_heading Downspout channels %}
+{% line_item [Aluminum edging (bronze), 24'](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=W857605473) | $45 %}
+{% line_item Landscape fabric | free %}
+{% line_item Landscape staples | on hand %}
+{% line_item River rocks | free %}
+{% subtotal $20 %}
+{% line_item Delivery | $1 %}
+{% total $21 %}
+{% endsummary %}
