@@ -212,9 +212,9 @@ TODO
 
 ## Favorite plants ##
 
-### Obedient Plant ###
+### Obedient Plant (Physostegia virginiana) ###
 
-### Cardinal Flower ###
+### Cardinal Flower (Lobelia cardinalis) ###
 
 ### Partridge Pea (Chamaecrista fasciculata) ###
 
@@ -246,9 +246,9 @@ But it's a delightfully weird sight, and the sedge itself has grown very happily
 
 There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon.com/carex-muskingumensis-palm-sedge-prairie-moon-nursery.html), [fox sedge](https://www.prairiemoon.com/carex-vulpinoidea-brown-fox-sedge-prairie-moon-nursery.html)), but Gray's Sedge is a total standout and well worth picking up if you can find it.
 
-### Wild Geranium ###
+### Wild Geranium (Geranium maculatum) ###
 
-### Spikenard ###
+### Spikenard (Aralia racemosa) ###
 
 ### Serviceberry ###
 
