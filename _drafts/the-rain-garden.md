@@ -206,7 +206,56 @@ Not much happens in the first year of a native wildflower garden.
 Not only do most plants not flower in their first year, but many of them seem to just sit there without even putting on much foliage.
 Be patient, they're working on a good root system and will get moving once they're ready.
 
-TODO
+I watered carefully for the first month or so, but we had pretty good rain that summer so after that I mostly just left them alone and only watered after prolonged dry spells.
+I spent a considerable amount of time weeding that summer (I don't have a good estimate of how much exactly).
+Part of this was my own doing: I had left the area unmulched for too long after planting and then didn't get it mulched super thick after that.
+This gave weeds (particularly some nuisance grasses) a bit of a foothold and caused me to spend the summer beating them back.
+I think I likely would have needed to invest some time in weeding regardless, but I probably could have reduced it by quite a lot by nailing the installation a bit more.
+
+Year two was much more encouraging.
+The plants put out much more vigorous growth, and most of them flowered.
+It was clearly not completely established yet, but I could start to envision what it will look like at maturity.
+It was beautiful throughout the growing season and attracted lots of insects.
+
+We had a fairly wet summer, so I don't think I did any supplemental watering other than for some new transplants I added.
+Even if the summer had been drier, I would have done a pretty minimal amount.
+The plants had good root systems by now, a layer of mulch to keep moisture in the soil, and plenty of rain water coming from the downspouts.
+I also did very little weeding in the second year, probably in the area of 10-15 total hours.
+This was a nice change from the more involved work of year one, I think thanks to a combination of my thorough job from the previous year and the native plants starting to outcompete weeds more successfully.
+
+Year three felt like the garden had fully arrived.
+The woody plants still have a lot of growing left to do, but most of the forbs are at a mature size.
+Some of the more aggressive spreaders (like Common Milkweed and Obedient Plant) have already expanded considerably, while many of the others will spread more slowly over time.
+So far, almost everything is cohabiting happily.
+Time will tell if some of the aggressive plants will start to swamp the others and need to be curtailed, or if everything will find an equilibrium (obviously I'm hoping for the latter).
+
+I didn't add any supplemental water to the established plants in the third year, and barring some freak climactic event, I don't plan to in any subsequent years.
+I also spent almost no time weeding: one short session in spring and one in fall, and other than that just a few minutes pulling weeds here and there when I was already poking around the garden doing other things.
+I don't think I spent more than 5 hours total weeding the rain garden in 2020, and as far as I know it ended the year with almost no weeds growing.
+This is very exciting.
+A low maintenance burden was one of my goals for this area and it is exceeding expectations.
+I probably spent another 1-2 hours on needed maintenance—mostly cutting back dead plant stems—and another hour doing the needed relocation of Wild Golden Glow.
+Beyond that, the rest of the time that went into the rain garden was purely optional stuff like adding some new plants or just poking around watching the pollinators at work.
+
+We haven't had too many pest problems.
+The Cup Plants have had a few infestations of red aphids (apparently a fairly common thing), but they don't seem to be an actual problem so I've left them alone and assumed nature will sort it out eventually.
+The rabbits leave most of the native plants alone.
+They heavily browsed one particular bunch of Switchgrass while leaving all the other grasses alone, and it seems like they might occasionally nibble on certain baby plants.
+Someone (I blame the squirrels) digs up Prairie Clover every time I try to plant it (does it have good-smelling roots or something?).
+As I add transplants at a slower pace I sometimes protect them with chicken wire cages to improve my odds, but everything that went in the first year was not protected and largely did fine.
+The biggest problem the rabbits have caused in the rain garden is with the woody plants, which they will eat in winter when other food is scarce.
+They chewed up both the Pagoda Dogwood and the Chokeberry pretty badly in the first winter, and I'm sure they would have attacked the Serviceberry as well if I had given them the chance.
+At this point, I put up fencing around all of the woodies for winter, and will continue to do so until they're big enough to not get targeted.
+
+The rain garden is also excelling at its titular job of capturing runoff.
+It's getting runoff from 3/4 of the roof, plus the sump pump outlet, and while the basin is a little smaller than the size recommended to capture 100% of runoff, it's been handling it like a champ.
+The basin has filled up a few times during major rain events.
+To my knowledge, it has only overflowed once, and it did so away from the house, as planned.
+Usually it drains within a few hours, with the maximum time so far being somewhere over half a day.
+
+This is a lot of water (thousands of gallons, by now) diverted from the storm sewers.
+I adore the multi-functional nature of rain gardens.
+Not only are we doing a civic good by mitigating runoff, but that runoff is converted to beautiful plant life that brings joy to humans and provides for the needs of a vast number of pollinators and other wildlife.
 
 ## The good stuff ##
 
