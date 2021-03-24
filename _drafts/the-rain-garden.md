@@ -6,7 +6,32 @@ project_end:
 tags: Garden
 ---
 
+The rain garden is one of my proudest landscaping achievements and probably the most unqualified success I've had.
+I want to tell you all about it, but if you're just here for the pretty pictures, I understand.
+You can skip all the words and get straight to [the good stuff](#the-good-stuff).
+
+## Why a rain garden? ##
+
+The idea of a rain garden is to capture runoff from a roof or paved area in a shallow depression where it can soak into the ground instead of reaching storm sewers or waterways.
+Rain gardens are a great place for plants—the plants are watered for free, and their roots help create pathways for the water to seep into the soil.
+Contaminants are filtered out as the water passes through the soil and subsoil, and it returns directly to the aquifer, as much rainfall did before we covered so much of the world in impervious surfaces and started funneling runoff into storm sewers.
+
+Storm sewers reflect the era in which we sought to "conquer" nature, believing that if we just kept increasing the scale of our engineering, we could permanently corral and contain natural processes so that they would not not trouble us.
+This idea has failed, both in the broader stage of human progress, and at the specific level of storm sewers.
+Water that runs off of impervious surfaces carries all sorts of bad stuff—roof tar, fertilizer, oil and other chemicals washed off roadways—and often drains all this pollution directly into the nearest body of water (in our case, the mighty Mississippi).
+Storm sewers are often old and crumbling infrastructure, and prone to being overloaded by major rainfalls, sometimes causing failures like the release of raw sewage into waterways ([lookin' at you, Tijuana](https://www.surfrider.org/coastal-blog/entry/tijuana-river-the-largest-sewage-spill-weve-ever-seen)).
+Waterways flooded by excess runoff also often suffer major erosion and a host of related problems.
+
+Rain gardens just make a lot of sense.
+They reflect the approach that has risen to replace the failed mastery of nature: the idea of working *with* nature rather than *against* it, of respecting natural processes and fitting them into our anthropocentric world.
+They also represent a decentralized form of civic engineering that offers resilience and autonomy that centralized systems often fail to provide.
+Rain gardens are a way to have our cake and eat it too.
+
 ## Resources ##
+
+I already had rain gardens on the mind when we bought our house, so I evaluated the suitability of the property pretty early on in my planning process.
+It was a good match: we had no existing runoff management, and some of the downspouts were causing drainage issues that ought to be addressed.
+With our large yard and nothing in it but grass, there was plenty of space to accommodate a rain garden.
 
 The best resource I found for rain garden design and installation was [this guide from Blue Thumb]({% link /assets/files/rain-garden-manual.pdf %}).
 It offers a lot of useful information, including a lot of very specific practical advice that is invaluable if you're going to be doing the installation yourself.
@@ -145,7 +170,7 @@ I mounded a little soil along the edges to define the channel, filled them in wi
 TODO pic
 
 I liked the appearance of these channels a lot and they worked well enough in the first year.
-However, a few design flaws became apparent that I wanted to improve along.
+However, a few design flaws became apparent that I wanted to improve upon.
 
 First, I had topped off the large rocks with a bunch of smaller gravel-size rocks (also dug up from our yard).
 These kind of ruined the attractive look of the rock, and also seemed to encourage sediment buildup.
@@ -155,14 +180,16 @@ Since they are only about six feet long, these curves ended up being a little fo
 Better to give it a straight path and let the edges gently undulate.
 
 Third, I needed better separation on the edges.
-Having physical barrier meant a lot of dirt and woodchips was being kicked into the channels, which would presumably eventually clog them up.
+Having no physical barrier meant a lot of dirt and woodchips was being kicked into the channels, which would presumably eventually clog them up.
 
 So in 2020 I pulled all the rocks out and re-dug the channels.
 I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=W857605473) to define the edges.
 I don't know why Home Depot doesn't carry this stuff in stores.
 It's great: easy to install, easy to bend to shape, stays put, looks nice, and should last for a long time.
+It's a bit pricier than plastic edging, but for this small a job that wasn't much of a concern.
 
 The final step was to build some lil' bridges where the path crosses the channels, to protect the edging and cut down on contamination.
+TODO
 
 With these changes made, the channels have worked perfectly and look great.
 I love how they fit into the landscape, and the fact that all the rocks came from this land gives them a special extra connection to the site.
@@ -232,7 +259,7 @@ Time will tell if some of the aggressive plants will start to swamp the others a
 I didn't add any supplemental water to the established plants in the third year, and barring some freak climactic event, I don't plan to in any subsequent years.
 I also spent almost no time weeding: one short session in spring and one in fall, and other than that just a few minutes pulling weeds here and there when I was already poking around the garden doing other things.
 I don't think I spent more than 5 hours total weeding the rain garden in 2020, and as far as I know it ended the year with almost no weeds growing.
-This is very exciting.
+This is very exciting!
 A low maintenance burden was one of my goals for this area and it is exceeding expectations.
 I probably spent another 1-2 hours on needed maintenance—mostly cutting back dead plant stems—and another hour doing the needed relocation of Wild Golden Glow.
 Beyond that, the rest of the time that went into the rain garden was purely optional stuff like adding some new plants or just poking around watching the pollinators at work.
