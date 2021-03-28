@@ -6,6 +6,8 @@ project_end:
 tags: Garden
 ---
 
+{% single_image path: assets/images/the-rain-garden/columbine-cropped.jpg alt: "Flower on a Columbine plant" %}
+
 The rain garden is one of my proudest landscaping achievements and probably the most unqualified success I've had.
 I want to tell you all about it, but if you're just here for the pretty pictures, I understand.
 You can skip all the words and get straight to [the good stuff](#the-good-stuff).
@@ -78,14 +80,20 @@ Goals for plants in this area:
 * Flowers blooming throughout the entire growing season, so people and pollinators will always have something to enjoy
 * Lots of different colors, because colors are pretty
 * Require few to no inputs (water, mulch, fertilizer) once established
-* Require little weeding and other maintenance once established
+* Require little weeding or other maintenance once established
 
 Placing trees and shrubs along the north edge seemed like a good plan, so I started there.
 These could provide a screen and beautiful views, and putting them on the north side would leave plenty of sunny space for other plants.
 I came up with a short list by consulting lists of native woody plants that enjoy a fair amount of moisture, cross referenced with lists of plants that provide benefits to birds and pollinators.
 Then I sketched a ton of different layouts, evaluating each one for how well it provided screening and views, and if it left room for a good rainwater basin and lots of sun for wildflowers.
 
-TODO pics
+{% gallery fade: true %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-1.jpg, alt: "Sketch of a potential rain garden layout", caption: "An early concept exploring basin shape and putting a birch in the rain garden" %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-2.jpg, alt: "Sketch of a potential rain garden layout", caption: "An early concept with the broad strokes of what would become the winning design. I was still figuring stuff out here so some of the sizes are off." %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-3.jpg, alt: "Sketch of a potential rain garden layout", caption: "Moving the serviceberry to the end and filling in with a few medium shrubs, including a dogwood of some sort and a dwarf bog birch. This concept was fine but didn't wow me, and only did an okay job with screening and nice views." %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-4.jpg, alt: "Sketch of a potential rain garden layout", caption: "Moving the serviceberry into the middle. This contorted the basin shape too much and also took away too much sunny space." %}
+{% gallery_image path: assets/images/how-to-plan-a-garden/rain-garden-sketch-5.jpg, alt: "Sketch of a potential rain garden layout", caption: "More or less the winning concept. A few of the plant selections changed, but the structure and layout remained the same." %}
+{% endgallery %}
 
 I settled on a large serviceberry shrub/tree and a couple medium shrubs, highbush cranberry and chokeberry.
 All three of these have attractive flowers, nice fall color, and berries that are popular with birds and (to varying degrees) edible for humans as well.
@@ -109,7 +117,7 @@ After a first draft to rough things in, I did a second draft of the plan with co
 This helped me fine-tune the placements so I could have a nice mix of colors throughout the space and not have all the yellows clumped together or anything like that.
 Plus, this made my plan look really fancy like I knew what I was doing.
 
-TODO images
+{% single_image path: assets/images/the-rain-garden/final-draft.jpg alt: "A color-coded rain garden layout drawing" %}
 
 Hot tip: don't forget the grasses.
 They're not as showy as the flowers, but they're pretty too and will add to the overall effect.
@@ -125,6 +133,8 @@ Luckily the window got done early in spring, so we were ready to get started on 
 I transferred the paper plan to the actual site by outlining the basin with marking paint and sticking stakes in the ground to mark the trees and shrubs.
 This gave me a chance to fine-tune the design and make sure it harmonized with the surroundings.
 
+{% single_image path: assets/images/the-rain-garden/outline.jpg alt: "Grass spray-painted with outline of rain garden", caption: "Never mind the fence construction debris. You can see the sump pump outlet sadly spitting out into the grass in the bottom corner, where one of the channels would eventually go." %}
+
 All of the initial planting was from starts rather than seeds.
 Native seeds can be difficult to germinate and grow, so starts were easily worth the small extra expense, especially given the number of different varieties I was planting.
 Most of the plants came from the massive [Friends School Plant Sale](https://www.friendsschoolplantsale.com/).
@@ -134,11 +144,17 @@ Plus, they had gone [fully neonictinoid-free](https://www.friendsschoolplantsale
 
 Knowing that I was going to go big at the sale, I developed a carrying system with a convertible hand truck so I could fit everything I needed.
 
-TODO photo
+{% single_image path: assets/images/the-rain-garden/plant-sale.jpg alt: "Ian with a cart overloaded with plants", caption: "Checkout at the plant sale. Not everything here is for the rain garden; I was also buying veggies and things for elsewhere in the yard." %}
 
 My parents and Katherine helped out for installation day.
 Residential-scale rain gardens are a project easily accomplished with simple hand tools.
 We removed the sod with shovels (I also used my grub hoe to make things move faster), then hand dug the basin to the desired depth.
+
+{% gallery %}
+{% gallery_image path: assets/images/the-rain-garden/digging.jpg alt: "Partially dug-up sod", caption: "The beginning of sod removal. A couple shrubs are already planted because they showed up in the mail early." %}
+{% gallery_image path: assets/images/the-rain-garden/old-edging.jpg alt: "Old rusty edging dug out of the ground", caption: "We found this old rusty edging buried several inches below the top of the soil. How long ago did someone have a garden here, and how did it get so buried?" %}
+{% endgallery %}
+
 I was aiming for about 3-4" below grade at the bottom of the basin.
 Stretching a string from one edge to the other let me measure down with a ruler to check our depth.
 Combined with a bubble level, this also allowed me to make sure the edges of the basin matched in height.
@@ -146,9 +162,17 @@ I kept the outside edge a tiny bit lower so that if the basin overflows, the wat
 
 Planting moved fast with all the helping hands.
 Using the paper plan, I set seedlings out where they were to be planted, and everyone else followed behind digging them in.
+
+{% single_image path: assets/images/the-rain-garden/newly-planted.jpg alt: "Rain garden with new plants", caption: "Basin dug and plants planted." %}
+
 I should have finished up by mulching around everything, but it had been a hectic spring and I hadn't acquired mulch yet, so I just watered everything in and left it as bare dirt for the moment.
 It's recommended to use double-shredded mulch, which mats together and resists floating up when the basin fills with water.
-It took me another week or so to buy and put down mulch, which unfortunately provided an opportunity for a bunch of weed seeds to germinate and cause me trouble throughout the year.
+I bought some mulch made from recycled lumber because I liked the sound of it, but honestly the shredding wasn't very good and I would have been better off going with the standard weird dyed stuff.
+
+{% single_image path: assets/images/the-rain-garden/mulched.jpg alt: "Rain garden with new plants and mulch", caption: "Basin mulched with shredded wood. I'd add regular arborist wood chips along the upper areas later."  %}
+
+It took me a week or so to acquire and put down the mulch, which unfortunately provided an opportunity for a bunch of weed seeds to germinate and cause me trouble throughout the year.
+A better plan: have the materials on hand and ready to distribute immediately after digging the garden.
 
 ## Downspout channels ##
 
@@ -167,7 +191,7 @@ I could have lined them with black plastic to completely prevent water infiltrat
 
 I mounded a little soil along the edges to define the channel, filled them in with rocks, and we were in business.
 
-TODO pic
+{% single_image path: assets/images/the-rain-garden/channel-first-try.jpg alt: "The first version of the drainage channel" %}
 
 I liked the appearance of these channels a lot and they worked well enough in the first year.
 However, a few design flaws became apparent that I wanted to improve upon.
@@ -188,8 +212,11 @@ I don't know why Home Depot doesn't carry this stuff in stores.
 It's great: easy to install, easy to bend to shape, stays put, looks nice, and should last for a long time.
 It's a bit pricier than plastic edging, but for this small a job that wasn't much of a concern.
 
+{% single_image path: assets/images/the-rain-garden/channel-re-dug.jpg alt: "Unfinished channel with edging and landscape fabric installed" %}
+
 The final step was to build some lil' bridges where the path crosses the channels, to protect the edging and cut down on contamination.
-TODO
+
+{% single_image path: assets/images/the-rain-garden/channel-finished.jpg alt: "Finished channel filled with rocks and small footbridge" %}
 
 With these changes made, the channels have worked perfectly and look great.
 I love how they fit into the landscape, and the fact that all the rocks came from this land gives them a special extra connection to the site.
@@ -199,12 +226,17 @@ I love how they fit into the landscape, and the fact that all the rocks came fro
 The final plan I drew up on paper has stood up quite well to implementation.
 I made a few adjustments based on plant availability and moved a few things around slightly at planting time, but for the most part I was able to follow the design and it has turned out very nicely.
 
+{% single_image path: assets/images/the-rain-garden/2020-map.jpg alt: "A map of plants", caption: "Map of the garden updated in 2020 with revisions and other changes." %}
+
 Almost all of the plants have succeeded.
 The Rattlesnake Master and a couple of the unusual milkweeds didn't do well and seem to be gone now.
 The Blazing Star suffered because it didn't come with a tag to stick in the soil and I foolishly didn't add anything at planting, so I lost track of where it was planted. Blazing Star leaves look pretty similar to grass, so I think I may have pulled it out during a weeding session without anything to warn me off.
 
 I've only needed to change a couple plants that haven't worked in their original spots.
 The Wild Golden Glow was altogether too happy with its spot in full sun with lots of moisture and grew to about 9 feet before flopping over and causing trouble for the plants around it.
+
+{% single_image path: assets/images/the-rain-garden/wild-golden-glow.jpg alt: "Flowers of the Wild Golden Glow plant", caption: "Wild Golden Glow, making a scene before I moved it." %}
+
 I relocated it to a shadier corner by the spruce tree and it seems to be growing much more reasonably now.
 I replaced it with Sneezeweed, which may also prove to be a mistake if it turns out [like it did for Hauslermo](https://projectpalermo.com/2020/06/14/orc-week-6-cursing-the-queen-and-hailing-the-halo/).
 This year I plan to relocate the Royal Catchfly, which seems a little too small and dainty to hold its own with the burly prairie plants around it.
@@ -244,6 +276,12 @@ The plants put out much more vigorous growth, and most of them flowered.
 It was clearly not completely established yet, but I could start to envision what it will look like at maturity.
 It was beautiful throughout the growing season and attracted lots of insects.
 
+{% gallery %}
+{% gallery_image path: assets/images/the-rain-garden/2019-summer-1.jpg alt: "The rain garden medium-full of plants", caption: "The rain garden in 2019 (year two)." %}
+{% gallery_image path: assets/images/the-rain-garden/2019-summer-2.jpg alt: "More detail of flowers", caption: "Good late summer blooms from from Cup Plant, Cardinal Flower, and Joe Pye Weed." %}
+{% gallery_image path: assets/images/the-rain-garden/2019-spring.jpg alt: "Spring flowers", caption: "We also had nice spring blooms in 2019 from Wild Geranium and Columbine." %}
+{% endgallery %}
+
 We had a fairly wet summer, so I don't think I did any supplemental watering other than for some new transplants I added.
 Even if the summer had been drier, I would have done a pretty minimal amount.
 The plants had good root systems by now, a layer of mulch to keep moisture in the soil, and plenty of rain water coming from the downspouts.
@@ -255,6 +293,12 @@ The woody plants still have a lot of growing left to do, but most of the forbs a
 Some of the more aggressive spreaders (like Common Milkweed and Obedient Plant) have already expanded considerably, while many of the others will spread more slowly over time.
 So far, almost everything is cohabiting happily.
 Time will tell if some of the aggressive plants will start to swamp the others and need to be curtailed, or if everything will find an equilibrium (obviously I'm hoping for the latter).
+
+{% gallery %}
+{% gallery_image path: assets/images/the-rain-garden/2020-early-summer.jpg alt: "The rain garden in early summer", caption: "The garden in early summer of 2020 (year three)." %}
+{% gallery_image path: assets/images/the-rain-garden/2020-summer.jpg alt: "The rain garden very full of plants", caption: "By mid-summer 2020, it's lush and full." %}
+{% gallery_image path: assets/images/the-rain-garden/street-view.jpg alt: "View of the rain garden from the street", caption: "View from the street. Eventually the shrubs will add some more height in the middle." %}
+{% endgallery %}
 
 I didn't add any supplemental water to the established plants in the third year, and barring some freak climactic event, I don't plan to in any subsequent years.
 I also spent almost no time weeding: one short session in spring and one in fall, and other than that just a few minutes pulling weeds here and there when I was already poking around the garden doing other things.
@@ -280,21 +324,44 @@ The basin has filled up a few times during major rain events.
 To my knowledge, it has only overflowed once, and it did so away from the house, as planned.
 Usually it drains within a few hours, with the maximum time so far being somewhere over half a day.
 
+{% gallery %}
+{% gallery_image path: assets/images/the-rain-garden/full-basin-1.jpg alt: "The basin full of water", caption: "The basin filling up during a rain storm. You can see that the water is a little too concentrated in the deepest part, as this was before I re-dug the other parts." %}
+{% gallery_image path: assets/images/the-rain-garden/full-basin-2.jpg alt: "Rigby the dog drinking from the full basin", caption: "Rigby took full advantage of the magical day when the yard had a giant water bowl in it." %}
+{% endgallery %}
+
 This is a lot of water (thousands of gallons, by now) diverted from the storm sewers.
 I adore the multi-functional nature of rain gardens.
 Not only are we doing a civic good by mitigating runoff, but that runoff is converted to beautiful plant life that brings joy to humans and provides for the needs of a vast number of pollinators and other wildlife.
 
 ## The good stuff ##
 
-## Favorite plants ##
+I appreciate all the rain garden does for water and wildlife, but it's also worth underscoring just how pretty it is.
+A steady diet for pollinators also means there's something pretty in bloom at just about any time of the year.
+Use the little arrows to navigate the photo gallery.
 
-### Obedient Plant (Physostegia virginiana) ###
+{% gallery %}
+{% gallery_image path: assets/images/the-rain-garden/summer-flowers.jpg alt: "Blooming flowers in late summer", caption: "The view in early August. I didn't specifically plan this combination of blooms, but I love the color show put on by the Joe Pye Weed, Cup Plant, and Cardinal Flower." %}
+{% gallery_image path: assets/images/the-rain-garden/monarch.jpg alt: "A Monarch butterfly feeding on a Cup Plant", caption: "The Cup Plants seem to be a favorite of Monarchs." %}
+{% gallery_image path: assets/images/the-rain-garden/golden-alexander.jpg alt: "The bloom of a Golden Alexander, with Wild Geranium and Columbine in the background", caption: "Golden Alexanders provide delicate yellow blooms in early June." %}
+{% gallery_image path: assets/images/the-rain-garden/dwarf-trout-lily.jpg alt: "The bloom of a Dwarf Trout Lily", caption: "The Dwarf Trout Lily, as the name suggests, is just a little one. But look at that flower!" %}
+{% gallery_image path: assets/images/the-rain-garden/fall-color.jpg alt: "Fall foliage and blooms in the rain garden", caption: "October mood. Heart-Leaved Aster in the foreground, foliage from the Serviceberry and Cranberry Viburnum, and Showy Goldenrod in the background." %}
+{% endgallery %}
+
+## Favorite plants ##
 
 ### Cardinal Flower (Lobelia cardinalis) ###
 
+{% single_image path: assets/images/the-rain-garden/cardinal-flower.jpg alt: "Cardinal Flower in bloom" %}
+
+### Obedient Plant (Physostegia virginiana) ###
+
+{% single_image path: assets/images/the-rain-garden/obedient-plant.jpg alt: "Bee approaching flowers of an Obedient Plant" %}
+
 ### Partridge Pea (Chamaecrista fasciculata) ###
 
-This plant doesn't seem to get much publicity, which is strange considering how easy and delightful it is.
+{% single_image path: assets/images/the-rain-garden/partridge-pea.jpg alt: "Partridge Pea growing along the edge of the sidewalk" %}
+
+This plant doesn't seem to get much publicity, which is strange considering how delightful it is.
 I found it because it was listed in the [USDA Plants Database](https://plants.usda.gov) as a native plant with the highest level of nitrogen fixation ability.
 It's an annual but self-seeds so effectively that it might as well be a perennial.
 It's got a bushy, mounded habit about 1'-2' high.
@@ -314,9 +381,9 @@ I don't think any other flower I grow comes even close to the amount of pollinat
 Didn't think a grasslike plant could be exciting?
 Think again as you gaze upon the madness of Gray's Sedge.
 
-TODO pic
+{% single_image path: assets/images/the-rain-garden/grays-sedge.jpg alt: "Gray's Sedge with seed pods" %}
 
-Yes, that is this sedge's seed head.
+Yes, those are this sedge's seed pods.
 Why it decided to make it look like a [morning star](https://en.wikipedia.org/wiki/Morning%2Fstar%2F%28weapon%29), I do not know.
 But it's a delightfully weird sight, and the sedge itself has grown very happily in part shade at the bottom of the basin.
 
@@ -324,11 +391,20 @@ There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon
 
 ### Wild Geranium (Geranium maculatum) ###
 
+{% single_image path: assets/images/the-rain-garden/wild-geranium.jpg alt: "Flowering Wild Geranium" %}
+
+I have several early-blooming spring flowers planted in the rain garden, as food sources are especially helpful for hungry pollinators at that time of year.
+Wild Geranium always strikes me as the most cheerful of the early bloomers.
+The light blue flowers are a welcome pop of color in the spring, and look as nice in shade as in sun.
+It's also a trouble-free plant, growing uncomplainingly TODO
+
 ### Spikenard (Aralia racemosa) ###
+
+{% single_image path: assets/images/the-rain-garden/spikenard.jpg alt: "Berries on a Spikenard plant" %}
 
 ### Serviceberry ###
 
-I suspect we will like our serviceberry a lot, as pretty much everyone loves serviceberries.
+I suspect we will like our serviceberry a lot, since pretty much everyone loves serviceberries.
 It started as a very small seedling, though, so it's still a fairly small plant and is not yet flowering or producing fruit.
 Mostly I just wanted to take a moment to tell you about how utterly confusing the taxonomy is as soon as you try to determine what actual plant constitutes a "serviceberry".
 
