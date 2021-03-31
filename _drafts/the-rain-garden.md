@@ -14,7 +14,7 @@ You can skip all the words and get straight to [the good stuff](#the-good-stuff)
 
 The idea of a rain garden is to capture runoff from a roof or paved area in a shallow depression where it can soak into the ground instead of reaching storm sewers or waterways.
 Rain gardens are a great place for plants—the plants are watered for free, and their roots help create pathways for the water to seep into the soil.
-Contaminants are filtered out as the water passes through the soil and subsoil, and it returns directly to the aquifer, as much rainfall did before we covered so much of the world in impervious surfaces and started funneling runoff into storm sewers.
+Contaminants are filtered out as the water passes through the soil and subsoil, and it returns directly to the aquifer, as most rainfall did before we covered so much of the world in impervious surfaces and started funneling runoff into storm sewers.
 
 Storm sewers reflect the era in which we sought to "conquer" nature, believing that if we just kept increasing the scale of our engineering, we could permanently corral and contain natural processes so that they would not not trouble us.
 This idea has failed, both in the broader stage of human progress, and at the specific level of storm sewers.
@@ -24,7 +24,7 @@ Waterways flooded by excess runoff also often suffer major erosion and a host of
 
 Rain gardens just make a lot of sense.
 They reflect the approach that has risen to replace the failed mastery of nature: the idea of working *with* nature rather than *against* it, of respecting natural processes and fitting them into our anthropocentric world.
-They also represent a decentralized form of civic engineering that offers resilience and autonomy that centralized systems often fail to provide.
+They also represent a decentralized form of civic engineering that offers the resilience and autonomy centralized systems often fail to provide.
 Rain gardens are a way to have our cake and eat it too.
 
 ## Resources ##
@@ -46,13 +46,13 @@ Plants in the medium zone will probably be happy on the sides of the basin.
 
 ## Plant selection ##
 
-The plant selection for the rain garden and immediate surroundings is entirely species that are native to Minnesota.
+My plant selection for the rain garden and immediate surroundings is entirely species that are native to Minnesota.
 I didn't set out with that as the goal—some people adhere to a very strict natives-only policy just for purity's sake, but that never particularly called to me.
 It just turned out that native plants provided the best functional fit for my goals in this space.
 
 Native plants are a very good bet to do well in our climate because they literally evolved to grow here.
 They provide the highest-quality food and habitat for native insects because those insects evolved in parallel to depend on these plants.
-Many native plants need very little maintenance, and once established, they can outcompete weeds.
+Many native plants need very little maintenance, and once established, can outcompete weeds.
 Native plants often have very deep root systems that help with water infiltration and allow them to tolerate major dry spells without supplemental watering.
 There is also a very good selection of native plants that will tolerate alternating wet and dry conditions, perfect for planting inside the basin of the rain garden, which may be underwater for some hours after a heavy rain but also may dry out completely after several weeks of no rain.
 
@@ -93,7 +93,7 @@ Elderberry almost made the cut, but we had acquired a dog who likes to eat a lot
 
 The rule of thumb for siting rain gardens is they should be at least 10 feet away from the foundation.
 That plus the placement of the woody plants defined the approximate shape of the basin.
-I made sure to extend it far enough to provide channels to both of the downspouts that would be feeding it.
+I made sure to extend it far enough to be within reach of both of the downspouts that would be feeding it.
 
 The final step was filling it in with wildflowers and native grasses.
 Starting with the list of candidates I had built up from my resources, I started slotting them in based on sun an moisture preferences and plant height.
@@ -153,8 +153,8 @@ It took me another week or so to buy and put down mulch, which unfortunately pro
 ## Downspout channels ##
 
 I wanted to make sure that water from the downspouts was conveyed effectively to the basin of the rain garden, but I didn't really want to add giant downspout extensions.
-I decided to dig a couple channels and line them with rocks in kind of a creek bed aesthetic.
-Between all the dirt from the [egress window]({% post_url 2020-11-12-basement-egress %}) and the dirt we had just removed from the rain garden itself, I had quite a good collection of fist-sized river rocks on hand.
+I decided to dig a couple channels and line them with rocks in a sort of creek bed aesthetic.
+After sifting through all the dirt from the [egress window]({% post_url 2020-11-12-basement-egress %}) and the dirt we had just removed from the rain garden itself, I had quite a good collection of fist-sized river rocks on hand.
 These worked perfectly and it was lovely to be able to turn a waste product into an asset.
 I saved myself the time and money of disposal and I didn't need to buy imported rocks.
 Closed loop, baby!
@@ -183,7 +183,7 @@ Third, I needed better separation on the edges.
 Having no physical barrier meant a lot of dirt and woodchips was being kicked into the channels, which would presumably eventually clog them up.
 
 So in 2020 I pulled all the rocks out and re-dug the channels.
-I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=W857605473) to define the edges.
+I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881) to define the edges.
 I don't know why Home Depot doesn't carry this stuff in stores.
 It's great: easy to install, easy to bend to shape, stays put, looks nice, and should last for a long time.
 It's a bit pricier than plastic edging, but for this small a job that wasn't much of a concern.
@@ -212,7 +212,7 @@ I plan to replace it with New England Aster and another try at Blazing Star, mar
 
 In retrospect, I could have planted with tighter spacing.
 I drew up the plans using recommended spacings from Prairie Moon, but I could have tucked everything a little bit closer if I wanted a garden that felt "full" a few years earlier.
-That said, doing so would have increased the plant costs, so I'm not sure I would have done so anyways.
+That said, this would have required more plants and thus increased costs, so I'm not sure I would have done so anyways.
 In subsequent years I've been tucking more plants into available spaces as I discover additional species that pique my interest or have success starting less-common plants from seed.
 
 After observing the garden's performance in major rain events over the first two years, I realized some parts of the basin needed to be deeper.
