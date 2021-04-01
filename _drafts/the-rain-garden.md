@@ -58,6 +58,8 @@ Many native plants need very little maintenance, and once established, can outco
 Native plants often have very deep root systems that help with water infiltration and allow them to tolerate major dry spells without supplemental watering.
 There is also a very good selection of native plants that will tolerate alternating wet and dry conditions, perfect for planting inside the basin of the rain garden, which may be underwater for some hours after a heavy rain but also may dry out completely after several weeks of no rain.
 
+{% single_image path: assets/images/the-rain-garden/prairie-roots.jpg alt: "Drawing depicting a side-by-side comparison of the root systems of different prairie plants", caption: "The root systems of some prairie plants. Kentucky Bluegrass (i.e. your lawn) is the pathetic thing you can barely see on the very far left." %}
+
 As I evaluated candidates for planting in this area, native plants kept rising to the top of the list because they had so much to offer.
 Many plants exist that could fill the space and look nice, but with those traits being equal, why would I not choose the option that comes with so many additional benefits?
 The common downsides of natives (that they take a while to get established and that they don't always lend themselves to a carefully manicured garden aesthetic) were also not concerns for me, and I have access to several vendors of high-quality and ethically-sourced native plant seedlings, so there wasn't much reason for me to say no.
