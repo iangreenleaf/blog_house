@@ -37,10 +37,13 @@ With our large yard and nothing in it but grass, there was plenty of space to ac
 
 The best resource I found for rain garden design and installation was [this guide from Blue Thumb]({% link /assets/files/rain-garden-manual.pdf %}).
 It offers a lot of useful information, including a lot of very specific practical advice that is invaluable if you're going to be doing the installation yourself.
+Another good resource (that didn't exist when I did this project) is the [Lawn to Legumes planting guide](https://bwsr.state.mn.us/sites/default/files/2020-06/Planting%20for%20Pollinators_updated_2020.pdf).
 
-TODO plant lists
+Plant lists are also a great way to get started without a lot of prior knowledge.
+I can't find the plant list I used the most when making my design—it was especially nice because it was a selection of relatively easy-to-find plants, and it listed not only basic information about the plants but also where in the rain garden (basin, sides, top) they would be best suited.
+If I were doing the project now, I think I would start with the [Lawns to Legumes rain garden template](https://bwsr.state.mn.us/sites/default/files/2019-08/Rain%20Garden%20template_acc.pdf), the [UMN Extension rain garden guide](https://extension.umn.edu/landscape-design/rain-gardens#choose-plants-1778663) and the [Xerces Society plant lists](https://xerces.org/publications/plant-lists).
 
-The other good way to determine this for specific plants is [Prairie Moon's excellent plant information](https://www.prairiemoon.com/).
+The other good way to determine the best location for specific plants is [Prairie Moon's excellent plant information](https://www.prairiemoon.com/).
 They list moisture preferences for each plant, which is a good approximation of where they'd like to be in a rain garden.
 Plants listed as "wet" and "medium-wet" will likely be happy in the bottom of the basin.
 "Dry" or "medium-dry" plants need to be fully outside of the basin.
@@ -351,13 +354,34 @@ Use the little arrows to navigate the photo gallery.
 
 ## Favorite plants ##
 
+I like all the plants in the rain garden.
+There are certain ones, though, that I especially enjoy for one reason or another.
+
 ### Cardinal Flower (Lobelia cardinalis) ###
 
 {% single_image path: assets/images/the-rain-garden/cardinal-flower.jpg alt: "Cardinal Flower in bloom" %}
 
+This is the royalty of the rain garden.
+Look at that brilliant red!
+One of my goals for the yard was to attract hummingbirds, and this plant is one of the top recommendations, for obvious reasons.
+It has worked, too: I've spotted several hummingbirds visiting the flowers.
+No successful photographs yet, because those suckers move _fast_.
+
+I've heard that some people have trouble growing this one, but it has done very well for me.
+It's planted in the part of the basin that receives the most moisture and seems to be very happy with that situation.
+
 ### Obedient Plant (Physostegia virginiana) ###
 
 {% single_image path: assets/images/the-rain-garden/obedient-plant.jpg alt: "Bee approaching flowers of an Obedient Plant" %}
+
+Obedient Plant is just the right amount of strange.
+The flowers are closely packed on spikes and the blooms progress upward over time, giving it a sort of pyramidal appearance.
+Bumblebees seem especially fond of this plant and are often visiting it.
+
+Obedient Plant gets its name because you can adjust the angle of the flowers and they will stay where you put them.
+Ironically, it is not an obedient plant and is well-known to be an aggressive spreader.
+I've seen it doing this for me and it has already expanded well beyond where I planted it.
+So far the spreading has not been a problem, but I will keep monitoring it to make sure it's not getting into any trouble.
 
 ### Partridge Pea (Chamaecrista fasciculata) ###
 
@@ -386,7 +410,7 @@ Think again as you gaze upon the madness of Gray's Sedge.
 {% single_image path: assets/images/the-rain-garden/grays-sedge.jpg alt: "Gray's Sedge with seed pods" %}
 
 Yes, those are this sedge's seed pods.
-Why it decided to make it look like a [morning star](https://en.wikipedia.org/wiki/Morning%2Fstar%2F%28weapon%29), I do not know.
+Why it decided to make it look like a [morning star](https://en.wikipedia.org/wiki/Morning_star_%28weapon%29), I do not know.
 But it's a delightfully weird sight, and the sedge itself has grown very happily in part shade at the bottom of the basin.
 
 There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon.com/carex-muskingumensis-palm-sedge-prairie-moon-nursery.html), [fox sedge](https://www.prairiemoon.com/carex-vulpinoidea-brown-fox-sedge-prairie-moon-nursery.html)), but Gray's Sedge is a total standout and well worth picking up if you can find it.
@@ -397,18 +421,49 @@ There are other sedges with fun seed heads ([palm sedge](https://www.prairiemoon
 
 I have several early-blooming spring flowers planted in the rain garden, as food sources are especially helpful for hungry pollinators at that time of year.
 Wild Geranium always strikes me as the most cheerful of the early bloomers.
-The light blue flowers are a welcome pop of color in the spring, and look as nice in shade as in sun.
-It's also a trouble-free plant, growing uncomplainingly TODO
+The light blue-purple flowers are a welcome pop of color in the spring, and look as nice in shade as in sun.
+It has grown very well for me without any special treatment and bloomed profusely in the second year.
+Wild Geranium is also found in many of the wooded state parks around Minnesota, so now that I recognize it I've enjoyed spotting it on spring hikes.
 
 ### Spikenard (Aralia racemosa) ###
 
 {% single_image path: assets/images/the-rain-garden/spikenard.jpg alt: "Berries on a Spikenard plant" %}
+
+Spikenard is a weird one.
+I picked it out because I had been reading about Wild Sarsaparilla (Aralia nudicalis), which has roots sometimes used as a root beer substitute, and that led me to its relative Spikenard (Aralisa racemosa).
+In mid-summer Spikenard looks like a rounded bush, about 2-3 feet tall and wide, but it's an herbaceous plant and dies back to the ground in winter.
+I have it growing in fairly dry full shade at the end of the garden and it seems happy as can be.
+It has started putting out bountiful clusters of small berries.
+There isn't a lot of information on if the berries are edible to humans, but it seems like they are probably fine.
+I've tried them and the flavor is pretty nice!
+They might get a little insipid if eaten in large quantities, but they make a good nibble.
+In theory the roots of Spikenard can also be used in a beverage, though I don't know if I will ever go to the trouble of trying that.
 
 ### Serviceberry ###
 
 I suspect we will like our serviceberry a lot, since pretty much everyone loves serviceberries.
 It started as a very small seedling, though, so it's still a fairly small plant and is not yet flowering or producing fruit.
 Mostly I just wanted to take a moment to tell you about how utterly confusing the taxonomy is as soon as you try to determine what actual plant constitutes a "serviceberry".
+
+Everyone agrees that it's a plant in the _Amelanchier_ genus, but beyond that, all bets are off.
+There's _A. laevis_, sometimes known as Allegheny serviceberry.
+There's _A. alnifolia_, sometimes known as Saskatoon berry.
+_A. arborea_ is downy serviceberry.
+_A. canadensis_ is Canada serviceberry, or sometimes shadblow, but shadblow can also refer to other species in the family.
+One of the most popular serviceberries sold in nurseries, 'Autumn Brilliance', is _Amelanchier × grandiflora_, a hybrid cross between _A. arborea_ and _A. laevis_.
+"Juneberry" is sometimes used to specifically refer to _A. alnifolia_, but at other times is used generically to refer to just about any of these.
+
+And then there's _A. lamarckii_, about which [apparently no one can agree](http://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=a403).
+It might be a hybrid cross between _A. canadensis_ and _A. laevis_. Or it could be a cross between _A. arborea_ and _A. laevis_, which would make it the same as _A. x grandiflora_.
+Or it might not be a cross at all but rather it's own species.
+
+To top it all off, many nurseries will simply sell you a "serviceberry" without providing species information.
+And of those that do provide species information, it may just be incorrect.
+So who knows what you're getting!
+
+Anyhow, I purchased [a selection of a wild type](https://oikostreecrops.com/products/fruit-plants-organically-grown/serviceberry-saskatoon-amelanchier-plants/keweenaw-allegheny-serviceberry/) from OIKOS, purveyors of unusual crops.
+They bill it as _Amelanchier laevis-canadensis_.
+I assume they're doing this just to mess with me.
 
 ## Time & Materials ##
 
