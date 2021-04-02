@@ -861,7 +861,7 @@ figure.align-center figcaption { text-align: center; }
 
 .single-image figure figcaption .credit, .gallery figure figcaption .credit { font-style: normal; opacity: 0.8; margin-left: 0.2rem; }
 
-.single-image figure img, .gallery figure img { max-height: 100vh; }
+.single-image figure img, .gallery figure img { max-height: 90vh; }
 
 .single-image .splide__arrow[disabled], .gallery .splide__arrow[disabled] { display: none; }
 

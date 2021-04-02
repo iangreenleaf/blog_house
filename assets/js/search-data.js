@@ -43,4 +43,9 @@ var store = [{
         "excerpt":"My journey thus far in landscape design had arrived at a high-level plan for the yard that split it into segments with themes driving the design. This was an excellent starting point for the design, but I still had to fill in a lot of details and figure out what...","categories": [],
         "tags": ["Garden","How to"],
         "url": "https://house.youngram.com/how-to-plan-a-garden-part-two.html"
+      },{
+        "title": "The Rain Garden",
+        "excerpt":"The rain garden is one of my proudest landscaping achievements and probably the most unqualified success I’ve had.I want to tell you all about it, but if you’re just here for the pretty pictures, I understand.You can skip all the words and get straight to the good stuff. Why a...","categories": [],
+        "tags": ["Garden"],
+        "url": "https://house.youngram.com/the-rain-garden.html"
       }]
