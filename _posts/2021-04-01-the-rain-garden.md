@@ -168,7 +168,7 @@ I kept the outside edge a tiny bit lower so that if the basin overflows, the wat
 Planting moved fast with all the helping hands.
 Using the paper plan, I set seedlings out where they were to be planted, and everyone else followed behind digging them in.
 
-{% single_image path: assets/images/the-rain-garden/newly-planted.jpg alt: "Rain garden with new plants", caption: "Basin dug and plants planted." %}
+{% single_image path: assets/images/the-rain-garden/newly-planted.jpg alt: "Rain garden with new plants", caption: "Basin dug and plants planted. The fence is temporary, to prevent the dog from trampling it." %}
 
 I should have finished up by mulching around everything, but it had been a hectic spring and I hadn't acquired mulch yet, so I just watered everything in and left it as bare dirt for the moment.
 It's recommended to use double-shredded mulch, which mats together and resists floating up when the basin fills with water.
