@@ -290,7 +290,7 @@ It was beautiful throughout the growing season and attracted lots of insects.
 We had a fairly wet summer, so I don't think I did any supplemental watering other than for some new transplants I added.
 Even if the summer had been drier, I would have done a pretty minimal amount.
 The plants had good root systems by now, a layer of mulch to keep moisture in the soil, and plenty of rain water coming from the downspouts.
-I also did very little weeding in the second year, probably in the area of 10-15 total hours.
+I also did very little weeding in the second year, probably in the area of 10 total hours.
 This was a nice change from the more involved work of year one, I think thanks to a combination of my thorough job from the previous year and the native plants starting to outcompete weeds more successfully.
 
 Year three felt like the garden had fully arrived.
@@ -467,21 +467,47 @@ I assume they're doing this just to mess with me.
 
 ## Time & Materials ##
 
-TODO
-
 {% summary time %}
-{% line_item Doing stuff | 6 hours %}
-{% line_item Cleanup | ~1 hour %}
-{% total ~7 hours %}
+{% subtotal_heading First year (2018) %}
+{% line_item Digging and planting | ~18 hours %}
+{% line_item Mulching | ~3 hours %}
+{% line_item Weeding & watering | ~18 hours %}
+{% line_item Downspout channels - version 1 | ~5 hours %}
+{% subtotal ~44 hours %}
+{% subtotal_heading Second year (2019) %}
+{% line_item Weeding | ~10 hours %}
+{% line_item Additional digging | ~3 hours %}
+{% line_item Additional planting & watering | ~4 hours %}
+{% line_item Downspout channels - version 2 | ~5 hours %}
+{% subtotal ~22 hours %}
+{% subtotal_heading Third year (2020) %}
+{% line_item Additional planting | ~5 hours %}
+{% line_item Weeding | ~5 hours %}
+{% subtotal ~7 hours %}
+{% total ~73 hours %}
 {% endsummary %}
 
 {% summary cost %}
+{% subtotal_heading Initial planting (2019) %}
+{% line_item Wildflowers & grasses from the Friends School Plant Sale - 38 plants | $147 %}
+{% line_item Wildflowers from Landscape Alternatives nursery - 8 plants | $16 %}
+{% line_item Chokeberry (Aronia melanocarpa) | $12 %}
+{% line_item American Cranberrybush (Viburnum trilobum) | $11 %}
+{% line_item Serviceberry (Amelanchier laevis-canadensis) | $9 %}
+{% line_item Pagoda dogwood (Cornus alternifolia) | $10 %}
+{% line_item Mulch | $16 %}
+{% subtotal $221 %}
+{% subtotal_heading Additional plantings (2019 & 2020) %}
+{% line_item Potted seedlings - 6 plants | $33 %}
+{% line_item Virgin's Bower (Clematis virginiana) - on sale | $2 %}
+{% line_item Snowberry (Symphoricarpos albus) - on sale | $8 %}
+{% line_item Seeds | $42 %}
+{% subtotal $85 %}
 {% subtotal_heading Downspout channels %}
 {% line_item [Aluminum edging (bronze), 24'](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881?cm_mmc=ecc-_-THD_ORDER_CONFIRMATION_BOSS_STH-_-V1_M1_CA-_-Product_URL&ecc_ord=W857605473) | $45 %}
 {% line_item Landscape fabric | free %}
 {% line_item Landscape staples | on hand %}
 {% line_item River rocks | free %}
-{% subtotal $20 %}
-{% line_item Delivery | $1 %}
-{% total $21 %}
+{% subtotal $45 %}
+{% total $351 %}
 {% endsummary %}
