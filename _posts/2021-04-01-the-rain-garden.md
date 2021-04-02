@@ -4,8 +4,8 @@ title: The Rain Garden
 project_start:
 project_end:
 tags: Garden
+date: 2021-04-01 22:44 -0500
 ---
-
 {% single_image path: assets/images/the-rain-garden/columbine-cropped.jpg alt: "Flower on a Columbine plant" %}
 
 The rain garden is one of my proudest landscaping achievements and probably the most unqualified success I've had.
