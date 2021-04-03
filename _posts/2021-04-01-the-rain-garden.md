@@ -219,6 +219,7 @@ It's a bit pricier than plastic edging, but for this small a job that wasn't muc
 
 {% single_image path: assets/images/the-rain-garden/channel-re-dug.jpg alt: "Unfinished channel with edging and landscape fabric installed" %}
 
+I put Katherine in charge of replacing the river rocks in an aesthetically pleasing configuration, and she took the job seriously.
 The final step was to build some lil' bridges where the path crosses the channels, to protect the edging and cut down on contamination.
 
 {% single_image path: assets/images/the-rain-garden/channel-finished.jpg alt: "Finished channel filled with rocks and small footbridge" %}
