@@ -9,7 +9,7 @@ tags:
   - Not a lot of finish
 ---
 
-The other half-finished big ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
+The other half-finished big-ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
 The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and heat exchanger, but no units had been installed.
 
 High velocity AC is a special system, manufactured almost exclusively by the Spacepak brand, that uses flexible supply lines that are much smaller than the ducts in your typical central air system.
@@ -42,8 +42,8 @@ After another planning visit and some more discussion, we came up with a plan to
 
 Installation happened over the course of about three days.
 The first day involved a big crew of about five people, while the next two days were calmer with 2-3 people.
-Jeremy was the leader of the crew and was a delight to work with (I've seen him about once a year since, for other projects and a part recall).
-The crew was did a great job of not making a mess and was good about consulting me before making important decisions.
+Jeremy was the leader of the crew and was a delight to work with (I've seen him about once a year since, for other projects and followups).
+The crew did a great job of not making a mess and was good about consulting me before making important decisions.
 
 They wrapped up on July 20th, and then we proceeded to have an abnormally cool and cloudy summer and never needed to actually use air conditioning.
 What a grand christening!
@@ -69,7 +69,7 @@ Frustratingly, the crew did a great job of communication in general and consulte
 This was the one time that I wouldn't have liked their plan, and of course it was the one thing they didn't check with me on.
 It was a good lesson to me that yes, I should check in frequently on work that's happening and not feel too guilty about bothering the workers.
 Luckily, this problem was pretty easily fixed.
-By dropping the supply on the right side of the opening instead of the left, we could avoid the need to cross that part of the room entirely, and it still came out in a fine part of the ceiling in the floor below.
+By dropping the supply on the right side of the opening instead of the left, we could avoid the need to cross that part of the room entirely, and it still came out in a good part of the ceiling in the floor below.
 I had our attic contractor relocate it when they were building the kneewalls, and it's fine now.
 
 ## Dog Tax ##
@@ -97,7 +97,8 @@ TODO
 {% line_item Electrical wiring %}
 {% line_item Labor %}
 {% line_item Permits %}
-{% total $7,800 %}
+{% subtotal $7,800 %}
 {% subtotal_heading Sale of old window units %}
-{% total -$120 %}
+{% subtotal -$120 %}
+{% total $7,680 %}
 {% endsummary %}
