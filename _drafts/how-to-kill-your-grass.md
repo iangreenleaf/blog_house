@@ -22,14 +22,14 @@ How about [a message from Chicago's most Chicago botanist](https://www.youtube.c
 
 "But wait," you say, "*I* use *my* lawn!"
 I believe you.
-Well, I believe that you get good use out of about 10% or so of your lawn.
+Well, I believe that you get good use out of about 10% of your lawn.
 Try a quick audit: think about the activities that take place on your lawn and where, specifically, they take place.
 Barbecues, movie nights, bonfires, child and/or dog playtime, hammocking... however you use your lawn, I'm willing to bet that the vast majority of it takes place in one concentrated area.
 Most likely, that area is in the back yard, in an area that feels semi-private and has convenient access to the house.
 Got it?
 Great!
 You've now identified the only area that is truly best served by turfgrass.
-Consider this: most likely, every other part of your yard would be better served by something else.
+Consider this: every other part of your yard would probably be better served by something else.
 
 Here is a map of our property with our results notated (our house sits on a double lot, so we have more yard space than the typical city house, but the general idea holds true).
 When we bought our house, literally all of it was lawn.
@@ -66,7 +66,7 @@ If you're simply looking to plant it with something other than grass, the level 
 How strong is the "weed seed bank" on the site?
 This refers to all the weed seeds that are lying dormant in the soil, ready to germinate if given the chance.
 In your typical urban lot, the weed seed bank is formidable.
-Turfgrass will suppress a lot of weed growth, but all those seeds are biding their time.
+Turfgrass will suppress a lot of weed growth, but all those seeds are still present, biding their time.
 If the turfgrass goes away and nothing else shows up to compete, the weeds will happily take over.
 
 How quickly and densely will you be growing replacement vegetation?
@@ -219,7 +219,7 @@ And you can add uncomposted kitchen scraps under the weed barrier, where they wi
 
 We used sheet mulching to prepare about 500 sq. ft. for our vegetable garden and have had a very good outcome.
 
-I think sheet mulching comes out well ahead of other methods in terms of results.
+I think sheet mulching comes out ahead of other methods in terms of results.
 Done well, it can tame very rough conditions, and it effectively deals with the existing vegetation and weed seed bank.
 It also rolls a bunch of soil improvement into the preparation step, something that you would have to do separately with most of the other methods.
 It's possible to do sheet mulching not only organically, but with also with local materials and materials almost exclusively reclaimed from the waste stream.
@@ -233,6 +233,8 @@ You are also unlikely to have a large quantity of compost lying around if you wa
 
 One more consideration: sheet mulching will raise the height of the area considerably.
 The freshly laid material may be as much as a foot thick, and the eventual settled height will probably be something like 3" above the former ground level.
+This caused a bit of hassle for me where our garden meets the sidewalks.
+Where the ground had previously been level with the sidewalk, it was now several inches higher and I had to install edging to keep it contained.
 
 As long as you're willing to do a bit of work, sheet mulching is an excellent solutions for sites that you want to be very well prepared.
 For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be overkill.
@@ -247,7 +249,7 @@ Top generously with wood chips.
 Leave for a while to decompose, or punch holes in the carboard to plant immediately.
 
 This method reduces the required inputs to two materials that are very easy for me to source.
-Large sheets of cardboard can be gathered free from appliance stores or my preference, bike shops.
+Large sheets of cardboard can be gathered free from appliance stores, or my preference, bike shops.
 Arborist wood chips are sometimes available free from municipal sites, and some arborists will also drop a load off at your house for free (since it saves them a disposal fee).
 
 The simple recipe and the light weight of the materials mean I can cover a lot of area fairly rapidly.
@@ -266,11 +268,11 @@ I've converted roughly 1500 sq. ft. of grass using this method, an amount that w
 
 ## Go forth and kill your grass ##
 
-There you have it, a veritable arsenal of grass-killing techniques.
+There you have it: an arsenal of grass-killing techniques.
 Which one is right for you depends on the specifics of your situation and your preferences.
-Most importantly, pick the one that leads to you killing some grass.
+Most importantly, pick the one that leads to you **killing some grass**.
 If your first attempt is small or imperfect, it's still better than doing nothing.
 
 At this very moment you, yes **you**, have some patch of grass sitting around that you never use.
-That grass is wasting your time, and it's wasting the potential of a space that could be benefiting somebody if it weren't wasted by grass.
+That grass is wasting your time, and it's wasting the potential of a space that could be providing benefits you'll never get out of grass.
 Go kill that grass, and put something useful in its place.
