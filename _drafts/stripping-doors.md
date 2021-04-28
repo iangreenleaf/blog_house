@@ -12,18 +12,21 @@ tags:
 4. As I go, apply a thin coat of stripper to any areas with substantial paint left behind.
 5. Once the first pass of scraping is done, go back and scrape any areas that had stripper reapplied.
 6. Dip steel wool or a scrub pad in mineral spirits and scour the whole surface of the door to neutralize the stripper and remove most of the remaining paint residue.
-7. Using the HEPA vacuum and scraper, scrape any areas with remaining paint.
-8. Using the contour scraper, scrape the details of the panels. Vacuum up the loose debris from this.
+7. Using the contour scraper, scrape the details of the panels. Vacuum up the loose debris from this with the HEPA vacuum.
+8. Using the HEPA vacuum and scraper, scrape any areas with remaining paint.
 9. Repeat process on other side of door.
-10. Scrape the edges of the door with the HEPA vac and scraper.
-11. Use a random orbit sander attached to the HEPA vac to lightly sand the whole door.
-12. By this point the door should be almost entirely clear of old paint. Proceed to prime and paint with the new paint.
+10. Scrape the edges of the door with the HEPA vac and scraper, and wipe with mineral spirits to neutralize any remaining traces of stripper.
+11. Patch holes and damage with Bondo.
+12. Use a random orbit sander attached to the HEPA vac to sand the patched areas and sand the whole door. By this point the door should be almost entirely clear of old paint.
+13. Take the door outside on a still day and prime with Kilz Original. Once dry, move back inside.
+14. Patch any damaged areas I missed the first time with Bondo or wood filler.
+15. Lightly sand the primer coat, then paint with two coats of the final paint.
 
 ## Time & Materials ##
 
 {% summary time %}
 {% subtotal_heading Per door %}
-{% line_item Stripping, scraping, and cleaning | 5.5 hours %}
+{% line_item Stripping, scraping, and cleaning | 5-6 hours %}
 {% line_item Repairing and sanding | 1-2 hours %}
 {% line_item Priming and painting | 1.5 hours %}
 {% line_item Hardware restoration | 0.5 hours %}
