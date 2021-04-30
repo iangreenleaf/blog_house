@@ -86,7 +86,7 @@ Well, that will be our little secret.
 
 Here's your first installment of dog tax:
 
-TODO
+{% single_image path: assets/images/air-conditioning/dog-tax.jpg alt: "The world's cutest dog" %}
 
 ## Time & Materials ##
 
