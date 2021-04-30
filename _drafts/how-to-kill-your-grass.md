@@ -103,6 +103,8 @@ On a small urban lot, there are plenty of other choices, and many of them offer 
 
 ## Sod removal ##
 
+{% single_image path: assets/images/how-to-kill-your-grass/sod.jpg alt: "A roll of sod and the sod kicker used to cut it" %}
+
 Find (probably rent) either a manual or powered sod cutter.
 These tools slice through the soil underneath the roots of the grass, and then you can roll the strips of sod up into big cylinders and remove them.
 I did a bit of sod removal and replacement with a manual sod kicker, which I'll write about at some point, but I haven't used this method to clear a large area for replacement planting.
@@ -125,6 +127,8 @@ In my experience, flipping sod does an imperfect job of killing the existing pla
 The weed seed bank will remain a threat, and you'll still have a thick mat of vegetative matter that's difficult to plant into.
 
 ## Digging ##
+
+{% single_image path: assets/images/the-rain-garden/digging.jpg alt: "Partially dug-up sod" %}
 
 Get a shovel, dig up the grass, and remove it.
 Pretty straightforward!
@@ -167,6 +171,8 @@ The sheet mulching methods I'll describe work on a similar principle but mitigat
 
 ## Solarizing ##
 
+{% single_image path: assets/images/how-to-kill-your-grass/solarization.jpg alt: "Clear plastic sheeting laid over the boulevard grass" %}
+
 This looks very similar to smothering, with one key difference.
 Instead of using an opaque material like black plastic, you lay down clear plastic that lets sunlight through.
 This creates a greenhouse effect, trapping heat under the plastic.
@@ -200,14 +206,13 @@ Just invest in a bit of planning to make sure you succeed.
 
 ## Sheet mulching ##
 
+{% single_image path: assets/images/how-to-kill-your-grass/sheet-mulch.jpg alt: "Work in progress sheet mulching the vegetable garden" %}
+
 Sheet mulching (also sometimes called "lasagna gardening") combines several techniques into one all-inclusive method for preparing a site.
 The basic idea is to layer material on top of your grass: first a biodegradable weed barrier to smother the existing vegetation, then a thick layer of organic material and mulch to hold it all down and provide fertility.
 This is all left to decompose, and planting is done without any further disturbance of the soil.
 Ideally, the sheet mulched area is given a few months to break down into nice fertile soil before planting.
 However, it is also possible to plant directly into a freshly sheet-mulched area by punching holes through the weed barrier for transplants, or by topping the layers with soil or compost and sowing seeds into that.
-
-By burying the former grass under a bunch of new material, the weed seed bank is kept away from the surface where it would germinate.
-The dead vegetation will be broken down under the surface by worms and microorganisms, converted to organic matter that's helpful to the soil.
 
 The weed barrier is usually newspaper or cardboard (I much prefer cardboard).
 There are many different "recipes" for the organic material layered on top.
@@ -217,7 +222,14 @@ Straw, leaves, manure, sawdust, wood chips, shredded paper, and just about anyth
 You can also add soil amendments, or fertility boosters like used coffee grounds.
 And you can add uncomposted kitchen scraps under the weed barrier, where they will break down along with everything else.
 
+{% single_image path: assets/images/how-to-kill-your-grass/sheet-mulch-scraps.jpg alt: "Pile of organic matter scraps ready to be added under the sheet mulch", caption: "One of the benefits of sheet mulching is that you can add pretty much anything biodegradable underneath the weed barrier. Here is weeds, spent flowers, corn husks, plus coffee grounds I had collected from a local coffeeshop to boost decomposition." %}
+
+By burying the former grass under a bunch of new material, the weed seed bank is kept away from the surface where it would germinate.
+The dead vegetation will be broken down under the surface by worms and microorganisms, converted to organic matter that's helpful to the soil.
+
 We used sheet mulching to prepare about 500 sq. ft. for our vegetable garden and have had a very good outcome.
+
+{% single_image path: assets/images/how-to-kill-your-grass/sheet-mulch-finished.jpg alt: "Garden area with finished sheet mulch", caption: "The new vegetable garden with a fresh layer of sheet mulch applied." %}
 
 I think sheet mulching comes out ahead of other methods in terms of results.
 Done well, it can tame very rough conditions, and it effectively deals with the existing vegetation and weed seed bank.
@@ -242,8 +254,10 @@ I'm glad I did a thorough sheet mulching for the vegetable garden, but for most 
 
 ## Lazy sheet mulching ##
 
+{% single_image path: assets/images/how-to-kill-your-grass/wood-chip-mulch.jpg alt: "Cardboard on the boulevard grass covered with wood chips" %}
+
 This is a stripped-down variation of sheet mulching that uses the same principle but drastically simplifies the materials.
-I may do a full post later to show examples of the process, but it's pretty straightforward.
+It's quite simple.
 Lay cardboard on top of the existing grass.
 Top generously with wood chips.
 Leave for a while to decompose, or punch holes in the carboard to plant immediately.
@@ -251,6 +265,11 @@ Leave for a while to decompose, or punch holes in the carboard to plant immediat
 This method reduces the required inputs to two materials that are very easy for me to source.
 Large sheets of cardboard can be gathered free from appliance stores, or my preference, bike shops.
 Arborist wood chips are sometimes available free from municipal sites, and some arborists will also drop a load off at your house for free (since it saves them a disposal fee).
+
+{% gallery %}
+{% gallery_image path: assets/images/how-to-kill-your-grass/cardboard.jpg alt: "Cardboard bike boxes stacked in the back of the car", caption: "I had an insatiable need for bike boxes for a while." %}
+{% gallery_image path: assets/images/how-to-kill-your-grass/wood-chips.jpg alt: "A giant pile of wood chips in the driveway", caption: "One of several loads of wood chips from arborists, all free." %}
+{% endgallery %}
 
 The simple recipe and the light weight of the materials mean I can cover a lot of area fairly rapidly.
 It's still more work than some of the other methods, but since the areas I'm working on would need mulch eventually anyhow, I come out ahead in the long run by having wood chips already in place to serve as mulch.
@@ -265,6 +284,8 @@ It also doesn't provide the immediate soil improvement of full sheet mulching, t
 
 This method has become my go-to choice for most situations because for my yard, it presents the best path from grass to not-grass.
 I've converted roughly 1500 sq. ft. of grass using this method, an amount that was achievable specifically because of the simplicity and efficiency of this approach.
+
+{% single_image path: assets/images/how-to-kill-your-grass/wood-chip-mulch-2.jpg alt: "Cardboard on grass in the back yard, waiting to be covered with wood chips", caption: "Two thumbs up for wood chip sheet mulch." %}
 
 ## Go forth and kill your grass ##
 
