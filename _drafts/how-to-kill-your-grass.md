@@ -34,9 +34,9 @@ Consider this: every other part of your yard would probably be better served by 
 Here is a map of our property with our results notated (our house sits on a double lot, so we have more yard space than the typical city house, but the general idea holds true).
 When we bought our house, literally all of it was lawn.
 
-TODO
+{% single_image path: assets/images/how-to-kill-your-grass/map.png alt: "Map of our property with areas to keep as grass notated" %}
 
-That one area in the back is the area that's useful as lawn.
+That one area in the back is the area that's useful as grass.
 That's where we set up chairs or blankets when we have outdoor gatherings.
 That's where we relax outside on summer weekends.
 That's where the dog rolls around and grunts (this is an important part of her day).
