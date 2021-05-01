@@ -12,9 +12,15 @@ tags:
 The other half-finished big-ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
 The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and heat exchanger, but no units had been installed.
 
-High velocity AC is a special system, manufactured almost exclusively by the Spacepak brand, that uses flexible supply lines that are much smaller than the ducts in your typical central air system.
+High-velocity AC is a special system, manufactured almost exclusively by the Spacepak brand, that uses flexible supply lines that are much smaller than the ducts in your typical central air system.
 It's useful in old houses because it can be run through narrow existing spaces rather than a costly renovation or adding exposed ducts.
 While this made it a sensible choice for our house, the downside was that it's a somewhat specialized system that not every HVAC contractor deals in.
+And yes, it's very inconvenient that "high-velocity air conditioning" abbreviates to HVAC but that is already taken by the industry category of "heating, ventilation, & air conditioning".
+
+{% gallery %}
+{% gallery_image path: assets/images/air-conditioning/ceiling-vent.jpg alt: "Vent in the ceiling", caption: "This is what the supply outlets look like in the ceiling. They're about the size of a can light." %}
+{% gallery_image path: assets/images/air-conditioning/wall-vent.jpg alt: "Vent in the wall", caption: "They can also be placed on walls, which we did in a couple places for convenience." %}
+{% endgallery %}
 
 Central air conditioning is a big perk here in the land of humid summers, but a half-finished system wasn't worth much unless it could become fully finished.
 During the inspection phase of the sale, I called around to gather estimates on roughly how much it would cost to finish the installation.
@@ -26,7 +32,7 @@ I got several other quotes in addition to Stafford's.
 One guy delivered a rambling monologue that apparently ended with a recommendation that we abandon the high velocity system and install some combination of ductwork and mini-splits.
 I feel like that guy could have saved both of us some time by just saying "I don't work with high velocity systems" the first time I contacted him.
 [Pronto](https://prontoheat.com/) sent a salesman to do the quote and came back with an absurdly high price, something in the range of $15,000.
-That one felt very much like they pulled a number straight from their Price Book for Suckers and didn't even bother factoring in the cost savings from the existing work.
+That one felt very much like they pulled a number straight from their <cite>Price Book for Suckers</cite> and didn't even bother factoring in the cost savings from the existing work.
 Did I mention I hate gathering quotes?
 I hate gathering quotes.
 
@@ -45,26 +51,29 @@ The first day involved a big crew of about five people, while the next two days 
 Jeremy was the leader of the crew and was a delight to work with (I've seen him about once a year since, for other projects and followups).
 The crew did a great job of not making a mess and was good about consulting me before making important decisions.
 
+{% single_image path: assets/images/air-conditioning/exterior-unit.jpg alt: "Exterior condenser unit", caption: "The exterior unit." %}
+
 They wrapped up on July 20th, and then we proceeded to have an abnormally cool and cloudy summer and never needed to actually use air conditioning.
 What a grand christening!
 We did make good on our investment starting in the summer of 2018, which brought a number of prolonged heat waves.
 The system works very well, runs quiet, and has no trouble cooling the house.
 
-A couple small imperfections:
+A few small imperfections:
 There are a couple large flexible ducts supplying some of the lines that I don't love.
 These might have been avoided if all the supplies had been placed during the initial installation, when some of the areas to run lines were more accessible.
 One of the big ducts runs across the ceiling of the laundry/utility room in the basement, which is not a huge deal because it's the laundry/utility room, but it does encroach on the headspace a bit.
+
+{% single_image path: assets/images/air-conditioning/basement-duct.jpg alt: "Large duct in the laundry room" %}
+
 The other runs around the edge of the attic.
 This could have been a real nuisance, but it worked out okay.
 We were already planning to build kneewalls on the slanted sides and could enclose it in those.
 The part passing under the window will eventually be turned into shelves and a window seat, which is a good use for that space.
 Still, it would have made life a little easier not to have to work these ducts into our plans.
 
-The only real complaint I had with the crew's work was this, which I didn't notice until well after the fact:
+{% single_image path: assets/images/air-conditioning/attic-duct.jpg alt: "Large duct along the attic perimeter", caption: "Part of the housing for the attic duct, to eventually be capped." %}
 
-TODO
-
-There's no way to enclose that and still have access to the little porthole window.
+The only real complaint I had with the crew's work was one spot I didn't notice until after the job was done where they had routed a line in front of the attic's small porthole window in a way it couldn't be enclosed without blocking the window.
 Frustratingly, the crew did a great job of communication in general and consulted me on a whole bunch of decisions where I was fine with what they wanted to do.
 This was the one time that I wouldn't have liked their plan, and of course it was the one thing they didn't check with me on.
 It was a good lesson to me that yes, I should check in frequently on work that's happening and not feel too guilty about bothering the workers.
