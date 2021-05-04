@@ -10,7 +10,7 @@ tags:
 ---
 
 The other half-finished big-ticket project that came with the house (besides [the chimney]({% post_url 2020-08-11-the-chimney %})) was central air conditioning.
-The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and heat exchanger, but no units had been installed.
+The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and air handler, but no units had been installed.
 
 High-velocity AC is a special system, manufactured almost exclusively by the Spacepak brand, that uses flexible supply lines that are much smaller than the ducts in your typical central air system.
 It's useful in old houses because it can be run through narrow existing spaces rather than a costly renovation or adding exposed ducts.
@@ -51,7 +51,10 @@ The first day involved a big crew of about five people, while the next two days 
 Jeremy was the leader of the crew and was a delight to work with (I've seen him about once a year since, for other projects and followups).
 The crew did a great job of not making a mess and was good about consulting me before making important decisions.
 
-{% single_image path: assets/images/air-conditioning/exterior-unit.jpg alt: "Exterior condenser unit", caption: "The exterior unit." %}
+{% gallery %}
+{% gallery_image path: assets/images/air-conditioning/air-handler.jpg alt: "Interior air handler unit", caption: "The air handler, located in the attic. Thankfully there was a small space already set aside for this." %}
+{% gallery_image path: assets/images/air-conditioning/exterior-unit.jpg alt: "Exterior condenser unit", caption: "The exterior unit." %}
+{% endgallery %}
 
 They wrapped up on July 20th, and then we proceeded to have an abnormally cool and cloudy summer and never needed to actually use air conditioning.
 What a grand christening!
@@ -107,7 +110,6 @@ Here's your first installment of dog tax:
 {% line_item Labor %}
 {% line_item Permits %}
 {% subtotal $7,800 %}
-{% subtotal_heading Sale of old window units %}
-{% subtotal -$120 %}
+{% line_item Sale of old window units | -$120 %}
 {% total $7,680 %}
 {% endsummary %}
