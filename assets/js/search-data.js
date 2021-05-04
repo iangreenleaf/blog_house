@@ -48,4 +48,9 @@ var store = [{
         "excerpt":"The rain garden is one of my proudest landscaping achievements and probably the most unqualified success I’ve had.I want to tell you all about it, but if you’re just here for the pretty pictures, I understand.You can skip all the words and get straight to the good stuff. Why a...","categories": [],
         "tags": ["Garden"],
         "url": "https://house.youngram.com/the-rain-garden.html"
+      },{
+        "title": "(H.V.)AC",
+        "excerpt":"The other half-finished big-ticket project that came with the house (besides the chimney) was central air conditioning.The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and air handler, but no units had been installed. High-velocity AC is...","categories": [],
+        "tags": ["Boring","Contractors","Not a lot of finish"],
+        "url": "https://house.youngram.com/air-conditioning.html"
       }]
