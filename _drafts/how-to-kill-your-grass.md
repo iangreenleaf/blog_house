@@ -7,10 +7,11 @@ tags:
 ---
 
 I hate lawns.
-Ok, that's not exactly true.
+
+Okay, that's not entirely true.
 Turfgrass excels at a few things and I do appreciate its utility in situations where it is called for.
 A significant section of our yard remains turf and we plan to leave it that way.
-However, we've killed a lot of grass since moving in and I think most people should kill most of their grass too.
+However, we've killed *a lot* of grass since moving in and I think most people should kill most of their grass too.
 
 What's wrong with lawns?
 If you have 30 minutes, I refer you to [this excellent and comprehensive piece](https://longreads.com/2019/07/18/american-green/) for the answer.
@@ -20,9 +21,9 @@ And more to the point, they're an ecological disaster, a maintenance liability, 
 Don't want to hear it from me?
 How about [a message from Chicago's most Chicago botanist](https://www.youtube.com/watch?v=oz9I2YwmV8M) instead?
 
-"But wait," you say, "*I* use *my* lawn!"
+"But wait," you say, "I use my lawn!"
 I believe you.
-Well, I believe that you get good use out of about 10% of your lawn.
+Well, I believe that you get good use out of a small fraction of your lawn—maybe, say, 20%.
 Try a quick audit: think about the activities that take place on your lawn and where, specifically, they take place.
 Barbecues, movie nights, bonfires, child and/or dog playtime, hammocking... however you use your lawn, I'm willing to bet that the vast majority of it takes place in one concentrated area.
 Most likely, that area is in the back yard, in an area that feels semi-private and has convenient access to the house.
@@ -31,7 +32,7 @@ Great!
 You've now identified the only area that is truly best served by turfgrass.
 Consider this: every other part of your yard would probably be better served by something else.
 
-Here is a map of our property with our results notated (our house sits on a double lot, so we have more yard space than the typical city house, but the general idea holds true).
+Here is a map of our property with the results of our usage audit notated (our house sits on a double lot, so we have more yard space than the typical city house, but the general idea holds true).
 When we bought our house, literally all of it was lawn.
 
 {% single_image path: assets/images/how-to-kill-your-grass/map.png alt: "Map of our property with areas to keep as grass notated" %}
@@ -48,24 +49,25 @@ That will remain lawn for now, though it would be just as well served by a patio
 
 Everything else, though?
 Everything else was doing absolutely nothing for us as lawn.
-It was just sitting there, demanding frequent mowing and being slowly overtaken by weeds since we weren't taking part in the endless cycle of herbicides and fertilizers.
+It was just sitting there, demanding frequent mowing and being slowly overtaken by weeds since we weren't participating in the endless cycle of herbicides and fertilizers.
 
 Over several years, I've dramatically narrowed the gap between what *was* lawn and what *should be* lawn.
 I've killed a **lot** of grass.
-Of all the skills I've picked up while doing our landscaping, the one I feel most confident claiming expertise in is how to kill grass.
+Of all the skills I've picked up while doing our landscaping, this is the one I feel most confident claiming expertise in.
 So, let me tell you about all the ways you can kill your grass.
 
 ## Questions to ask when you're ready to kill your grass ##
 
 What do you want the site to look like when you're done?
 Do you want it to be higher, lower, or equal to the current level of the ground?
-If you're digging a rain garden, for example, you'll be removing the turf layer and then some.
+If you're putting in a rain garden, for example, you'll want to go below grade.
 If you're preparing a raised bed, your final result will be well above the existing surface.
-If you're simply looking to plant it with something other than grass, the level may not change as drastically, but it's still worth considering if anything will be affected by the ground height moving up or down by an inch or two.
+If you're simply looking to plant it with something other than grass, the height may not matter as much, but it's still worth considering if anything will be affected by a change of an inch or two in either direction.
+Some grass killing techniques will change the final height of the surface, which may or may not be what you want.
 
 How strong is the "weed seed bank" on the site?
 This refers to all the weed seeds that are lying dormant in the soil, ready to germinate if given the chance.
-In your typical urban lot, the weed seed bank is formidable.
+In your typical urban lot, especially one that's been a bit neglected, the weed seed bank is formidable.
 Turfgrass will suppress a lot of weed growth, but all those seeds are still present, biding their time.
 If the turfgrass goes away and nothing else shows up to compete, the weeds will happily take over.
 
@@ -83,6 +85,8 @@ Will you be broadcasting seeds evenly across the surface, or placing them only i
 
 ### Herbicide ###
 
+{% single_image path: assets/images/how-to-kill-your-grass/herbicide.jpg alt: "Person spraying grassy field with herbicide", caption: "Photo from <a href='https://www.prairiemoon.com/blog/site-prep'>Prairie Moon's handy site prep resources</a>." %}
+
 This one I've never tried.
 The concept is pretty simple: get some glyphosate (aka RoundUp) and spray it evenly on all of the grass you want to be rid of.
 Glyphosate works on contact and kills just about everything, but doesn't continue to have an effect after the initial application.
@@ -91,7 +95,7 @@ This is probably the quickest and least labor-intensive method.
 
 I'm not a fan of poison, though, so I've never given it a try.
 In theory, this sort of glyphosate application done with proper safety precautions should be fairly safe and not present an ongoing danger.
-But that theory depends a little too heavily on taking the pesticide industry at their word and ignoring all the other times that this sort of thing turned out terrible in hindsight.
+But that theory depends a little too heavily on taking the pesticide industry at their word and ignoring the many times this sort of thing turned out terrible in hindsight.
 
 There are a couple other considerations that (I presume) are important to take into account with this method.
 First, it doesn't remove any vegetative matter, so all the dead grass and weeds and "thatch" will still be there on the surface.
@@ -135,7 +139,7 @@ Pretty straightforward!
 
 Just about any digging tool can work, but the best is a standard square spade.
 You want to be able to give it a good kick to quickly chop through the turf.
-The flat edge is good for cutting straight lines to outline and divide it into manageable pieces.
+The flat edge is good for cutting sharp lines to outline and divide it into manageable pieces.
 Then you can angle it shallowly to chop underneath the roots and lever out chunks of sod.
 If you're looking to remove more soil, that's fine too, you can just dig deeper.
 
@@ -155,6 +159,8 @@ I used a grub hoe to remove the turf in a number of our early plantings, includi
 It's a good compromise between efficiency and flexibility when working with areas of non-uniform vegetation and non-square shapes.
 
 ## Smothering ##
+
+{% single_image path: assets/images/how-to-kill-your-grass/smothering.jpg alt: "Black plastic sheet staked over grass", caption: "Photo from <a href='https://www.prairiemoon.com/blog/site-prep'>Prairie Moon's handy site prep resources</a>." %}
 
 Cover your grass with something opaque.
 Black plastic sheeting is the standard choice, but old carpet, tarps, thick fabric, plywood sheets, or anything else that can hold up to the elements would also work fine.
@@ -248,7 +254,7 @@ The freshly laid material may be as much as a foot thick, and the eventual settl
 This caused a bit of hassle for me where our garden meets the sidewalks.
 Where the ground had previously been level with the sidewalk, it was now several inches higher and I had to install edging to keep it contained.
 
-As long as you're willing to do a bit of work, sheet mulching is an excellent solutions for sites that you want to be very well prepared.
+As long as you're willing to do a bit of work, sheet mulching is an excellent solution for sites that you want to be very well prepared.
 For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be overkill.
 I'm glad I did a thorough sheet mulching for the vegetable garden, but for most other areas of our yard, I've developed a "lazy" variant that works well with much less investment.
 
@@ -294,6 +300,6 @@ Which one is right for you depends on the specifics of your situation and your p
 Most importantly, pick the one that leads to you **killing some grass**.
 If your first attempt is small or imperfect, it's still better than doing nothing.
 
-At this very moment you, yes **you**, have some patch of grass sitting around that you never use.
+At this very moment you, yes you, have some patch of grass sitting around that you never use.
 That grass is wasting your time, and it's wasting the potential of a space that could be providing benefits you'll never get out of grass.
 Go kill that grass, and put something useful in its place.
