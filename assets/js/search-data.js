@@ -53,4 +53,9 @@ var store = [{
         "excerpt":"The other half-finished big-ticket project that came with the house (besides the chimney) was central air conditioning.The house had been fitted with supplies and a return for high-velocity air conditioning, and lines had been run for a condenser and air handler, but no units had been installed. High-velocity AC is...","categories": [],
         "tags": ["Boring","Contractors","Not a lot of finish"],
         "url": "https://house.youngram.com/air-conditioning.html"
+      },{
+        "title": "How to kill your grass",
+        "excerpt":"I hate lawns. Okay, that’s not entirely true.Turfgrass excels at a few things and I do appreciate its utility in situations where it is called for.A significant section of our yard remains turf and we plan to leave it that way.However, we’ve killed a lot of grass since moving in...","categories": [],
+        "tags": ["Garden","How to"],
+        "url": "https://house.youngram.com/how-to-kill-your-grass.html"
       }]
