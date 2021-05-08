@@ -2,10 +2,10 @@
 layout: post
 title: How to kill your grass
 tags:
-  - Garden
-  - How to
+- Garden
+- How to
+date: 2021-05-07 23:34 -0500
 ---
-
 I hate lawns.
 
 Okay, that's not entirely true.
