@@ -105,7 +105,7 @@ For me, this option feels like a last resort.
 If I had a site so large or difficult that no other option was practicable, I'd consider it.
 On a small urban lot, there are plenty of other choices, and many of them offer additional advantages.
 
-## Sod removal ##
+### Sod removal ###
 
 {% single_image path: assets/images/how-to-kill-your-grass/sod.jpg alt: "A roll of sod and the sod kicker used to cut it" %}
 
@@ -130,7 +130,7 @@ Unless you already have a sod cutter, this seems like a lot of bother for not a 
 In my experience, flipping sod does an imperfect job of killing the existing plant matter.
 The weed seed bank will remain a threat, and you'll still have a thick mat of vegetative matter that's difficult to plant into.
 
-## Digging ##
+### Digging ###
 
 {% single_image path: assets/images/the-rain-garden/digging.jpg alt: "Partially dug-up sod" %}
 
@@ -158,7 +158,7 @@ If you're removing the material, you will still have to come back through with a
 I used a grub hoe to remove the turf in a number of our early plantings, including the rain garden.
 It's a good compromise between efficiency and flexibility when working with areas of non-uniform vegetation and non-square shapes.
 
-## Smothering ##
+### Smothering ###
 
 {% single_image path: assets/images/how-to-kill-your-grass/smothering.jpg alt: "Black plastic sheet staked over grass", caption: "Photo from <a href='https://www.prairiemoon.com/blog/site-prep'>Prairie Moon's handy site prep resources</a>." %}
 
@@ -175,7 +175,7 @@ When the plastic comes off, all the vegetative matter and weed seeds are still g
 I've used this method in a few small spots around the yard, but not for any major planting area.
 The sheet mulching methods I'll describe work on a similar principle but mitigate some of the disadvantages, so I find those to be more useful in my small urban site.
 
-## Solarizing ##
+### Solarizing ###
 
 {% single_image path: assets/images/how-to-kill-your-grass/solarization.jpg alt: "Clear plastic sheeting laid over the boulevard grass" %}
 
@@ -210,7 +210,7 @@ Solarizing sounds like a very powerful method for certain site conditions.
 If you think it's the perfect thing for you, by all means go for it.
 Just invest in a bit of planning to make sure you succeed.
 
-## Sheet mulching ##
+### Sheet mulching ###
 
 {% single_image path: assets/images/how-to-kill-your-grass/sheet-mulch.jpg alt: "Work in progress sheet mulching the vegetable garden" %}
 
@@ -258,7 +258,7 @@ As long as you're willing to do a bit of work, sheet mulching is an excellent so
 For sites where soil fertility isn't as important (for example, native plantings or unfussy perennials), or sites that are in okay condition to begin with, it might be overkill.
 I'm glad I did a thorough sheet mulching for the vegetable garden, but for most other areas of our yard, I've developed a "lazy" variant that works well with much less investment.
 
-## Lazy sheet mulching ##
+### Lazy sheet mulching ###
 
 {% single_image path: assets/images/how-to-kill-your-grass/wood-chip-mulch.jpg alt: "Cardboard on the boulevard grass covered with wood chips" %}
 
