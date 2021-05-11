@@ -16,12 +16,14 @@ And if I ever get ambitious, I'd love to run an underground line to a [frost-fre
 
 For now, though, I would have to settle for an ordinary sillcock.
 Scoping out Home Depot and a couple plumbing supplies, there seemed to be a handful of options that were all extremely similar.
-I decided the Prier model at Home Depot looked good, because it was a half-turn model and it appears to be made of all metal, rather than some plastic parts like the Everbilt model or the stupid one I was replacing.
+I decided the [Prier model](https://www.homedepot.com/p/Prier-Products-1-2-in-x-12-in-Brass-MPT-x-S-Half-Turn-Frost-Free-Anti-Siphon-Outdoor-Faucet-Sillcock-Valve-478-12/306285380) at Home Depot looked good, because it was a half-turn model and it appears to be made of all metal, rather than some plastic parts like the [Everbilt model](https://www.homedepot.com/p/Everbilt-3-4-in-x-12-in-Brass-MIP-x-MHT-Sillcock-VFFASPG19EB/205816585) or the stupid one I was replacing.
 
 Frost-free sillcocks come in different lengths, from 4″ up to 12″.
 The original plan was to remove the existing sillcock and bring it with me to the hardware store to match to a new one.
 But finding myself at the hardware store without having done that, I decided to wing it, hope I got lucky, and return it if I didn't.
 Having eyeballed where it came through the wall, I thought ours looked pretty long, so I guessed 12″.
+
+TODO While the installation method varied quite a bit from mine, [this video](https://www.youtube.com/watch?v=Ken6iYx0Y1g) was still a helpful starting place.
 
 To replace the fixture, first you turn off the water and unscrew where it's mounted to the exterior wall.
 Then the whole piece just unscrews from the threaded connector and can be pulled out of the wall opening.
@@ -49,5 +51,5 @@ I had to get a fresh set of clothes, but I had a new sillcock!
 
 Parts:
 Sillcock
-Thread sealant
+Thread sealant https://www.homedepot.com/p/RectorSeal-T-Plus-2-in-4-oz-Teflon-Pipe-Thread-Sealant-23631/100201204
 Tapcon screws
