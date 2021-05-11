@@ -160,7 +160,7 @@ It's a good compromise between efficiency and flexibility when working with area
 
 ### Smothering ###
 
-{% single_image path: assets/images/how-to-kill-your-grass/smothering.jpg alt: "Black plastic sheet staked over grass", caption: "Photo from <a href='https://www.prairiemoon.com/blog/site-prep'>Prairie Moon's handy site prep resources</a>." %}
+{% single_image path: assets/images/how-to-kill-your-grass/smothering.jpg alt: "Black plastic sheet staked over grass", caption: "A neighbor's boulevard." %}
 
 Cover your grass with something opaque.
 Black plastic sheeting is the standard choice, but old carpet, tarps, thick fabric, plywood sheets, or anything else that can hold up to the elements would also work fine.
