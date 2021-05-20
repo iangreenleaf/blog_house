@@ -2,15 +2,40 @@
 layout: post
 title: Sillcock
 project_start: 2021-05-10
-project_end: 2021-05-16
+project_end: 2021-05-18
 tags: Exterior
 ---
 
 ## A what now?
 
+A "sillcock", also known as a "hose bibb", is the spigot on the side of your house that provides water and can have a garden hose attached.
+
+TODO photo
+
+We have two installed on different parts of our house, thanks to some past resident's attention to adequate plumbing options.
+Conveniently, the house was already fitted with "frost free" sillcocks, which don't need to have the water supply shut off in the winter.
+These are a clever design that places the actual valve inside the heated house, so when you turn the handle off, water drains out of the part of the fixture that will be exposed to freezing air and risk bursting.
+This means the actual plumbing connection is inside the house, in my case easily visible in the unfinished ceiling of our basement.
+
+{% single_image path: assets/images/sillcock/diagram.jpg alt: "Mechanical diagram of a frost-free sillcock", caption: "Diagram from the international plumbing code, which thankfully our installation conforms to." %}
+
+While I appreciate the frost free feature, I've always disliked the actual fixtures that came with the house.
+The one on the south side gets the most use and is also the most exposed to the elements.
+The handle was uncomfortable to turn, you had to turn it about 5 revolutions to get it fully open, and it would squeal the entire time.
+The screw that held the handle in place wouldn't properly tighten any more and needed periodic fixing.
+It also leaked from the spigot when turned on, which was an annoyance since I often would like to have it on standby while I work in the garden.
+Replacing it had never quite become a top priority, but then in spring of 2021 I found that the leak had become significantly worse, so it was time to act.
+
+A bit of online research suggested that the most common failure was at the vacuum breaker, which could easily be repaired.
+My sillcock, however, was leaking from the handle itself rather than from the breaker cap.
+The repair path for that problem was not as simple nor as sure to succeed.
+Since I didn't like this fixture anyways, and a full replacement wasn't terribly expensive, this was all the encouragement I needed to get a fresh start.
+
 ## Selection
 
-There is surprisingly little choice to be had in the world of sillcocks.
+I expected to end up sorting through a million different options, as one often does when buying house stuff.
+This turned out not to be the case.
+There is surprisingly little choice to be had in the world of frost-free sillcocks.
 There is pretty much one design, and a handful of companies selling versions of that design that all look very similar.
 I checked a couple plumbing supply houses in addition to Home Depot, and their options also looked virtually identical.
 The only common technological innovation is the "half-turn" model, which allows valve to be fully opened or closed with only a half turn of the knob.
@@ -18,10 +43,10 @@ After my frustrations with the existing fixture, this was a very enticing featur
 
 One cool-looking alternative I came across was the [Aquor](https://aquorwatersystems.com/) system.
 The hose attachment looks very slick and it's an attractive fixture.
-However, the easy quick release wouldn't do me much good for this spigot location because I typically have it hooked up to a hose reel that stays there throughout the summer.
-If I were installing somewhere that I only attached a hose temporarily while in use, I would definitely consider buying in to the Aquor setup.
+However, the quick release wouldn't do me much good for this spigot location because I typically have it hooked up to a hose reel that stays there throughout the summer.
+If I were installing somewhere that I only attached a hose temporarily while in use, I would definitely consider buying in to the Aquor product line.
 It's a bit more expensive but the extra convenience seems worth it if it works as well as promised.
-And if I ever get ambitious, I'd love to run an underground line to a [frost-free ground hydrant](https://aquorwatersystems.com/shop/ground-hydrant-v1/) right in the middle of the vegetable garden, which would eliminate the need for the whole permanent hose reel situation.
+If I ever get ambitious, I'd love to run an underground line to a [frost-free ground hydrant](https://aquorwatersystems.com/shop/ground-hydrant-v1/) right in the middle of the vegetable garden, which would eliminate the need for the whole permanent hose reel situation.
 
 For now, though, I would have to settle for an ordinary sillcock.
 I decided the [Prier model](https://www.homedepot.com/p/Prier-Products-1-2-in-x-12-in-Brass-MPT-x-S-Half-Turn-Frost-Free-Anti-Siphon-Outdoor-Faucet-Sillcock-Valve-478-12/306285380) at Home Depot looked good, because it was a half-turn model and it appears to be made of all metal, rather than some plastic parts like the [Everbilt model](https://www.homedepot.com/p/Everbilt-3-4-in-x-12-in-Brass-MIP-x-MHT-Sillcock-VFFASPG19EB/205816585) or the stupid one I was replacing.
