@@ -24,7 +24,7 @@ The one on the south side gets the most use and is also the most exposed to the 
 The handle was uncomfortable to turn, you had to turn it about 5 revolutions to get it fully open, and it would squeal the entire time.
 The screw that held the handle in place wouldn't properly tighten any more and needed periodic fixing.
 It also leaked from the spigot when turned on, which was an annoyance since I often would like to have it on standby while I work in the garden.
-Replacing it had never quite become a top priority, but then in spring of 2021 I found that the leak had become significantly worse, so it was time to act.
+My desire to replace it had never quite overcome my desire not to do extra work, but that changed in spring of 2021 when I found that the handle leak had become significantly worse.
 
 A bit of online research suggested that the most common failure was at the vacuum breaker, which could easily be repaired.
 My sillcock, however, was leaking from the handle itself rather than from the breaker cap.
