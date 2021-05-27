@@ -62,7 +62,7 @@ I also pieced together a little ad-hoc jig to drill pilot holes for the screws, 
 And I made a simple jig (really just two pieces of wood clamped together) to help me quickly align each plank with consistent overlap to the sides of the beams.
 
 I got lucky and the width of the planks with a small gap in between worked out to cover the span fully without a fractional piece.
-I just eyeballed the spacing on these, laying them out ahead of time and checking periodically as I was screwing them in to make sure the spacing was still on track to line up.
+I eyeballed the spacing on these, laying them out ahead of time and checking periodically as I was screwing them in to make sure the spacing was still on track to line up.
 
 Finally, I added some "spreaders" along the bottom to give the bridges a little more strength and rigidity.
 I don't know if these were necessary, but they didn't hurt.
@@ -72,11 +72,11 @@ I had just acquired a pocket hole jig and was eager to try it out, so I attached
 With that, I was done!
 To finish them, I added a couple coats of [Thompson's Waterseal](https://www.thompsonswaterseal.com/home), mostly just because the previous homeowners had left behind most of a jug.
 The stuff gets pretty poor reviews online, and it didn't put up a very impressive showing here: it had entirely worn off in under a year (and remember that these bridges get only light use and are in shade for more than half the year.
-I probably won't bother continuing to seal the bridges.
-They'll develop a nice gray patina and the cedar should hold up for many years even without treatment.
+I'm debating whether or not to periodically recoat them.
+The cedar should hold up for many years with or without treatment, but I _do_ still have a lot of Waterseal left, and it's ineffective enough that I probably won't use it on other things.
 
 With the benefit of hindsight, I'd make the angles of the entry and exit just a little shallower to make it easier to roll a wheelbarrow across them.
-It's possible to do as they currently exist, but you have to be a little careful.
+It's possible to get a wheelbarrow over them as they currently exist, but you have to be a little careful about the angles.
 Luckily I'm not crossing with a wheelbarrow very often, so in practice this is a very minor issue.
 
 Overall, I love the way these turned out.
