@@ -93,6 +93,10 @@ They also function very well, doing the job I wanted them to do of protecting th
 {% endsummary %}
 
 {% summary cost %}
-{% line_item TODO | $15 %}
+{% line_item Cedar 2x12 (discounted) | $27 %}
+{% line_item Cedar planks | $TODO %}
+{% line_item 1¼″ exterior wood screws | on hand %}
+{% line_item Exterior pocket screws | on hand %}
+{% line_item Thompson's Waterseal | on hand %}
 {% total TODO %}
 {% endsummary %}
