@@ -125,6 +125,8 @@ In addition to being a basic utilitarian need, the floor had a central role to p
 Due to the short ceilings and the kid/dog-centric nature of the space, we anticipated that a lot of time would be spent directly on the attic floor.
 We needed to figure out how to make it comfortable and durable to support that use case.
 
+### Choices, choices ###
+
 Most of our house is hardwood floors, which we love.
 They add warmth and character and will last almost forever with some periodic maintenance.
 The purist approach would have been to install matching hardwood in the attic.
@@ -146,7 +148,59 @@ If we were looking to do a bigger and more heavily-used space but weren't prepar
 The cost savings didn't appear to be huge, though, so I kept looking.
 
 Laminate flooring is what I finally settled on.
+Laminate has come a long way from the cheap stuff that earned a not-so-stellar reputation in the past.
+High-end laminate comes in some nice-looking finishes, is thick enough to feel nice underfoot and deaden sound, and offers guaranteed water resistance as long as spills are cleaned up within 24 hours.
+It still has some limitations: it can't be refinished or repaired (other than by replacing boards), it probably won't last forever, and while fairly attractive it's still clear on close inspection that it's not real wood.
+Because we were satisficing, we were fine with these tradeoffs.
+Laminate would provide significant cost savings, and could be DIY installed relatively easily.
+These were big perks, since we were trying not to sink too much money into this space and had already spent significantly on the other parts.
+
+We looked around a bit to compare brands and color options.
+Home Depot offers free samples to take home, which is convenient.
+Their [Pergo Outlast+](https://na.pergo.com/laminate/collections/outlast) line seems like one of the more trusted brands in laminate, and we probably would have gone with that had we not been wooed away by… Costco!
+Costco has since changed their offerings, but at the time they offered an in-house branded line of TODO flooring in a few different colors.
+These come in the same thickness and with the same guarantees as the premium brands like Pergo.
+Better yet, it periodically goes on sale from the already-low base price.
+One of the colors was "Toasted Cinnamon", which went nicely with our planned paint colors and the attic in general.
+Costco doesn't have samples, so I bought a single box of planks to bring home, we confirmed we liked the look, and then we waited for it to go on sale.
+Then I drove to Costco and bought a trunk's worth of boxes.
+The Costco cashiers, bless their hearts, don't even bat an eye when you roll up to checkout with a dolly of flooring almost too heavy to push and also a bag of pita chips.
+
+TODO pic
+
+In the end we got it for the ridiculously low price of TODO per square foot.
+My only complaint with this line is that they gouge you on the accessories.
+A piece of threshold to cover the transitions to the bathroom and staircase was (TODO?) $60.
+The matching quarter round for the edges was also overpriced, especially for MDF.
+And we paid for their special installation kit when we would have been better off buying a generic kit from Home Depot—the spacers in their kit don't even match the factory-recommended spacing!
+Still, all minor gripes worth dealing with considering we paid TODO in materials, compared to TODO that we would have paid for brand-name.
+
+### Installation ###
+
+Laminate is installed as "floating" floor, meaning it's not nailed or glued to the subfloor but is a separate layer that can expand and contract independently with changes in temperature or humidity.
+To accommodate this movement, you leave a small gap between the edges of the floor and the walls, and hide it with quarter round trim on the walls.
+You also put a thin layer of foam "underlayment" between the floor and subfloor to allow movement and help deaden sound, but our flooring came with that pre-attached, which saved us an extra step.
+The planks have a sort of locking tongue and groove thing on the edges, that hold them tightly together once attached.
+You either slide the plank in at an angle and lever it flat to lock in place, or if you don't have room to do that, you just take a hammer and sorta bang it into place (the installation kits come with a couple tools to do this without damaging the planks).
+
+After a bit of experimenting, Katherine and I were able to get into a good working rhythm.
+For the long runs of open space, she would get 2-3 planks lined up and attached end-to-end while I looked ahead and lined up the next planks to be used.
+Then we'd lift the new run together and snap it into place, and I would use the tap block to get it snugged up while she moved down to start on the next step.
+For the edges and smaller spaces where we needed to cut pieces to fit, Katherine would attach one piece at a time while I measured or took planks away to cut them to size.
+
+Cutting was definitely the bottleneck of our workflow.
+We didn't have enough room in the attic itself to maneuver saws (and dust control would have been a big problem), so we moved the miter saw to the second-floor hallway for relatively easy access.
+Rip cuts (cuts along the long dimension of the plank) had to happen out in the garage with either a table saw or circular saw, which was a nuisance.
 TODO
+The other tricky thing about the cuts is that each plank has two different connector shapes on the side, so you have to make sure your plank is in the right orientation when you plan the cut so it can snap in to the adjoining plank.
+This also means that you can typically get two usable cut pieces out of each plank, but you have to pay attention to which ends they have, since they will fit at opposite ends of the room.
+
+A hot tip I wish I had known: leave a fair number of spacers in the finished areas as you work on the rest of the room.
+We took some spacers out too early, and then the forces from us installing adjacent rows shifted the flooring in a couple places to be too tight to the edges, which we only discovered well after the fact, once many additional rows had been added.
+Fixing this took a lot of exertion trying to hammer them back into position, and in one case, some thankless sawing with an oscillating multi-tool.
+The installation kit came with a limited number of spacers but they were kind of crappy and annoying to use.
+At the end of the day, the best spacers were just cutoff ends of the planks themselves.
+With the foam underlayment ripped off, I could set these vertically and they were close to the recommended spacing and easy to keep in place.
 
 ## Time & Materials ##
 
