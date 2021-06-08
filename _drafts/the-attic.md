@@ -172,26 +172,61 @@ In the end we got it for the ridiculously low price of TODO per square foot.
 My only complaint with this line is that they gouge you on the accessories.
 A piece of threshold to cover the transitions to the bathroom and staircase was (TODO?) $60.
 The matching quarter round for the edges was also overpriced, especially for MDF.
-And we paid for their special installation kit when we would have been better off buying a generic kit from Home Depot—the spacers in their kit don't even match the factory-recommended spacing!
 Still, all minor gripes worth dealing with considering we paid TODO in materials, compared to TODO that we would have paid for brand-name.
+
+### Tools needed ###
+
+Installing laminate flooring isn't too demanding in terms of tools.
+You need a couple simple specialized tools that can be bought as a kit.
+The kits include a tap block to hammer planks into place without damaging the shaped edges, an offset metal piece to hammer in the final piece in a run when it reaches all the way to the wall, and spacers to maintain the proper gap between the flooring and the wall to allow for expansion and contraction.
+We paid for the special installation kit sold by the manufacturer, but we would have been better off buying a generic kit from Home Depot—the spacers in the kit don't even match the factory-recommended spacing!
+
+You'll need a caulk gun to seal the edges, and a nailer if you're attaching trim.
+I bought a pair of kneepads, which were not necessary but nice given how much time is spent crawling around on the ground.
+Fun story: my hamstrings were extremely sore after the weekend of the install.
+Turns out I wasn't physically ready for that much crawling and kneeling.
+
+The other big thing you need is a way to cut planks to size.
+I think you could theoretically do all of this with a jigsaw if you wanted to keep the tool requirements to a minimum.
+If I were going that route I'd just make sure I had a cutting station set up with some clamps and guides to make cuts reasonably fast and accurate.
+
+Most of the cuts you'll make will be cross cuts, which are cuts across the short dimension of the plank.
+You'll need to do this to cut the plank to size at the end of every row, and also at the beginning of most rows (you need to start rows with differing lengths so that the joints are staggered).
+A miter saw was a big help here for speed and ease of cutting.
+I had a cheap Menards store brand miter saw I bought off a neighbor.
+It was a sliding saw and had just enough clearance to fit the ~8" planks we were using—well, sort of.
+With the saw slid all the way out, there was only one orientation of the planks where the tongue sat low enough for the teeth of the blade to clear it while starting up, so I had to flip each board to get it lined up for a cut, which was sometimes highly inconvenient.
+If only it were a "chop" where the blade could raise and lower, I wouldn't have the clearance problems.
+Well, some two years after finishing the attic, I was fiddling with the saw doing some maintenance and discovered a knob that hadn't seemed to move on first inspection but with some persuading did unfreeze and release a mechanism… what do you know, I had a chop saw the whole time.
+I guess "know how to operate your tools" is the lesson here.
+
+Unless you're exceedingly lucky, the other cuts you'll need to make are rip cuts, which are cuts along the long dimension of the plank.
+These are necessary anywhere the long edge of the planks meet a wall that doesn't line up with the full width of the planks.
+Try to plan your floor to a) minimize the amount of wall requiring these cuts and b) not create too narrow a section of plank at any wall.
+The runs that were just an inch or two wide were unpleasant to install and it was difficult to convince the narrow bits of plank to lie flat.
+I had a table saw that I could have used for these cuts, but since our knee walls were slightly out of square, most of the sections we needed were actually tapered by about an inch over the length of the plank.
+I didn't have a taper jig for the table saw, so I ended up using a circular saw with a piece of sacrificial plywood underneath.
+
+The good news is that all of your cut edges will be in places that get covered by trim, so you don't need to get absolutely clean or perfect cuts.
+Just get it close enough and don't damage the rest of the piece.
 
 ### Installation ###
 
 Laminate is installed as "floating" floor, meaning it's not nailed or glued to the subfloor but is a separate layer that can expand and contract independently with changes in temperature or humidity.
 To accommodate this movement, you leave a small gap between the edges of the floor and the walls, and hide it with quarter round trim on the walls.
 You also put a thin layer of foam "underlayment" between the floor and subfloor to allow movement and help deaden sound, but our flooring came with that pre-attached, which saved us an extra step.
-The planks have a sort of locking tongue and groove thing on the edges, that hold them tightly together once attached.
-You either slide the plank in at an angle and lever it flat to lock in place, or if you don't have room to do that, you just take a hammer and sorta bang it into place (the installation kits come with a couple tools to do this without damaging the planks).
+The planks have a sort of locking tongue and groove thing on the edges that hold them tightly together once attached.
+You either slide the plank in at an angle and lever it flat to lock in place, or if you don't have room to do that, you just take a hammer and sorta bang it into place (this is where you need the tools from your installation kit).
 
 After a bit of experimenting, Katherine and I were able to get into a good working rhythm.
 For the long runs of open space, she would get 2-3 planks lined up and attached end-to-end while I looked ahead and lined up the next planks to be used.
-Then we'd lift the new run together and snap it into place, and I would use the tap block to get it snugged up while she moved down to start on the next step.
+I would lay out planks in place to visually inspect them, since laminate has patterns that repeat and it looks a little funny if you put two identical patterns too close to each other.
+Once Katherine had a run ready, we'd both lift it and snap it into place, and I would use the tap block to get it snugged up while she moved down to start on the next step.
 For the edges and smaller spaces where we needed to cut pieces to fit, Katherine would attach one piece at a time while I measured or took planks away to cut them to size.
 
 Cutting was definitely the bottleneck of our workflow.
 We didn't have enough room in the attic itself to maneuver saws (and dust control would have been a big problem), so we moved the miter saw to the second-floor hallway for relatively easy access.
-Rip cuts (cuts along the long dimension of the plank) had to happen out in the garage with either a table saw or circular saw, which was a nuisance.
-TODO
+Rip cuts had to happen out in the garage, which was inconvenient, especially since I could often only measure one or two pieces at a time before trekking out to cut them and back to install them and continue the row.
 The other tricky thing about the cuts is that each plank has two different connector shapes on the side, so you have to make sure your plank is in the right orientation when you plan the cut so it can snap in to the adjoining plank.
 This also means that you can typically get two usable cut pieces out of each plank, but you have to pay attention to which ends they have, since they will fit at opposite ends of the room.
 
@@ -201,6 +236,51 @@ Fixing this took a lot of exertion trying to hammer them back into position, and
 The installation kit came with a limited number of spacers but they were kind of crappy and annoying to use.
 At the end of the day, the best spacers were just cutoff ends of the planks themselves.
 With the foam underlayment ripped off, I could set these vertically and they were close to the recommended spacing and easy to keep in place.
+
+### Trim ###
+
+Once the flooring is in, you are left with a small gap around the edges of the room.
+For the waterproof guarantee to be valid, this gap needs to be sealed with silicone caulk.
+Based on the manufacturer's suggestion, I got a big box of backer rod, which is a thin foam tube that you stuff into the gap to fill up some of the space before sealing with caulk.
+The backer rod isn't strictly necessary, it just saves money on caulk.
+Luckily, the caulking job also doesn't need to be perfect as it will also be covered by trim.
+
+Because of our short knee walls, we weren't planning on doing baseboards around most of the attic.
+Given that, it felt like it would make sense to trim the edges with quarter round matched to the floor color so that it wouldn't stand out.
+The manufacturer sold matching quarter round, but it had to be special ordered, and the pricing was pretty unreasonable, especially since it was veneered MDF.
+I decided to take a sample of the floor to Home Depot to see if I could find a good match there instead.
+None of their MDF options looked particularly good, but for less than the manufacturer's MDF I could buy proper hardwood quarter round, pre-stained.
+
+The "TODO" color looked pretty close, so I bought a single piece to take home and try in the attic to make sure it still looked like a match in natural lighting conditions.
+It looked great, but I was about to learn an important lesson: when buying from Home Depot, buy everything you need at once so it comes from the same lot, and just overbuy and return the excess when you're done.
+When I sent Katherine to a different Home Depot to pick up the amount we needed, she returned with some quarter round that was still labeled "TODO" but was a dramatically different shade, enough that it was no longer a good match to the floor.
+Then I proceeded to try multiple Home Depots that didn't have enough in stock.
+It was also listed under a different name on their website, so I didn't figure out right away how to check ahead for stock levels—not that those listings are correct more than half the time anyways.
+I finally succeeded at some far-flung suburban Home Depot where the shelves were almost empty but I found a dolly nearby loaded with bundles of trim, including the color I needed.
+I spent about 15 minutes asking a chain of employees until I found the one who could confirm that yes, that dolly was stuff waiting to be restocked, and yes, I could go ahead and take what I needed off it.
+Another Home Depot lesson: never involve anyone else if you can help it.
+Just ninja the stuff into your cart, head for the checkout, and assume it will be fine.
+
+My final folly was thinking I would hand-nail the trim with finish nails and a nail punch instead of using a pneumatic air nailer.
+I was biased against air nailers because I had just spent a bunch of time trying to fix the extremely sloppy job someone had done on our second-floor trim, where some of the air nailer brads hadn't fully driven in all the way and they had just bent them flat instead of actually doing a decent job of anything.
+So I figured I would do a better job by hand, and wouldn't need to find a nail gun and compressor, and if it took me a little extra time that was okay.
+
+It only took one test piece to determine that I was mistaken.
+Driving finish nails through the hardwood trim was physically difficult, especially doing so while trying to hold the trim piece in place without letting it slip.
+Using the nail punch took some practice not to mar the wood.
+And after all that, the finish nails left a much more noticeable hole in the wood than a small brad.
+I accepted that I was wrong and I would deeply regret trying to do this all by hand.
+Serendipitously, in the time it took me to figure this out, my father-in-law had showed up with a small compressor and nail gun from his father's estate.
+So I didn't have to try very hard to acquire the tools after all, and I just did it with an air nailer and it was much easier and looks great.
+
+The hardest part was cutting miters on some of the non-90° angles, so allow me to brag for a moment about my beautiful miters:
+
+TODO
+
+Admittedly there are a couple that don't look as nice because I was a hair off on the length, or a degree off on one of the non-square walls.
+But they all came out more than passable, and the style choices worked very well in the room.
+
+TODO paint, etc? Split this into two posts?
 
 ## Time & Materials ##
 
