@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Garden Bridges
-project_start:
-project_end:
+project_start: 2020-05-23
+project_end: 2020-06-20
 tags:
 ---
 
@@ -94,7 +94,8 @@ They also function very well, doing the job I wanted them to do of protecting th
 
 {% summary cost %}
 {% line_item Cedar 2x12 (discounted) | $27 %}
-{% line_item Cedar planks | $TODO %}
+{% line_item Cedar 1x2-12' (mostly unused) 2@$3.89 | $7.78 %}
+{% line_item Cedar 1x4-12' 3@$10.32 | $30.96 %}
 {% line_item 1¼″ exterior wood screws | on hand %}
 {% line_item Exterior pocket screws | on hand %}
 {% line_item Thompson's Waterseal | on hand %}
