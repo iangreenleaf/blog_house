@@ -54,8 +54,13 @@ $gallery-caption: #e3e2e0;
 }
 
 table.summary {
-  td.amount {
+  td.amount, td.quantity {
     text-align: right;
+  }
+
+  td.quantity {
+    color: #777;
+    font-weight: bold;
   }
 
   tr.subtotal-heading, tr.subtotal {

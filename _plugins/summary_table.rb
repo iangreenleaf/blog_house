@@ -14,11 +14,31 @@ module Jekyll
   class SummaryTableLineItem < Liquid::Tag
     def initialize(tag_name, text, parse_context)
       super
-      @description, @amount = text.split(" | ")
+      fields = text.split(" | ")
+      if fields.length == 3
+        @description, @quantity, @amount = fields
+      else
+        @quantity = nil
+        @description, @amount = fields
+      end
     end
 
     def render(context)
-      "<tr class='line-item'><td class='description'>#{context.invoke("markdownify", @description).gsub(/<p>(.*)<\/p>/, '\1')}</td><td class='amount'>#{@amount}</td></tr>"
+      "<tr class='line-item'>#{description(context)}#{amount(context)}</tr>"
+    end
+
+    private
+    def description(context)
+      if @quantity.nil?
+        "<td colspan=2 class='description'>#{context.invoke("markdownify", @description).gsub(/<p>(.*)<\/p>/, '\1')}</td>"
+      else
+        "<td class='description'>#{context.invoke("markdownify", @description).gsub(/<p>(.*)<\/p>/, '\1')}</td>" +
+          "<td class='quantity'>#{@quantity}</td>"
+      end
+    end
+
+    def amount(context)
+      "<td class='amount'>#{@amount}</td>"
     end
   end
 
@@ -29,7 +49,7 @@ module Jekyll
     end
 
     def render(context)
-      "<tr class='subtotal-heading'><th colspan='2'>#{@title}</th></tr>"
+      "<tr class='subtotal-heading'><th colspan='3'>#{@title}</th></tr>"
     end
   end
 
@@ -40,7 +60,7 @@ module Jekyll
     end
 
     def render(context)
-      "<tr class='total'><td class='description'>Total</td><td class='amount'>#{@amount}</td></tr>"
+      "<tr class='total'><td colspan=2 class='description'>Total</td><td class='amount'>#{@amount}</td></tr>"
     end
   end
 
@@ -51,7 +71,7 @@ module Jekyll
     end
 
     def render(context)
-      "<tr class='subtotal'><td class='description'></td><td class='amount'>#{@amount}</td></tr>"
+      "<tr class='subtotal'><td colspan=2 class='description'></td><td class='amount'>#{@amount}</td></tr>"
     end
   end
 end
