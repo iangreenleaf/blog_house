@@ -145,12 +145,12 @@ They also function very well, doing the job I wanted them to do of protecting th
 {% total ~5 hours %}
 {% endsummary %}
 
-{% summary cost Cost (two bridges) %}
+{% summary cost, Cost (two bridges) %}
 {% line_item Cedar 2x12 (discounted) | $27 %}
-{% line_item Cedar 1x2-12' (mostly unused) 2@$3.89 | $7.78 %}
-{% line_item Cedar 1x4-12' 3@$10.32 | $30.96 %}
+{% line_item Cedar 1x2-12' (mostly unused) | 2@$3.89 | $8 %}
+{% line_item Cedar 1x4-12' | 3@$10.32 | $31 %}
 {% line_item 1¼″ exterior wood screws | on hand %}
 {% line_item Exterior pocket screws | on hand %}
 {% line_item Thompson's Waterseal | on hand %}
-{% total TODO %}
+{% total $66 %}
 {% endsummary %}
