@@ -865,7 +865,9 @@ figure.align-center figcaption { text-align: center; }
 
 .single-image .splide__arrow[disabled], .gallery .splide__arrow[disabled] { display: none; }
 
-table.summary td.amount { text-align: right; }
+table.summary td.amount, table.summary td.quantity { text-align: right; }
+
+table.summary td.quantity { color: #777; font-weight: bold; }
 
 table.summary tr.subtotal-heading, table.summary tr.subtotal { color: #777; font-weight: bold; font-style: italic; }
 

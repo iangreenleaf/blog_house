@@ -58,4 +58,9 @@ var store = [{
         "excerpt":"I hate lawns. Okay, that’s not entirely true.Turfgrass excels at a few things and I do appreciate its utility in situations where it is called for.A significant section of our yard remains turf and we plan to leave it that way.However, we’ve killed a lot of grass since moving in...","categories": [],
         "tags": ["Garden","How to"],
         "url": "https://house.youngram.com/how-to-kill-your-grass.html"
+      },{
+        "title": "Garden Bridges",
+        "excerpt":"As part of the rain garden, I had dug two channels to carry water from the downspouts to the basin.The infrequently used path on that side of the house crosses those two channels.Once I got them fixed up nice with aluminum edging, I wanted to do something at the crossings...","categories": [],
+        "tags": [],
+        "url": "https://house.youngram.com/garden-bridges.html"
       }]
