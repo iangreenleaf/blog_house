@@ -205,14 +205,14 @@ First, I had topped off the large rocks with a bunch of smaller gravel-size rock
 These kind of ruined the attractive look of the rock, and also seemed to encourage sediment buildup.
 
 Second, I had tried to make the channels meander a bit instead of taking a straight path, for aesthetic reasons.
-Since they are only about six feet long, these curves ended up being a little forced and one of the larger bends was causing water backups and erosion.
+Since they are only about six feet long, these curves ended up looking a little forced and one of the larger bends was causing water backups and erosion.
 Better to give it a straight path and let the edges gently undulate.
 
 Third, I needed better separation on the edges.
 Having no physical barrier meant a lot of dirt and woodchips was being kicked into the channels, which would presumably eventually clog them up.
 
 So in 2020 I pulled all the rocks out and re-dug the channels.
-I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881) to define the edges.
+This time I used [aluminum landscape edging](https://www.homedepot.com/p/ProFlex-24-ft-x-4-in-Bronze-Aluminum-Landscape-Edging-Project-Kit-4-6-ft-pieces-1806BZ-24C/202969881) to define the edges.
 I don't know why Home Depot doesn't carry this stuff in stores.
 It's great: easy to install, easy to bend to shape, stays put, looks nice, and should last for a long time.
 It's a bit pricier than plastic edging, but for this small a job that wasn't much of a concern.
@@ -220,7 +220,7 @@ It's a bit pricier than plastic edging, but for this small a job that wasn't muc
 {% single_image path: assets/images/the-rain-garden/channel-re-dug.jpg alt: "Unfinished channel with edging and landscape fabric installed" %}
 
 I put Katherine in charge of replacing the river rocks in an aesthetically pleasing configuration, and she took the job seriously.
-The final step was to build some lil' bridges where the path crosses the channels, to protect the edging and cut down on contamination.
+The final step was to build [some lil' bridges]({% post_url 2021-07-01-garden-bridges %}) where the path crosses the channels, to protect the edging and cut down on contamination.
 
 {% single_image path: assets/images/the-rain-garden/channel-finished.jpg alt: "Finished channel filled with rocks and small footbridge" %}
 
