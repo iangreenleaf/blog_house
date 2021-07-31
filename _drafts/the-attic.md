@@ -28,6 +28,11 @@ Despite missing a few obvious things, the attic was basically usable.
 You could walk on the subfloor, even if it wasn't all that nice, and the space got enough ambient heat from the rest of the house that it was a reasonable temperature most of the year.
 So after moving in, we threw down a couple beater rugs, moved up a chair that didn't have another home, and proceeded to use the half-finished attic for an embarrassingly long time.
 
+{% gallery %}
+{% gallery_image path: assets/images/the-attic/before-main.jpg alt: "Attic before being finished", caption: "The starting point. Theme: unrealized potential. Yes, that's glossy dark gray paint on the ceiling. No, we don't know why." %}
+{% gallery_image path: assets/images/the-attic/before-side.jpg alt: "Unfinished side room in attic with blue plush clown/dog thing", caption: "The short side space and porthole window. That's Pierre next to the window. We don't know where he came from but he found his way into our lives in 2009 and has been with us ever since." %}
+{% endgallery %}
+
 Eventually, though, it did rise to the top of our house priorities.
 Having the space fully finished would make it much more pleasant and welcoming, which would encourage us to use it more often and make it a place we could bring guests (we did put one visitor on an air mattress on the subfloor, sorry Sean).
 

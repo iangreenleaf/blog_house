@@ -13,6 +13,8 @@ The attic when we bought the house was, like many parts of the house, half-finis
 One of the several important components that were missing was a floor.
 It had a plywood subfloor in place that you could walk on, so it was marginally usable, but an actual floor was going to be an important piece in making the space feel truly finished.
 
+{% single_image path: assets/images/the-attic/before-main.jpg alt: "Attic with plywood subfloor", caption: "The plywood subfloor." %}
+
 In addition to being a basic utilitarian need, the floor had a central role to play in the attic.
 Due to the short ceilings and the kid/dog-centric nature of the space, we anticipated that a lot of time would be spent directly on the attic floor.
 We needed to figure out how to make it comfortable and durable to support that use case.
@@ -59,9 +61,9 @@ Better yet, it periodically goes on sale from the already-low base price.
 One of the colors was "Toasted Cinnamon", which went nicely with our planned paint colors and the attic in general.
 Costco doesn't have samples but does have a generous return policy, so I bought a single box of planks to bring home, we confirmed we liked the look, and then we waited for it to go on sale.
 Then I drove to Costco and bought a trunk's worth of boxes.
-The Costco cashiers, bless their hearts, don't even bat an eye when you roll up to checkout with a dolly of flooring almost too heavy to push and also a bag of pita chips.
+The Costco cashiers, bless their hearts, don't even bat an eye when you roll up to checkout with a dolly of flooring almost too heavy to push and also 5 pounds of garlic.
 
-TODO pic
+{% single_image path: assets/images/the-attic/before-main.jpg alt: "Costco dolly loaded with flooring boxes plus milk and a bag of garlic", caption: "This is how much laminate flooring it takes to cover one attic. Also their spinach artichoke dip is really good." %}
 
 In the end we got it for the ridiculously low price of TODO per square foot.
 My only complaint with this line is that they gouge you on the accessories.
