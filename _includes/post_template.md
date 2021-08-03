@@ -21,7 +21,7 @@ Don't forget this section at the end!
 
 {% summary cost %}
 {% subtotal_heading A section %}
-{% line_item Apples | $15 %}
+{% line_item Apples | 3@$5 | $15 %}
 {% line_item Oranges | $5 %}
 {% subtotal $20 %}
 {% line_item Delivery | $1 %}
