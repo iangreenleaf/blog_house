@@ -186,7 +186,7 @@ The quarter round just feels like a natural part of the floor and doesn't draw t
 
 It feels nice underfoot and has performed well so far. We can still hear the dog crashing around, but it's far better than it was with just the subfloor.
 So far we've had no damage and no reason to test the water resistance guarantee.
-We'll see how it looks after a kid or two grows up using it as a playroom, but it seems durable enough that I think it will probably be fine.
+We'll see how it looks after a kid or two (and a dog or two) grows up using it as a playroom, but it seems durable enough that I think it will probably be fine.
 We saved a couple extra boxes of planks, so if we did need to do a partial repair, it would be a nuisance but doable.
 
 Overall I'm happy with our decision to go with laminate and happy with how it turned out.
