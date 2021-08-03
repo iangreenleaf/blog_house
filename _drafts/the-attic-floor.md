@@ -65,11 +65,11 @@ The Costco cashiers, bless their hearts, don't even bat an eye when you roll up 
 
 {% single_image path: assets/images/the-attic/before-main.jpg alt: "Costco dolly loaded with flooring boxes plus milk and a bag of garlic", caption: "This is how much laminate flooring it takes to cover one attic. Also their spinach artichoke dip is really good." %}
 
-In the end we got it for the ridiculously low price of TODO per square foot.
+In the end we got it for the ridiculously low price of $1.60 per square foot.
 My only complaint with this line is that they gouge you on the accessories.
-A piece of threshold to cover the transitions to the bathroom and staircase was (TODO?) $60.
+A piece of threshold to cover the transitions to the bathroom and staircase was sixty bucks, which is just absurd.
 The matching quarter round for the edges was also overpriced, especially for MDF.
-Still, all minor gripes worth dealing with considering we paid TODO in materials, compared to TODO that we would have paid for brand-name.
+Still, all minor gripes worth dealing with considering we paid $700 in materials, compared to $1,000 or more that we would have paid for brand-name.
 
 ### Tools needed ###
 
@@ -201,11 +201,11 @@ And most of all, I'm happy with how little it cost and how relatively easy it wa
 {% endsummary %}
 
 {% summary cost %}
-{% line_item TODO Laminate flooring, "Cinnamon Oak" (on sale) | $TODO %}
+{% line_item Harmonics Laminate Flooring, "Toasted Cinnamon Oak", 300 sq. ft. | $32 per 20 sq. ft.  | $480 %}
 {% line_item Laminate floor installation kit | $20 %}
-{% line_item T-molding (? TODO) | $TODO %}
-{% line_item Quarter round, TODO | $TODO %}
-{% line_item Silicon caulk | $TODO %}
-{% line_item Foam fill stuff TODO | $TODO %}
-{% total $TODO %}
+{% line_item T-molding (enough for two thresholds) | $54 %}
+{% line_item Pre-stained hardwood quarter round, 8' sections | 10@$14.48 | $145 %}
+{% line_item Silicon caulk | ~$21 %}
+{% line_item Foam backer rod | ~$14 %}
+{% total $734 %}
 {% endsummary %}
