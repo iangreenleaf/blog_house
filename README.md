@@ -1,6 +1,6 @@
 # House Blog! #
 
-Find it at [https://house.youngram.com].
+Find it at [https://house.youngram.net].
 
 Runs on Jekyll and hacks.
 
