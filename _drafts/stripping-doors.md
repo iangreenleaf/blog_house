@@ -64,6 +64,8 @@ After [testing a bunch of chemical strippers](TODO), I settled on Citristrip and
 
 ##
 
+TODO: https://www.youtube.com/watch?v=FfhtgWF_ETY
+
 1. Remove hardware and plug the mortise holes with wads of paper towel.
 2. Apply a thick layer of stripper, cover with plastic film, and leave overnight.
 3. Using the plastic putty knife, scrape paint goop off the door. Using a second putty knife like the world's most vile Coldstone Creamery, transfer globs of paint residue to the waste bag.
